@@ -49,7 +49,7 @@ def get_latest_reel():
 def generate_caption(phrases, category, platform="facebook"):
     base = [f"Learn Hebrew with VELOCITY HEBREW!", "", f"Category: {category}", "", f"Master Hebrew one phrase at a time! Today's {category} lesson:", ""]
     for i, p in enumerate(phrases[:5], 0):
-        base.append(f"{{i+1}}. {p['english']}")
+        base.append(f"{i+1}. {p['english']}")
         base.append(f"   {p.get('hebrew', '')}")
         base.append(f"   [{p.get('transliteration', '')}]")
         base.append("")
