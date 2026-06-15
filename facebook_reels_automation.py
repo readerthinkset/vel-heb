@@ -470,6 +470,137 @@ def ensure_font():
     return None
 
 
+def _find_hebrew_font_file():
+    candidates = [
+        str(FONTS_DIR / "NotoSansHebrew-Bold.ttf"),
+        str(FONTS_DIR / "NotoSansHebrew-Regular.ttf"),
+        "/usr/share/fonts/truetype/noto/NotoSansHebrew-Bold.ttf",
+        "/usr/share/fonts/opentype/noto/NotoSansHebrew-Bold.ttc",
+        "C:/Windows/Fonts/Nirmala.ttc",
+        "C:/Windows/Fonts/Nirmala.ttf",
+        "C:/Windows/Fonts/gautami.ttf",
+        "C:/Windows/Fonts/mangal.ttf",
+    ]
+    for path in candidates:
+        if Path(path).exists():
+            return path
+    for search_dir in ["/usr/share/fonts", "/usr/local/share/fonts", "C:/Windows/Fonts"]:
+        if not Path(search_dir).exists():
+            continue
+        for root, dirs, files in os.walk(search_dir):
+            for fname in files:
+                fname_lower = fname.lower()
+                if any(t.lower() in fname_lower for t in ["notosanshebrew", "nirmala", "gautami", "mangal", "latha"]):
+                    return str(Path(root) / fname)
+    return None
+
+
+def _render_text_harfbuzz(text, font_path, font_size, fill_color, stroke_color=None, stroke_width=0):
+    import uharfbuzz as hb
+    import freetype as ft
+    from PIL import Image, ImageDraw, ImageChops
+
+    blob = hb.Blob.from_file_path(font_path)
+    hb_face = hb.Face(blob)
+    hb_font = hb.Font(hb_face)
+    hb_font.scale = (font_size * 64, font_size * 64)
+
+    buffer = hb.Buffer()
+    buffer.add_str(text)
+    buffer.guess_segment_properties()
+    hb.shape(hb_font, buffer)
+
+    infos = buffer.glyph_infos
+    positions = buffer.glyph_positions
+
+    ft_face = ft.Face(font_path)
+    ft_face.set_char_size(font_size * 64)
+
+    min_x = float('inf')
+    min_y = float('inf')
+    max_x = float('-inf')
+    max_y = float('-inf')
+
+    x_cursor = 0.0
+    y_cursor = 0.0
+    glyph_metrics = []
+
+    for info, pos in zip(infos, positions):
+        ft_face.load_glyph(info.codepoint)
+        bitmap = ft_face.glyph.bitmap
+        bitmap_left = ft_face.glyph.bitmap_left
+        bitmap_top = ft_face.glyph.bitmap_top
+        x_off = pos.x_offset / 64.0
+        y_off = pos.y_offset / 64.0
+        x_adv = pos.x_advance / 64.0
+
+        px = x_cursor + x_off + bitmap_left
+        py = y_cursor + y_off - bitmap_top
+
+        if bitmap.width > 0 and bitmap.rows > 0:
+            min_x = min(min_x, px - stroke_width)
+            min_y = min(min_y, py - stroke_width)
+            max_x = max(max_x, px + bitmap.width + stroke_width)
+            max_y = max(max_y, py + bitmap.rows + stroke_width)
+
+        glyph_metrics.append({
+            'codepoint': info.codepoint,
+            'x': px, 'y': py,
+            'width': bitmap.width, 'height': bitmap.rows,
+            'x_advance': x_adv,
+        })
+        x_cursor += x_adv
+
+    if min_x == float('inf'):
+        total_width = max(x_cursor, 50)
+        total_height = int(font_size * 1.5)
+        min_x = 0
+        min_y = 0
+    else:
+        total_width = max(max_x - min_x + stroke_width * 2, x_cursor + stroke_width * 2)
+        total_height = max_y - min_y + stroke_width * 2
+
+    total_width = int(total_width) + stroke_width * 2 + 4
+    total_height = int(total_height) + stroke_width * 2 + 4
+
+    img = Image.new('RGBA', (total_width, total_height), (0, 0, 0, 0))
+
+    def _draw_glyphs(target_img, color):
+        draw = ImageDraw.Draw(target_img)
+        for gm in glyph_metrics:
+            ft_face.load_glyph(gm['codepoint'])
+            bitmap = ft_face.glyph.bitmap
+            if bitmap.width > 0 and bitmap.rows > 0:
+                glyph_img = Image.frombytes('L', (bitmap.width, bitmap.rows), bytes(bitmap.buffer))
+                paste_x = int(gm['x'] - min_x + stroke_width)
+                paste_y = int(gm['y'] - min_y + stroke_width)
+                if color[-1] == 255:
+                    colored_glyph = Image.new('RGBA', glyph_img.size, color)
+                    colored_glyph.putalpha(glyph_img)
+                    target_img.paste(colored_glyph, (paste_x, paste_y), glyph_img)
+                else:
+                    blended = Image.new('RGBA', glyph_img.size, color)
+                    mask = glyph_img.point(lambda p: min(255, int(p * color[-1] / 255)))
+                    blended.putalpha(mask)
+                    target_img.paste(blended, (paste_x, paste_y), blended)
+
+    if stroke_width > 0 and stroke_color:
+        stroke_img = Image.new('RGBA', (total_width, total_height), (0, 0, 0, 0))
+        for dx in range(-stroke_width, stroke_width + 1):
+            for dy in range(-stroke_width, stroke_width + 1):
+                if dx * dx + dy * dy <= stroke_width * stroke_width + 1:
+                    shifted = Image.new('RGBA', (total_width, total_height), (0, 0, 0, 0))
+                    _draw_glyphs(shifted, stroke_color)
+                    stroke_img = Image.alpha_composite(stroke_img, ImageChops.offset(shifted, dx, dy))
+        img = Image.alpha_composite(img, stroke_img)
+
+    fill_img = Image.new('RGBA', (total_width, total_height), (0, 0, 0, 0))
+    _draw_glyphs(fill_img, fill_color)
+    img = Image.alpha_composite(img, fill_img)
+
+    return img, int(x_cursor)
+
+
 def create_impressive_background(category_english: str):
     from PIL import Image, ImageDraw
 
@@ -1409,9 +1540,9 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     trans_box_h = len(trans_lines) * trans_lh + trans_box_pad * 2 if trans_lines else 0
 
     gap_cat_en = 50
-    gap_en_nat = 35
-    gap_nat_trans = 30
-    gap_trans_prog = 25
+    gap_en_nat = 80
+    gap_nat_trans = 60
+    gap_trans_prog = 50
     gap_prog_brand = 40
     prog_bar_h = 30
 
@@ -1458,14 +1589,63 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy += en_box_h + gap_en_nat
 
     # Native phrase (below English)
+    heb_font_path = _find_hebrew_font_file()
+    use_harfbuzz = heb_font_path is not None
+    if use_harfbuzz:
+        try:
+            import uharfbuzz as hb
+            import freetype as ft
+        except ImportError:
+            use_harfbuzz = False
+            print("  [WARNING] uharfbuzz/freetype not available, falling back to Pillow")
+
     nat_margin = 70
     rounded_rect(draw, (nat_margin, cy, VIDEO_WIDTH - nat_margin, cy + nat_box_h), 24,
                  fill=(139, 0, 0, 220))
-    for i, line in enumerate(nat_lines):
-        ly = cy + nat_box_pad + i * nat_lh + nat_lh // 2
-        draw.text((VIDEO_WIDTH // 2, ly), line,
-                  fill=(255, 255, 200), font=nat_font, anchor="mm",
-                  stroke_width=2, stroke_fill=(60, 0, 0))
+
+    if use_harfbuzz:
+        max_heb_width = VIDEO_WIDTH - 200
+        heb_words = native.split(' ')
+        heb_lines = []
+        current_line_words = []
+
+        for word in heb_words:
+            test_line = ' '.join(current_line_words + [word]) if current_line_words else word
+            _, test_w = _render_text_harfbuzz(
+                test_line, heb_font_path, 65,
+                fill_color=(255, 255, 200, 255)
+            )
+            if test_w <= max_heb_width or not current_line_words:
+                current_line_words.append(word)
+            else:
+                heb_lines.append(' '.join(current_line_words))
+                current_line_words = [word]
+
+        if current_line_words:
+            heb_lines.append(' '.join(current_line_words))
+        if not heb_lines:
+            heb_lines = [native]
+
+        line_count = len(heb_lines)
+        total_text_height = line_count * nat_lh
+        start_y_offset = (nat_box_h - total_text_height) // 2
+
+        for i, line in enumerate(heb_lines):
+            rendered, text_w = _render_text_harfbuzz(
+                line, heb_font_path, 65,
+                fill_color=(255, 255, 200, 255),
+                stroke_color=(0, 0, 0, 255),
+                stroke_width=2
+            )
+            x_pos = (VIDEO_WIDTH - rendered.width) // 2
+            y_pos = cy + start_y_offset + i * nat_lh + (nat_lh - rendered.height) // 2
+            img.paste(rendered, (x_pos, y_pos), rendered)
+    else:
+        for i, line in enumerate(nat_lines):
+            ly = cy + nat_box_pad + i * nat_lh + nat_lh // 2
+            draw.text((VIDEO_WIDTH // 2, ly), line,
+                      fill=(255, 255, 200), font=nat_font, anchor="mm",
+                      stroke_width=2, stroke_fill=(60, 0, 0))
 
     cy += nat_box_h + gap_nat_trans
 
