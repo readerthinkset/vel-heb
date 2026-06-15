@@ -314,7 +314,42 @@
       "transliteration": "Chakeh l'rega ha'nachon.",
       "category": "Patience",
       "generated_at": "2026-06-15T21:56:11.175222"
+    },
+    {
+      "english": "Breathe in, breathe out, peace.",
+      "hebrew": "נשום פנימה, נשום החוצה, שלווה.",
+      "transliteration": "N'shom p'nima, n'shom hachutza, sh'leva.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-15T21:59:25.324478"
+    },
+    {
+      "english": "Quiet mind, happy heart.",
+      "hebrew": "מוח שקט, לב שמח.",
+      "transliteration": "Moach shaket, lev sameach.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-15T21:59:25.324487"
+    },
+    {
+      "english": "Be present, now is all.",
+      "hebrew": "היה נוכח, עכשיו זה הכל.",
+      "transliteration": "Hayeh nokeach, achshav zeh hakol.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-15T21:59:25.324493"
+    },
+    {
+      "english": "Let go, find calm.",
+      "hebrew": "שחרר, מצא רוגע.",
+      "transliteration": "Shachrer, metza roga.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-15T21:59:25.324494"
+    },
+    {
+      "english": "Stillness within, strength without.",
+      "hebrew": "שקט בפנים, כוח בחוץ.",
+      "transliteration": "Sheket bifnim, koach bachutz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-15T21:59:25.324495"
     }
   ],
-  "last_updated": "2026-06-15T21:56:11.175224"
+  "last_updated": "2026-06-15T21:59:25.324497"
 }
