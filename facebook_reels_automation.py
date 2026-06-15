@@ -456,40 +456,31 @@ FONTS_DIR = BASE_DIR / "fonts"
 
 def ensure_font():
     font_file = FONTS_DIR / "NotoSansHebrew-Bold.ttf"
-    FONTS_DIR.mkdir(exist_ok=True)
-
-    needs_download = True
     if font_file.exists():
+        return str(font_file)
+    FONTS_DIR.mkdir(exist_ok=True)
+    try:
+        import urllib.request
+        print(f"[font] Downloading {font_file.name}...")
+        urllib.request.urlretrieve(NOTO_FONT_URL, str(font_file))
+        print(f"[font] Downloaded: {font_file}")
         try:
             from fontTools.ttLib import TTFont
+            from fontTools.varLib.instancer import instantiateVariableFont, AxisLimits
             font = TTFont(str(font_file))
-            if 'fvar' not in font:
-                needs_download = False
-        except Exception:
-            pass
-
-    if needs_download:
-        try:
-            import urllib.request
-            print(f"[font] Downloading {font_file.name}...")
-            urllib.request.urlretrieve(NOTO_FONT_URL, str(font_file))
-            print(f"[font] Downloaded: {font_file}")
-            try:
-                from fontTools.ttLib import TTFont
-                from fontTools.varLib.instancer import instantiateVariableFont, AxisLimits
-                font = TTFont(str(font_file))
-                if 'fvar' in font:
-                    for axis in font['fvar'].axes:
-                        if axis.axisTag == 'wght':
-                            font2 = TTFont(str(font_file))
-                            instantiateVariableFont(font2, AxisLimits({"wght": (700, 700)}), inplace=True)
-                            font2.save(str(font_file))
-                            print(f"[font] Converted variable font to Bold (wght=700)")
-                            break
-            except Exception as e:
-                print(f"[font] Font conversion skipped: {e}")
+            if 'fvar' in font:
+                has_wght = any(a.axisTag == 'wght' for a in font['fvar'].axes)
+                if has_wght:
+                    font2 = TTFont(str(font_file))
+                    instantiateVariableFont(font2, AxisLimits({"wght": (700, 700)}), inplace=True)
+                    for tag in ['fvar','avar','cvar','gvar','STAT','HVAR','VVAR','MVAR']:
+                        if tag in font2: del font2[tag]
+                    font2.save(str(font_file))
+                    print(f"[font] Converted to Bold (wght=700)")
         except Exception as e:
-            print(f"[font] Download failed: {e}")
+            print(f"[font] Font conversion note: {e}")
+    except Exception as e:
+        print(f"[font] Download failed: {e}")
 
     if font_file.exists():
         return str(font_file)
@@ -530,12 +521,6 @@ def _render_text_harfbuzz(text, font_path, font_size, fill_color, stroke_color=N
     hb_face = hb.Face(blob)
     hb_font = hb.Font(hb_face)
     hb_font.scale = (font_size * 64, font_size * 64)
-    try:
-        for axis in hb_face.axis_infos:
-            if axis.tag == 'wght':
-                hb_font.set_variation('wght', 700.0)
-    except Exception:
-        pass
 
     buffer = hb.Buffer()
     buffer.add_str(text)
