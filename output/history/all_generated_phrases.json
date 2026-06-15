@@ -69,7 +69,42 @@
       "transliteration": "Eizo haftaa nechimda, wow!",
       "category": "Joy",
       "generated_at": "2026-06-15T20:41:12.644873"
+    },
+    {
+      "english": "Breathe in, breathe out.",
+      "hebrew": "קח נשימה, נשוף.",
+      "transliteration": "Kach neshima, nashof.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-15T20:50:03.275988"
+    },
+    {
+      "english": "Be here, now.",
+      "hebrew": "היה כאן, עכשיו.",
+      "transliteration": "Hihyeh kan, achshav.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-15T20:50:03.275995"
+    },
+    {
+      "english": "Listen to your heart.",
+      "hebrew": "הקשב ללב שלך.",
+      "transliteration": "Hakshav lelev shelcha.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-15T20:50:03.275996"
+    },
+    {
+      "english": "Feel the ground beneath.",
+      "hebrew": "הרגיש את האדמה מתחת.",
+      "transliteration": "Hargeesh et ha'adama mitachat.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-15T20:50:03.275998"
+    },
+    {
+      "english": "Peace begins with me.",
+      "hebrew": "שלום מתחיל איתי.",
+      "transliteration": "Shalom matchil itay.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-15T20:50:03.275999"
     }
   ],
-  "last_updated": "2026-06-15T20:41:12.644874"
+  "last_updated": "2026-06-15T20:50:03.276001"
 }
