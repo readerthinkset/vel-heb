@@ -209,7 +209,42 @@
       "transliteration": "Regashot tov'im, yilchu acharecha.",
       "category": "Happiness",
       "generated_at": "2026-06-15T21:32:40.916318"
+    },
+    {
+      "english": "You are my sunshine, my only joy.",
+      "hebrew": "אתה האור שלי, שמחתי היחידה.",
+      "transliteration": "Ata ha'or sheli, simchati hayechida.",
+      "category": "Love",
+      "generated_at": "2026-06-15T21:38:48.915034"
+    },
+    {
+      "english": "My heart beats, only for you.",
+      "hebrew": "ליבי פועם, רק בשבילך.",
+      "transliteration": "Libi po'em, rak bishvilcha.",
+      "category": "Love",
+      "generated_at": "2026-06-15T21:38:48.915039"
+    },
+    {
+      "english": "I dream of you, every night.",
+      "hebrew": "אני חולם/חולמת עליך, כל לילה.",
+      "transliteration": "Ani cholem/cholemet alecha, kol laila.",
+      "category": "Love",
+      "generated_at": "2026-06-15T21:38:48.915041"
+    },
+    {
+      "english": "With you, life is beautiful.",
+      "hebrew": "איתך, החיים יפים.",
+      "transliteration": "Itcha, hachayim yafim.",
+      "category": "Love",
+      "generated_at": "2026-06-15T21:38:48.915043"
+    },
+    {
+      "english": "Your smile, melts my heart.",
+      "hebrew": "החיוך שלך, ממיס את ליבי.",
+      "transliteration": "Hachiyuch shelcha, memis et libi.",
+      "category": "Love",
+      "generated_at": "2026-06-15T21:38:48.915044"
     }
   ],
-  "last_updated": "2026-06-15T21:32:40.916320"
+  "last_updated": "2026-06-15T21:38:48.915045"
 }
