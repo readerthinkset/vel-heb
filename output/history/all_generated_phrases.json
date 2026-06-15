@@ -244,7 +244,42 @@
       "transliteration": "Hachiyuch shelcha, memis et libi.",
       "category": "Love",
       "generated_at": "2026-06-15T21:38:48.915044"
+    },
+    {
+      "english": "Where is, the train station?",
+      "hebrew": "איפה, תחנת הרכבת?",
+      "transliteration": "Eifo, tachanat ha'rakevet?",
+      "category": "Travel",
+      "generated_at": "2026-06-15T21:45:48.695224"
+    },
+    {
+      "english": "How much, does this cost?",
+      "hebrew": "כמה, עולה הדבר הזה?",
+      "transliteration": "Kama, oleh hadavar hazeh?",
+      "category": "Travel",
+      "generated_at": "2026-06-15T21:45:48.695235"
+    },
+    {
+      "english": "Can you help, me please?",
+      "hebrew": "את/ה יכול/ה לעזור, לי בבקשה?",
+      "transliteration": "At/a yachol/a la'azor, li bevakasha?",
+      "category": "Travel",
+      "generated_at": "2026-06-15T21:45:48.695237"
+    },
+    {
+      "english": "I need, a taxi, please.",
+      "hebrew": "אני צריך/ה, מונית, בבקשה.",
+      "transliteration": "Ani tzarich/a, monit, bevakasha.",
+      "category": "Travel",
+      "generated_at": "2026-06-15T21:45:48.695238"
+    },
+    {
+      "english": "What time, does it open?",
+      "hebrew": "באיזו שעה, זה נפתח?",
+      "transliteration": "Be'eizo sha'a, zeh niftach?",
+      "category": "Travel",
+      "generated_at": "2026-06-15T21:45:48.695239"
     }
   ],
-  "last_updated": "2026-06-15T21:38:48.915045"
+  "last_updated": "2026-06-15T21:45:48.695241"
 }
