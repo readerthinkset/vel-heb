@@ -60,12 +60,6 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y ffmpeg fonts-noto fonts-noto-cjk fonts-noto-core fonts-noto-extra
-          # Install Hebrew font specifically for proper Hebrew script rendering
-          FONT_DIR="/usr/share/fonts/truetype/noto"
-          sudo mkdir -p "$FONT_DIR"
-          sudo curl -L -o "$FONT_DIR/NotoSansHebrew-Bold.ttf" "https://github.com/google/fonts/raw/main/ofl/notosanshebrew/NotoSansHebrew%5Bwdth%2Cwght%5D.ttf" || true
-          fc-cache -f
-          echo "System dependencies and Hebrew font installed"
 
       - name: Install Python dependencies
         run: |
