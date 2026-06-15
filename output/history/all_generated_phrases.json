@@ -279,7 +279,42 @@
       "transliteration": "Be'eizo sha'a, zeh niftach?",
       "category": "Travel",
       "generated_at": "2026-06-15T21:45:48.695239"
+    },
+    {
+      "english": "Slow and steady, wins.",
+      "hebrew": "לאט, ובטוח.",
+      "transliteration": "Le'at, uvatuach.",
+      "category": "Patience",
+      "generated_at": "2026-06-15T21:56:11.175187"
+    },
+    {
+      "english": "Good things, take time.",
+      "hebrew": "דברים טובים, לוקחים זמן.",
+      "transliteration": "D'varim tovim, lokchim zman.",
+      "category": "Patience",
+      "generated_at": "2026-06-15T21:56:11.175217"
+    },
+    {
+      "english": "Keep trying, don't give up.",
+      "hebrew": "תמשיך לנסות, אל תוותר.",
+      "transliteration": "Tamshich lin'sot, al'i'tevater.",
+      "category": "Patience",
+      "generated_at": "2026-06-15T21:56:11.175219"
+    },
+    {
+      "english": "Rome wasn't built, in a day.",
+      "hebrew": "רומא לא נבנתה, ביום אחד.",
+      "transliteration": "Roma lo nivnetah, beyom echad.",
+      "category": "Patience",
+      "generated_at": "2026-06-15T21:56:11.175220"
+    },
+    {
+      "english": "Wait for the right moment.",
+      "hebrew": "חכה לרגע הנכון.",
+      "transliteration": "Chakeh l'rega ha'nachon.",
+      "category": "Patience",
+      "generated_at": "2026-06-15T21:56:11.175222"
     }
   ],
-  "last_updated": "2026-06-15T21:45:48.695241"
+  "last_updated": "2026-06-15T21:56:11.175224"
 }
