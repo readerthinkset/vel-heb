@@ -456,31 +456,43 @@ FONTS_DIR = BASE_DIR / "fonts"
 
 def ensure_font():
     font_file = FONTS_DIR / "NotoSansHebrew-Bold.ttf"
-    if font_file.exists():
-        return str(font_file)
     FONTS_DIR.mkdir(exist_ok=True)
-    try:
-        import urllib.request
-        print(f"[font] Downloading {font_file.name}...")
-        urllib.request.urlretrieve(NOTO_FONT_URL, str(font_file))
-        print(f"[font] Downloaded: {font_file}")
+
+    needs_download = True
+    if font_file.exists():
         try:
             from fontTools.ttLib import TTFont
-            from fontTools.varLib.instancer import instantiateVariableFont, AxisLimits
             font = TTFont(str(font_file))
-            if 'fvar' in font:
-                for axis in font['fvar'].axes:
-                    if axis.axisTag == 'wght':
-                        font2 = TTFont(str(font_file))
-                        instantiateVariableFont(font2, AxisLimits({"wght": (700, 700)}), inplace=True)
-                        font2.save(str(font_file))
-                        print(f"[font] Converted variable font to Bold (wght=700)")
-                        break
+            if 'fvar' not in font:
+                needs_download = False
+        except Exception:
+            pass
+
+    if needs_download:
+        try:
+            import urllib.request
+            print(f"[font] Downloading {font_file.name}...")
+            urllib.request.urlretrieve(NOTO_FONT_URL, str(font_file))
+            print(f"[font] Downloaded: {font_file}")
+            try:
+                from fontTools.ttLib import TTFont
+                from fontTools.varLib.instancer import instantiateVariableFont, AxisLimits
+                font = TTFont(str(font_file))
+                if 'fvar' in font:
+                    for axis in font['fvar'].axes:
+                        if axis.axisTag == 'wght':
+                            font2 = TTFont(str(font_file))
+                            instantiateVariableFont(font2, AxisLimits({"wght": (700, 700)}), inplace=True)
+                            font2.save(str(font_file))
+                            print(f"[font] Converted variable font to Bold (wght=700)")
+                            break
+            except Exception as e:
+                print(f"[font] Font conversion skipped: {e}")
         except Exception as e:
-            print(f"[font] Font conversion skipped: {e}")
+            print(f"[font] Download failed: {e}")
+
+    if font_file.exists():
         return str(font_file)
-    except Exception as e:
-        print(f"[font] Download failed: {e}")
     return None
 
 
