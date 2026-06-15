@@ -104,7 +104,42 @@
       "transliteration": "Shalom matchil itay.",
       "category": "Mindfulness",
       "generated_at": "2026-06-15T20:50:03.275999"
+    },
+    {
+      "english": "Speak slowly, listen well.",
+      "hebrew": "דבר לאט, הקשב היטב.",
+      "transliteration": "Daber le'at, hashev heitev.",
+      "category": "Success",
+      "generated_at": "2026-06-15T20:55:45.299898"
+    },
+    {
+      "english": "Every word, a small step.",
+      "hebrew": "כל מילה, צעד קטן.",
+      "transliteration": "Kol milah, tza'ad katan.",
+      "category": "Success",
+      "generated_at": "2026-06-15T20:55:45.299906"
+    },
+    {
+      "english": "Practice makes, fluency grow.",
+      "hebrew": "תרגול עושה, שוטף גדל.",
+      "transliteration": "Tirgul oseh, shotef gadel.",
+      "category": "Success",
+      "generated_at": "2026-06-15T20:55:45.299911"
+    },
+    {
+      "english": "You are learning, keep going.",
+      "hebrew": "אתה לומד, המשך כך.",
+      "transliteration": "Atah lomed, hamshech kach.",
+      "category": "Success",
+      "generated_at": "2026-06-15T20:55:45.299912"
+    },
+    {
+      "english": "Understand more, speak more.",
+      "hebrew": "הבן יותר, דבר יותר.",
+      "transliteration": "Havan yoter, daber yoter.",
+      "category": "Success",
+      "generated_at": "2026-06-15T20:55:45.299913"
     }
   ],
-  "last_updated": "2026-06-15T20:50:03.276001"
+  "last_updated": "2026-06-15T20:55:45.299915"
 }
