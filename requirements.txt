@@ -5,3 +5,4 @@ edge-tts>=6.1.0
 pydub>=0.25.1
 uharfbuzz>=0.39.0
 freetype-py>=2.5.0
+fonttools>=4.0.0

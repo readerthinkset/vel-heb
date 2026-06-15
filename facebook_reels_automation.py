@@ -464,6 +464,20 @@ def ensure_font():
         print(f"[font] Downloading {font_file.name}...")
         urllib.request.urlretrieve(NOTO_FONT_URL, str(font_file))
         print(f"[font] Downloaded: {font_file}")
+        try:
+            from fontTools.ttLib import TTFont
+            from fontTools.varLib.instancer import instantiateVariableFont, AxisLimits
+            font = TTFont(str(font_file))
+            if 'fvar' in font:
+                for axis in font['fvar'].axes:
+                    if axis.axisTag == 'wght':
+                        font2 = TTFont(str(font_file))
+                        instantiateVariableFont(font2, AxisLimits({"wght": (700, 700)}), inplace=True)
+                        font2.save(str(font_file))
+                        print(f"[font] Converted variable font to Bold (wght=700)")
+                        break
+        except Exception as e:
+            print(f"[font] Font conversion skipped: {e}")
         return str(font_file)
     except Exception as e:
         print(f"[font] Download failed: {e}")
