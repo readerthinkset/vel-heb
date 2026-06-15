@@ -504,6 +504,12 @@ def _render_text_harfbuzz(text, font_path, font_size, fill_color, stroke_color=N
     hb_face = hb.Face(blob)
     hb_font = hb.Font(hb_face)
     hb_font.scale = (font_size * 64, font_size * 64)
+    try:
+        for axis in hb_face.axis_infos:
+            if axis.tag == 'wght':
+                hb_font.set_variation('wght', 700.0)
+    except Exception:
+        pass
 
     buffer = hb.Buffer()
     buffer.add_str(text)
