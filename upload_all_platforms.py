@@ -76,10 +76,18 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None):
                     r = func(video_path=video_path, title=yt_title, description=yt_desc, tags=yt_tags, category_id='22')
                 elif pname == "vk":
                     r = func(video_path=video_path, description=caption, title=f"Hebrew: {category}")
-                elif pname in ("telegram", "twitter", "threads", "tiktok"):
-                    r = func(video_path=video_path, caption=caption if pname != "threads" else None, text=caption if pname == "threads" else None, description=caption if pname in ("tiktok", "twitter") else None)
-                else:
-                    r = func(video_path=video_path, caption=caption, description=caption, title=f"Hebrew: {category}", is_story=False)
+                elif pname == "facebook":
+                    r = func(video_path=video_path, description=caption, title=f"Hebrew: {category}")
+                elif pname == "instagram":
+                    r = func(video_path=video_path, caption=caption, is_story=False)
+                elif pname == "telegram":
+                    r = func(video_path=video_path, caption=caption)
+                elif pname == "twitter":
+                    r = func(video_path=video_path, caption=caption)
+                elif pname == "threads":
+                    r = func(video_path=video_path, text=caption)
+                elif pname == "tiktok":
+                    r = func(video_path=video_path, description=caption)
                 if r:
                     results["uploads"][pname] = r
                     results["platforms_successful"].append(pname)
