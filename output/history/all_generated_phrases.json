@@ -349,7 +349,42 @@
       "transliteration": "Sheket bifnim, koach bachutz.",
       "category": "Inner Peace",
       "generated_at": "2026-06-15T21:59:25.324495"
+    },
+    {
+      "english": "Later, maybe today.",
+      "hebrew": "אחר כך, אולי היום.",
+      "transliteration": "Achar kach, ulai hayom.",
+      "category": "Time",
+      "generated_at": "2026-06-15T22:18:53.732060"
+    },
+    {
+      "english": "Now, or never.",
+      "hebrew": "עכשיו, או לעולם לא.",
+      "transliteration": "Achshav, o leolam lo.",
+      "category": "Time",
+      "generated_at": "2026-06-15T22:18:53.732071"
+    },
+    {
+      "english": "Soon, very soon.",
+      "hebrew": "בקרוב, ממש בקרוב.",
+      "transliteration": "Bekarov, mamash bekarov.",
+      "category": "Time",
+      "generated_at": "2026-06-15T22:18:53.732073"
+    },
+    {
+      "english": "On time, always.",
+      "hebrew": "בזמן, תמיד.",
+      "transliteration": "Bizman, tamid.",
+      "category": "Time",
+      "generated_at": "2026-06-15T22:18:53.732074"
+    },
+    {
+      "english": "Once, a long time ago.",
+      "hebrew": "פעם, לפני הרבה זמן.",
+      "transliteration": "Pa'am, lefanai harbeh zman.",
+      "category": "Time",
+      "generated_at": "2026-06-15T22:18:53.732075"
     }
   ],
-  "last_updated": "2026-06-15T21:59:25.324497"
+  "last_updated": "2026-06-15T22:18:53.732077"
 }
