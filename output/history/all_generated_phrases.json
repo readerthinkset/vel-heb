@@ -139,7 +139,42 @@
       "transliteration": "Havan yoter, daber yoter.",
       "category": "Success",
       "generated_at": "2026-06-15T20:55:45.299913"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "hebrew": "לומדים קצת, כל יום.",
+      "transliteration": "Lomdim ktzat, kol yom.",
+      "category": "Growth",
+      "generated_at": "2026-06-15T21:24:50.481319"
+    },
+    {
+      "english": "Mistakes are lessons, embrace them.",
+      "hebrew": "טעויות הן שיעורים, קבלו אותן.",
+      "transliteration": "Ta'uyot hen shi'urim, kablu otan.",
+      "category": "Growth",
+      "generated_at": "2026-06-15T21:24:50.481328"
+    },
+    {
+      "english": "Listen more, speak less.",
+      "hebrew": "מקשיבים יותר, מדברים פחות.",
+      "transliteration": "Makshivim yoter, medabrim pachot.",
+      "category": "Growth",
+      "generated_at": "2026-06-15T21:24:50.481330"
+    },
+    {
+      "english": "Ask questions, find answers.",
+      "hebrew": "שואלים שאלות, מוצאים תשובות.",
+      "transliteration": "Sho'alim she'elot, motz'im t'shuvot.",
+      "category": "Growth",
+      "generated_at": "2026-06-15T21:24:50.481331"
+    },
+    {
+      "english": "Be patient, grow strong.",
+      "hebrew": "היו סבלניים, גדלו חזק.",
+      "transliteration": "Hiyu savlanim, gidlu chazak.",
+      "category": "Growth",
+      "generated_at": "2026-06-15T21:24:50.481332"
     }
   ],
-  "last_updated": "2026-06-15T20:55:45.299915"
+  "last_updated": "2026-06-15T21:24:50.481334"
 }
