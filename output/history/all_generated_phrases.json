@@ -419,7 +419,42 @@
       "transliteration": "nashom amok, tirega achshav.",
       "category": "Positive Life",
       "generated_at": "2026-06-16T05:19:05.586881"
+    },
+    {
+      "english": "Learn, grow, and connect.",
+      "hebrew": "למד, צמח, והתחבר.",
+      "transliteration": "L'mad, tzemach, v'hitchaber.",
+      "category": "Purpose",
+      "generated_at": "2026-06-16T16:19:44.711384"
+    },
+    {
+      "english": "Speak clearly, listen well.",
+      "hebrew": "דבר ברור, הקשב טוב.",
+      "transliteration": "Daber barur, hak'shev tov.",
+      "category": "Purpose",
+      "generated_at": "2026-06-16T16:19:44.711394"
+    },
+    {
+      "english": "Explore, discover, understand.",
+      "hebrew": "חקור, גלה, הבן.",
+      "transliteration": "Chakor, g'leh, havan.",
+      "category": "Purpose",
+      "generated_at": "2026-06-16T16:19:44.711395"
+    },
+    {
+      "english": "Read, write, and converse.",
+      "hebrew": "קרא, כתוב, ודבר.",
+      "transliteration": "K'ra, k'tov, v'daber.",
+      "category": "Purpose",
+      "generated_at": "2026-06-16T16:19:44.711396"
+    },
+    {
+      "english": "Think deeply, act bravely.",
+      "hebrew": "חשוב עמוק, פעל באומץ.",
+      "transliteration": "Chashov amok, pa'al b'ometz.",
+      "category": "Purpose",
+      "generated_at": "2026-06-16T16:19:44.711396"
     }
   ],
-  "last_updated": "2026-06-16T05:19:05.586883"
+  "last_updated": "2026-06-16T16:19:44.711397"
 }
