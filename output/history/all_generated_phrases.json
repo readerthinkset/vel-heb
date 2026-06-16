@@ -489,7 +489,42 @@
       "transliteration": "eich avar ha'yom shelcha?",
       "category": "Common Expressions",
       "generated_at": "2026-06-16T18:25:23.322064"
+    },
+    {
+      "english": "How much is this?, please?",
+      "hebrew": "כמה זה עולה, בבקשה?",
+      "transliteration": "Kama ze ole, bevakasha?",
+      "category": "Shopping",
+      "generated_at": "2026-06-16T20:04:37.445448"
+    },
+    {
+      "english": "I'm just looking, thanks.",
+      "hebrew": "אני רק מסתכל/ת, תודה.",
+      "transliteration": "Ani rak mistakel/et, toda.",
+      "category": "Shopping",
+      "generated_at": "2026-06-16T20:04:37.445457"
+    },
+    {
+      "english": "Do you have this, in blue?",
+      "hebrew": "יש לך את זה, בכחול?",
+      "transliteration": "Yesh lecha et ze, be'kachol?",
+      "category": "Shopping",
+      "generated_at": "2026-06-16T20:04:37.445459"
+    },
+    {
+      "english": "Where can I find, the fitting rooms?",
+      "hebrew": "איפה אפשר למצוא, את תאי המדידה?",
+      "transliteration": "Eifo efshar limtzo, et te'ei hamadida?",
+      "category": "Shopping",
+      "generated_at": "2026-06-16T20:04:37.445460"
+    },
+    {
+      "english": "Can I try this on?, please?",
+      "hebrew": "אפשר למדוד את זה, בבקשה?",
+      "transliteration": "Efshar limdod et ze, bevakasha?",
+      "category": "Shopping",
+      "generated_at": "2026-06-16T20:04:37.445461"
     }
   ],
-  "last_updated": "2026-06-16T18:25:23.322065"
+  "last_updated": "2026-06-16T20:04:37.445463"
 }
