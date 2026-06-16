@@ -454,7 +454,42 @@
       "transliteration": "Chashov amok, pa'al b'ometz.",
       "category": "Purpose",
       "generated_at": "2026-06-16T16:19:44.711396"
+    },
+    {
+      "english": "Take it easy, friend.",
+      "hebrew": "לך ברוגע, חבר.",
+      "transliteration": "lech b'roge, chaver.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-16T18:25:23.322051"
+    },
+    {
+      "english": "What's the plan, then?",
+      "hebrew": "מה התוכנית, אם כך?",
+      "transliteration": "ma ha'tochnit, im kach?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-16T18:25:23.322060"
+    },
+    {
+      "english": "Let's go, it's late.",
+      "hebrew": "בוא נלך, כבר מאוחר.",
+      "transliteration": "bo nelech, kvar me'uchar.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-16T18:25:23.322062"
+    },
+    {
+      "english": "Don't worry, I got this.",
+      "hebrew": "אל תדאג, אני מטפל.",
+      "transliteration": "al tid'ag, ani metapel.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-16T18:25:23.322063"
+    },
+    {
+      "english": "How was your day?",
+      "hebrew": "איך עבר היום שלך?",
+      "transliteration": "eich avar ha'yom shelcha?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-16T18:25:23.322064"
     }
   ],
-  "last_updated": "2026-06-16T16:19:44.711397"
+  "last_updated": "2026-06-16T18:25:23.322065"
 }
