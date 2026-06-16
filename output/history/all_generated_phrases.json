@@ -384,7 +384,42 @@
       "transliteration": "Pa'am, lefanai harbeh zman.",
       "category": "Time",
       "generated_at": "2026-06-15T22:18:53.732075"
+    },
+    {
+      "english": "Be kind, always.",
+      "hebrew": "היה טוב, תמיד.",
+      "transliteration": "heyeh tov, tamid.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-16T05:19:05.586866"
+    },
+    {
+      "english": "Listen more, talk less.",
+      "hebrew": "תקשיב יותר, דבר פחות.",
+      "transliteration": "takshiv yoter, daber pachot.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-16T05:19:05.586877"
+    },
+    {
+      "english": "Learn something new, daily.",
+      "hebrew": "למד משהו חדש, כל יום.",
+      "transliteration": "lemad mashehu chadash, kol yom.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-16T05:19:05.586879"
+    },
+    {
+      "english": "Choose joy, today.",
+      "hebrew": "בחר שמחה, היום.",
+      "transliteration": "bachar simcha, hayom.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-16T05:19:05.586880"
+    },
+    {
+      "english": "Breathe deep, relax now.",
+      "hebrew": "נשום עמוק, תירגע עכשיו.",
+      "transliteration": "nashom amok, tirega achshav.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-16T05:19:05.586881"
     }
   ],
-  "last_updated": "2026-06-15T22:18:53.732077"
+  "last_updated": "2026-06-16T05:19:05.586883"
 }
