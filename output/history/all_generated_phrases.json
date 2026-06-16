@@ -524,7 +524,42 @@
       "transliteration": "Efshar limdod et ze, bevakasha?",
       "category": "Shopping",
       "generated_at": "2026-06-16T20:04:37.445461"
+    },
+    {
+      "english": "Speak clearly, be understood.",
+      "hebrew": "דבר ברור, תובן.",
+      "transliteration": "Daber barur, tuchan.",
+      "category": "Confidence",
+      "generated_at": "2026-06-16T22:19:42.665818"
+    },
+    {
+      "english": "Listen well, learn more.",
+      "hebrew": "הקשב היטב, למד יותר.",
+      "transliteration": "Hakshev heitev, lemed yoter.",
+      "category": "Confidence",
+      "generated_at": "2026-06-16T22:19:42.665828"
+    },
+    {
+      "english": "Try again, you can do it.",
+      "hebrew": "נסה שוב, אתה יכול.",
+      "transliteration": "Naseh shuv, ata yachol.",
+      "category": "Confidence",
+      "generated_at": "2026-06-16T22:19:42.665831"
+    },
+    {
+      "english": "Progress is progress, celebrate it.",
+      "hebrew": "התקדמות היא התקדמות, חגוג זאת.",
+      "transliteration": "Hitkadmut hi hitkadmut, chagog zot.",
+      "category": "Confidence",
+      "generated_at": "2026-06-16T22:19:42.665833"
+    },
+    {
+      "english": "Every word, a step forward.",
+      "hebrew": "כל מילה, צעד קדימה.",
+      "transliteration": "Kol milah, tza'ad kadimah.",
+      "category": "Confidence",
+      "generated_at": "2026-06-16T22:19:42.665834"
     }
   ],
-  "last_updated": "2026-06-16T20:04:37.445463"
+  "last_updated": "2026-06-16T22:19:42.665835"
 }
