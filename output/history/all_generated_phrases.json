@@ -664,7 +664,42 @@
       "transliteration": "Amud zakuf, v'hyeh ge'eh.",
       "category": "Strength",
       "generated_at": "2026-06-17T16:51:16.411289"
+    },
+    {
+      "english": "My mother, she is kind.",
+      "hebrew": "אמא שלי, היא נחמדה.",
+      "transliteration": "Ima sheli, hi nechmada.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-17T19:17:31.513992"
+    },
+    {
+      "english": "My father, he works hard.",
+      "hebrew": "אבא שלי, הוא עובד קשה.",
+      "transliteration": "Abba sheli, hu oved kasheh.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-17T19:17:31.514003"
+    },
+    {
+      "english": "My sister, she sings well.",
+      "hebrew": "אחותי, היא שרה יפה.",
+      "transliteration": "Achoti, hi shara yafeh.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-17T19:17:31.514005"
+    },
+    {
+      "english": "My brother, he is funny.",
+      "hebrew": "אחי, הוא מצחיק.",
+      "transliteration": "Achi, hu matzchik.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-17T19:17:31.514006"
+    },
+    {
+      "english": "My son, he loves to play.",
+      "hebrew": "הבן שלי, הוא אוהב לשחק.",
+      "transliteration": "Ha-ben sheli, hu ohev lesachek.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-17T19:17:31.514007"
     }
   ],
-  "last_updated": "2026-06-17T16:51:16.411291"
+  "last_updated": "2026-06-17T19:17:31.514009"
 }
