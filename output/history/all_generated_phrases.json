@@ -594,7 +594,42 @@
       "transliteration": "Asé ta'uyót, l'mád ma'hér.",
       "category": "Inspiration",
       "generated_at": "2026-06-17T04:58:45.675017"
+    },
+    {
+      "english": "Work hard, rest well.",
+      "hebrew": "עבוד קשה, לנוח היטב.",
+      "transliteration": "Avod kashe, lanuach hetev.",
+      "category": "Balance",
+      "generated_at": "2026-06-17T14:47:44.080116"
+    },
+    {
+      "english": "Speak truth, listen close.",
+      "hebrew": "דבר אמת, הקשב היטב.",
+      "transliteration": "Daber emet, hak'shev hetev.",
+      "category": "Balance",
+      "generated_at": "2026-06-17T14:47:44.080124"
+    },
+    {
+      "english": "Give generously, receive thankfully.",
+      "hebrew": "תן בנדיבות, קבל בתודה.",
+      "transliteration": "Ten benedivut, k'bel betoda.",
+      "category": "Balance",
+      "generated_at": "2026-06-17T14:47:44.080126"
+    },
+    {
+      "english": "Learn always, grow daily.",
+      "hebrew": "למד תמיד, גדל כל יום.",
+      "transliteration": "L'mad tamid, g'del kol yom.",
+      "category": "Balance",
+      "generated_at": "2026-06-17T14:47:44.080127"
+    },
+    {
+      "english": "Think deep, act fast.",
+      "hebrew": "חשוב עמוק, פעל מהר.",
+      "transliteration": "Chashov amok, pa'al maher.",
+      "category": "Balance",
+      "generated_at": "2026-06-17T14:47:44.080128"
     }
   ],
-  "last_updated": "2026-06-17T04:58:45.675019"
+  "last_updated": "2026-06-17T14:47:44.080130"
 }
