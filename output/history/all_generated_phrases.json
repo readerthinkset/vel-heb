@@ -839,7 +839,42 @@
       "transliteration": "Lo, ani lo yodea.",
       "category": "Basic Phrases",
       "generated_at": "2026-06-18T16:56:21.112913"
+    },
+    {
+      "english": "We've known each other forever.",
+      "hebrew": "אנחנו מכירים לנצח.",
+      "transliteration": "Anachnu makirim le'netzach.",
+      "category": "Friendship",
+      "generated_at": "2026-06-18T19:24:02.213268"
+    },
+    {
+      "english": "You're the best, truly.",
+      "hebrew": "אתה הכי טוב, באמת.",
+      "transliteration": "Ata ha'chi tov, be'emet.",
+      "category": "Friendship",
+      "generated_at": "2026-06-18T19:24:02.213279"
+    },
+    {
+      "english": "Miss you, my friend.",
+      "hebrew": "מתגעגע אליך, חבר שלי.",
+      "transliteration": "Mitga'agea elecha, chaver sheli.",
+      "category": "Friendship",
+      "generated_at": "2026-06-18T19:24:02.213280"
+    },
+    {
+      "english": "Always got your back.",
+      "hebrew": "תמיד עומד מאחוריך.",
+      "transliteration": "Tamid omed me'achorecha.",
+      "category": "Friendship",
+      "generated_at": "2026-06-18T19:24:02.213282"
+    },
+    {
+      "english": "Let's make more memories.",
+      "hebrew": "בוא ניצור עוד זכרונות.",
+      "transliteration": "Bo nitzor od zikronot.",
+      "category": "Friendship",
+      "generated_at": "2026-06-18T19:24:02.213283"
     }
   ],
-  "last_updated": "2026-06-18T16:56:21.112915"
+  "last_updated": "2026-06-18T19:24:02.213285"
 }
