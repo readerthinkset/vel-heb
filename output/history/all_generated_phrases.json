@@ -804,7 +804,42 @@
       "transliteration": "Ha'hitkadmut shelachem, madhima.",
       "category": "Motivation",
       "generated_at": "2026-06-18T14:41:11.646302"
+    },
+    {
+      "english": "Hello there, how are you?",
+      "hebrew": "שלום, מה שלומך?",
+      "transliteration": "Shalom, ma shlomcha?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T16:56:21.112901"
+    },
+    {
+      "english": "Thank you, it's good.",
+      "hebrew": "תודה, זה טוב.",
+      "transliteration": "Toda, ze tov.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T16:56:21.112909"
+    },
+    {
+      "english": "Excuse me, please?",
+      "hebrew": "סליחה, בבקשה?",
+      "transliteration": "Slicha, bevakasha?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T16:56:21.112911"
+    },
+    {
+      "english": "Yes, I understand.",
+      "hebrew": "כן, אני מבין.",
+      "transliteration": "Ken, ani mevin.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T16:56:21.112912"
+    },
+    {
+      "english": "No, I don't know.",
+      "hebrew": "לא, אני לא יודע.",
+      "transliteration": "Lo, ani lo yodea.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T16:56:21.112913"
     }
   ],
-  "last_updated": "2026-06-18T14:41:11.646304"
+  "last_updated": "2026-06-18T16:56:21.112915"
 }
