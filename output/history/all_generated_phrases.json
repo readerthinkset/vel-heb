@@ -734,7 +734,42 @@
       "transliteration": "Hisha'er sakran, tamid.",
       "category": "Self Improvement",
       "generated_at": "2026-06-17T23:16:23.013476"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "hebrew": "תודה, על הכל.",
+      "transliteration": "Toda, al hakol.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-18T04:49:15.741901"
+    },
+    {
+      "english": "I appreciate you, so much.",
+      "hebrew": "אני מעריך אותך, כל כך.",
+      "transliteration": "Ani ma'arich otach, kach kach.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-18T04:49:15.741910"
+    },
+    {
+      "english": "You are so kind, thank you.",
+      "hebrew": "אתה כל כך נחמד, תודה.",
+      "transliteration": "Ata kol kach nekhmad, toda.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-18T04:49:15.741911"
+    },
+    {
+      "english": "This is wonderful, thanks.",
+      "hebrew": "זה נפלא, תודה.",
+      "transliteration": "Ze nifla, toda.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-18T04:49:15.741912"
+    },
+    {
+      "english": "I'm grateful, for this.",
+      "hebrew": "אני אסיר תודה, על זה.",
+      "transliteration": "Ani asir toda, al ze.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-18T04:49:15.741913"
     }
   ],
-  "last_updated": "2026-06-17T23:16:23.013481"
+  "last_updated": "2026-06-18T04:49:15.741915"
 }
