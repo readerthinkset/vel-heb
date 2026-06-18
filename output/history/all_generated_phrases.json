@@ -769,7 +769,42 @@
       "transliteration": "Ani asir toda, al ze.",
       "category": "Gratitude",
       "generated_at": "2026-06-18T04:49:15.741913"
+    },
+    {
+      "english": "Keep going, you're learning.",
+      "hebrew": "תמשיכו, אתם לומדים.",
+      "transliteration": "Tamshichu, atem lomdim.",
+      "category": "Motivation",
+      "generated_at": "2026-06-18T14:41:11.646288"
+    },
+    {
+      "english": "Small efforts, big results.",
+      "hebrew": "מאמצים קטנים, תוצאות גדולות.",
+      "transliteration": "Ma'amatzim ktanim, totza'ot gdolot.",
+      "category": "Motivation",
+      "generated_at": "2026-06-18T14:41:11.646297"
+    },
+    {
+      "english": "Hebrew is for everyone.",
+      "hebrew": "עברית לכולם.",
+      "transliteration": "Ivrit le'chulam.",
+      "category": "Motivation",
+      "generated_at": "2026-06-18T14:41:11.646299"
+    },
+    {
+      "english": "Practice daily, speak freely.",
+      "hebrew": "תרגלו יום יום, דברו בחופשיות.",
+      "transliteration": "Tagrelu yom yom, dabru be'chofshiyut.",
+      "category": "Motivation",
+      "generated_at": "2026-06-18T14:41:11.646301"
+    },
+    {
+      "english": "Your progress, is amazing.",
+      "hebrew": "ההתקדמות שלכם, מדהימה.",
+      "transliteration": "Ha'hitkadmut shelachem, madhima.",
+      "category": "Motivation",
+      "generated_at": "2026-06-18T14:41:11.646302"
     }
   ],
-  "last_updated": "2026-06-18T04:49:15.741915"
+  "last_updated": "2026-06-18T14:41:11.646304"
 }
