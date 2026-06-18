@@ -874,7 +874,42 @@
       "transliteration": "Bo nitzor od zikronot.",
       "category": "Friendship",
       "generated_at": "2026-06-18T19:24:02.213283"
+    },
+    {
+      "english": "One moment, at a time.",
+      "hebrew": "רגע אחד, בכל פעם.",
+      "transliteration": "Rega echad, bechol pa'am.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-18T22:22:37.128164"
+    },
+    {
+      "english": "Just be, simply be.",
+      "hebrew": "רק תהיה, פשוט תהיה.",
+      "transliteration": "Rak tihiyeh, pashut tihiyeh.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-18T22:22:37.128175"
+    },
+    {
+      "english": "Notice the quiet.",
+      "hebrew": "שים לב לשקט.",
+      "transliteration": "Sim lev la'sheket.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-18T22:22:37.128176"
+    },
+    {
+      "english": "Let go, release it.",
+      "hebrew": "שחרר, תרפה מזה.",
+      "transliteration": "Shachrer, tarpeh mizeh.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-18T22:22:37.128178"
+    },
+    {
+      "english": "This is enough.",
+      "hebrew": "זה מספיק.",
+      "transliteration": "Zeh maspeek.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-18T22:22:37.128179"
     }
   ],
-  "last_updated": "2026-06-18T19:24:02.213285"
+  "last_updated": "2026-06-18T22:22:37.128181"
 }
