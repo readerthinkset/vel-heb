@@ -909,7 +909,42 @@
       "transliteration": "Zeh maspeek.",
       "category": "Mindfulness",
       "generated_at": "2026-06-18T22:22:37.128179"
+    },
+    {
+      "english": "One, two, three, go!",
+      "hebrew": "אחת, שתיים, שלוש, קדימה!",
+      "transliteration": "Echad, shtayim, shalosh, kadima!",
+      "category": "Numbers",
+      "generated_at": "2026-06-19T05:09:26.334988"
+    },
+    {
+      "english": "Ten, nine, eight, down.",
+      "hebrew": "עשר, תשע, שמונה, למטה.",
+      "transliteration": "Eser, tesha, shmoneh, lemata.",
+      "category": "Numbers",
+      "generated_at": "2026-06-19T05:09:26.334995"
+    },
+    {
+      "english": "Just one more, please.",
+      "hebrew": "רק עוד אחד, בבקשה.",
+      "transliteration": "Rak od echad, bevakasha.",
+      "category": "Numbers",
+      "generated_at": "2026-06-19T05:09:26.334996"
+    },
+    {
+      "english": "Two, then three, then four.",
+      "hebrew": "שתיים, ואז שלוש, ואז ארבע.",
+      "transliteration": "Shtayim, v'az shalosh, v'az arba.",
+      "category": "Numbers",
+      "generated_at": "2026-06-19T05:09:26.334998"
+    },
+    {
+      "english": "Five is half of ten.",
+      "hebrew": "חמש, זה חצי מעשר.",
+      "transliteration": "Chamesh, ze chatzi me'eser.",
+      "category": "Numbers",
+      "generated_at": "2026-06-19T05:09:26.334999"
     }
   ],
-  "last_updated": "2026-06-18T22:22:37.128181"
+  "last_updated": "2026-06-19T05:09:26.335000"
 }
