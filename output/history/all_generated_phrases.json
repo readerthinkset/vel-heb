@@ -979,7 +979,42 @@
       "transliteration": "Teen'u mehaderech, lo rak mehasof.",
       "category": "Growth",
       "generated_at": "2026-06-19T14:38:14.288953"
+    },
+    {
+      "english": "Trust the process, please.",
+      "hebrew": "סמוך על התהליך, בבקשה.",
+      "transliteration": "Smóch al ha'tahalich, bevakasha.",
+      "category": "Patience",
+      "generated_at": "2026-06-19T16:28:25.403393"
+    },
+    {
+      "english": "Little by little, we grow.",
+      "hebrew": "מעט מעט, אנו גדלים.",
+      "transliteration": "Me'at me'at, anu gd'lim.",
+      "category": "Patience",
+      "generated_at": "2026-06-19T16:28:25.403402"
+    },
+    {
+      "english": "Be patient, with yourself.",
+      "hebrew": "היה סבלני, עם עצמך.",
+      "transliteration": "Hihyeh savlani, im atzmecha.",
+      "category": "Patience",
+      "generated_at": "2026-06-19T16:28:25.403403"
+    },
+    {
+      "english": "The reward, is worth it.",
+      "hebrew": "התמורה, שווה את זה.",
+      "transliteration": "Ha'tmurah, shav'eh et zeh.",
+      "category": "Patience",
+      "generated_at": "2026-06-19T16:28:25.403404"
+    },
+    {
+      "english": "One step, at a time.",
+      "hebrew": "צעד אחד, בכל פעם.",
+      "transliteration": "Tsa'ad echad, bechol pa'am.",
+      "category": "Patience",
+      "generated_at": "2026-06-19T16:28:25.403406"
     }
   ],
-  "last_updated": "2026-06-19T14:38:14.288955"
+  "last_updated": "2026-06-19T16:28:25.403407"
 }
