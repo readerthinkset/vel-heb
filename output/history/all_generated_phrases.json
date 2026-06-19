@@ -1049,7 +1049,42 @@
       "transliteration": "Hi, mah chadash?",
       "category": "Greetings",
       "generated_at": "2026-06-19T18:28:45.210422"
+    },
+    {
+      "english": "Life is good, be grateful.",
+      "hebrew": "החיים טובים, היי אסיר תודה.",
+      "transliteration": "Hachayim tov'im, hay asir toda.",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T21:15:12.987837"
+    },
+    {
+      "english": "Cherish this, moment.",
+      "hebrew": "הוקר את הרגע, הזה.",
+      "transliteration": "Hoker et ha'rega, hazeh.",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T21:15:12.987845"
+    },
+    {
+      "english": "Spread kindness, spread joy.",
+      "hebrew": "הפיץ טוב לב, הפיץ שמחה.",
+      "transliteration": "Hafitz tov lev, hafitz simcha.",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T21:15:12.987847"
+    },
+    {
+      "english": "Peace fills, my heart.",
+      "hebrew": "שלווה ממלאת, את ליבי.",
+      "transliteration": "Shalvah memale'et, et libi.",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T21:15:12.987848"
+    },
+    {
+      "english": "Be happy, now.",
+      "hebrew": "היה מאושר, עכשיו.",
+      "transliteration": "Hayeh me'ushar, achshav.",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T21:15:12.987849"
     }
   ],
-  "last_updated": "2026-06-19T18:28:45.210423"
+  "last_updated": "2026-06-19T21:15:12.987851"
 }
