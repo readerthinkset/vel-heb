@@ -1014,7 +1014,42 @@
       "transliteration": "Tsa'ad echad, bechol pa'am.",
       "category": "Patience",
       "generated_at": "2026-06-19T16:28:25.403406"
+    },
+    {
+      "english": "Hello, it's nice to meet you.",
+      "hebrew": "שלום, נעים מאוד להכיר.",
+      "transliteration": "Shalom, na'im me'od lehakir.",
+      "category": "Greetings",
+      "generated_at": "2026-06-19T18:28:45.210402"
+    },
+    {
+      "english": "Good morning, how are you?",
+      "hebrew": "בוקר טוב, מה שלומך?",
+      "transliteration": "Boker tov, mah shlomcha?",
+      "category": "Greetings",
+      "generated_at": "2026-06-19T18:28:45.210413"
+    },
+    {
+      "english": "Good evening, I'm happy to see you.",
+      "hebrew": "ערב טוב, שמח לראות אותך.",
+      "transliteration": "Erev tov, same'ach lir'ot otcha.",
+      "category": "Greetings",
+      "generated_at": "2026-06-19T18:28:45.210415"
+    },
+    {
+      "english": "Welcome, please come in.",
+      "hebrew": "ברוכים הבאים, בבקשה היכנס.",
+      "transliteration": "Bruchim haba'im, bevakasha hikanes.",
+      "category": "Greetings",
+      "generated_at": "2026-06-19T18:28:45.210417"
+    },
+    {
+      "english": "Hi there, what's new?",
+      "hebrew": "היי, מה חדש?",
+      "transliteration": "Hi, mah chadash?",
+      "category": "Greetings",
+      "generated_at": "2026-06-19T18:28:45.210422"
     }
   ],
-  "last_updated": "2026-06-19T16:28:25.403407"
+  "last_updated": "2026-06-19T18:28:45.210423"
 }
