@@ -1189,7 +1189,42 @@
       "transliteration": "Dchof kadima, ze yihiyeh shaveh.",
       "category": "Perseverance",
       "generated_at": "2026-06-20T15:28:46.186603"
+    },
+    {
+      "english": "Be good, do good.",
+      "hebrew": "תִּהְיֶה טוֹב, עֲשֵׂה טוֹב.",
+      "transliteration": "Tihiyeh tov, aseh tov.",
+      "category": "Kindness",
+      "generated_at": "2026-06-20T18:05:53.684304"
+    },
+    {
+      "english": "Help others, feel good.",
+      "hebrew": "עֲזֹר לַאֲחֵרִים, הַרְגֵּשׁ טוֹב.",
+      "transliteration": "Azor la'acherim, hargeish tov.",
+      "category": "Kindness",
+      "generated_at": "2026-06-20T18:05:53.684315"
+    },
+    {
+      "english": "Smile often, share joy.",
+      "hebrew": "חַיֵּךְ לְעִיתִּים קְרוֹבוֹת, סַפֵּק שִׂמְחָה.",
+      "transliteration": "Chayech le'itim krovot, sapeik simcha.",
+      "category": "Kindness",
+      "generated_at": "2026-06-20T18:05:53.684316"
+    },
+    {
+      "english": "Give freely, receive blessings.",
+      "hebrew": "תֵּן בְּחִפָּה, קַבֵּל בְּרָכוֹת.",
+      "transliteration": "Ten be'chipa, kabel brachot.",
+      "category": "Kindness",
+      "generated_at": "2026-06-20T18:05:53.684318"
+    },
+    {
+      "english": "Be patient, be kind.",
+      "hebrew": "הֱיֵה סַבְלָנִי, הֱיֵה חָסִיד.",
+      "transliteration": "Hyeh savlani, hyeh chasid.",
+      "category": "Kindness",
+      "generated_at": "2026-06-20T18:05:53.684319"
     }
   ],
-  "last_updated": "2026-06-20T15:28:46.186605"
+  "last_updated": "2026-06-20T18:05:53.684321"
 }
