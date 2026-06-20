@@ -1084,7 +1084,42 @@
       "transliteration": "Hayeh me'ushar, achshav.",
       "category": "Happiness",
       "generated_at": "2026-06-19T21:15:12.987849"
+    },
+    {
+      "english": "See you later, okay?",
+      "hebrew": "נתראה אחר כך, בסדר?",
+      "transliteration": "n'tra'eh acharkach, beseder?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-20T04:21:49.590915"
+    },
+    {
+      "english": "I understand, totally.",
+      "hebrew": "אני מבין, לגמרי.",
+      "transliteration": "ani mevin, le'gamrei.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-20T04:21:49.590920"
+    },
+    {
+      "english": "Can I help you?",
+      "hebrew": "אפשר לעזור לך?",
+      "transliteration": "efshar la'azor lecha?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-20T04:21:49.590921"
+    },
+    {
+      "english": "Just a moment, please.",
+      "hebrew": "רק רגע, בבקשה.",
+      "transliteration": "rak rega, bevakasha.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-20T04:21:49.590922"
+    },
+    {
+      "english": "It's a good idea.",
+      "hebrew": "זו רעיון טוב.",
+      "transliteration": "zo ra'ayon tov.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-20T04:21:49.590923"
     }
   ],
-  "last_updated": "2026-06-19T21:15:12.987851"
+  "last_updated": "2026-06-20T04:21:49.590924"
 }
