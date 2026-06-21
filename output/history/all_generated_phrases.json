@@ -1329,7 +1329,42 @@
       "transliteration": "Ani avud.",
       "category": "Emergency",
       "generated_at": "2026-06-21T13:31:22.613073"
+    },
+    {
+      "english": "I'll take this one, thank you.",
+      "hebrew": "אני אקח את זה, תודה.",
+      "transliteration": "Ani ekach et ze, toda.",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T15:45:56.735820"
+    },
+    {
+      "english": "Do you accept cards?, or cash?",
+      "hebrew": "אתם מקבלים כרטיסים?, או מזומן?",
+      "transliteration": "Atem mekablilim kartisim?, o mezuman?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T15:45:56.735831"
+    },
+    {
+      "english": "It's too big, for me.",
+      "hebrew": "זה גדול מדי, בשבילי.",
+      "transliteration": "Ze gadol midai, bishvili.",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T15:45:56.735832"
+    },
+    {
+      "english": "I'm looking for, a gift.",
+      "hebrew": "אני מחפש/ת, מתנה.",
+      "transliteration": "Ani mechapes/et, matana.",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T15:45:56.735834"
+    },
+    {
+      "english": "Can I get a bag?, please?",
+      "hebrew": "אפשר לקבל שקית?, בבקשה?",
+      "transliteration": "Efshar lekabel sakit?, bevakasha?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T15:45:56.735835"
     }
   ],
-  "last_updated": "2026-06-21T13:31:22.613075"
+  "last_updated": "2026-06-21T15:45:56.735840"
 }
