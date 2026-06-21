@@ -1294,7 +1294,42 @@
       "transliteration": "Shetihyeh lanu hachlama, vetzmicha.",
       "category": "Forgiveness",
       "generated_at": "2026-06-21T05:05:07.874452"
+    },
+    {
+      "english": "Help, please.",
+      "hebrew": "עזרה, בבקשה.",
+      "transliteration": "Ezra, bevakasha.",
+      "category": "Emergency",
+      "generated_at": "2026-06-21T13:31:22.613062"
+    },
+    {
+      "english": "I need a doctor.",
+      "hebrew": "אני צריך רופא.",
+      "transliteration": "Ani tzarich rofe.",
+      "category": "Emergency",
+      "generated_at": "2026-06-21T13:31:22.613069"
+    },
+    {
+      "english": "Call the police.",
+      "hebrew": "תתקשרו למשטרה.",
+      "transliteration": "Titkashru lamishtera.",
+      "category": "Emergency",
+      "generated_at": "2026-06-21T13:31:22.613071"
+    },
+    {
+      "english": "Where is the hospital?",
+      "hebrew": "איפה בית החולים?",
+      "transliteration": "Eifo beit hacholim?",
+      "category": "Emergency",
+      "generated_at": "2026-06-21T13:31:22.613072"
+    },
+    {
+      "english": "I am lost.",
+      "hebrew": "אני אבוד.",
+      "transliteration": "Ani avud.",
+      "category": "Emergency",
+      "generated_at": "2026-06-21T13:31:22.613073"
     }
   ],
-  "last_updated": "2026-06-21T05:05:07.874454"
+  "last_updated": "2026-06-21T13:31:22.613075"
 }
