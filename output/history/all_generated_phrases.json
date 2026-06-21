@@ -1364,7 +1364,42 @@
       "transliteration": "Efshar lekabel sakit?, bevakasha?",
       "category": "Shopping",
       "generated_at": "2026-06-21T15:45:56.735835"
+    },
+    {
+      "english": "Pure joy, right now.",
+      "hebrew": "שמחה טהורה, עכשיו.",
+      "transliteration": "Simcha tehorah, achshav.",
+      "category": "Joy",
+      "generated_at": "2026-06-21T18:15:23.465298"
+    },
+    {
+      "english": "This makes me smile, a lot.",
+      "hebrew": "זה גורם לי לחייך, מאוד.",
+      "transliteration": "Ze gorem li lechayech, me'od.",
+      "category": "Joy",
+      "generated_at": "2026-06-21T18:15:23.465309"
+    },
+    {
+      "english": "So much fun, let's go!",
+      "hebrew": "כל כך כיף, בוא נלך!",
+      "transliteration": "Kol kach keif, bo nelech!",
+      "category": "Joy",
+      "generated_at": "2026-06-21T18:15:23.465310"
+    },
+    {
+      "english": "Loving this moment, deeply.",
+      "hebrew": "אוהב את הרגע הזה, עמוקות.",
+      "transliteration": "Ohev et ha'rega hazeh, amukot.",
+      "category": "Joy",
+      "generated_at": "2026-06-21T18:15:23.465312"
+    },
+    {
+      "english": "A burst of happiness, yes!",
+      "hebrew": "פרץ של אושר, כן!",
+      "transliteration": "Peretz shel osher, ken!",
+      "category": "Joy",
+      "generated_at": "2026-06-21T18:15:23.465313"
     }
   ],
-  "last_updated": "2026-06-21T15:45:56.735840"
+  "last_updated": "2026-06-21T18:15:23.465315"
 }
