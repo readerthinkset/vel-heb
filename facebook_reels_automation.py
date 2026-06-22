@@ -77,7 +77,27 @@ CATEGORIES_ENGLISH = [
     "Balance",
     "Growth",
     "Purpose",
-    "Mindfulness"
+    "Mindfulness",
+    "Daily Routine",
+    "Weather",
+    "Feelings",
+    "Food",
+    "Health",
+    "Work",
+    "Technology",
+    "Nature",
+    "Animals",
+    "Colors",
+    "Directions",
+    "Body Parts",
+    "Clothes",
+    "Music",
+    "Sports",
+    "Holidays",
+    "Education",
+    "Culture",
+    "Finance",
+    "Relationships"
 ]
 
 CATEGORIES_NATIVE = {
@@ -115,7 +135,27 @@ CATEGORIES_NATIVE = {
     "Balance": "איזון",
     "Growth": "צמיחה",
     "Purpose": "מטרה",
-    "Mindfulness": "מיינדפולנס"
+    "Mindfulness": "מיינדפולנס",
+    "Daily Routine": "שגרה יומית",
+    "Weather": "מזג אוויר",
+    "Feelings": "רגשות",
+    "Food": "אוכל",
+    "Health": "בריאות",
+    "Work": "עבודה",
+    "Technology": "טכנולוגיה",
+    "Nature": "טבע",
+    "Animals": "חיות",
+    "Colors": "צבעים",
+    "Directions": "כיוונים",
+    "Body Parts": "איברי גוף",
+    "Clothes": "בגדים",
+    "Music": "מוזיקה",
+    "Sports": "ספורט",
+    "Holidays": "חגים",
+    "Education": "חינוך",
+    "Culture": "תרבות",
+    "Finance": "כספים",
+    "Relationships": "מערכות יחסים"
 }
 
 ENGLISH_VOICE = "en-US-GuyNeural"
@@ -123,7 +163,7 @@ NATIVE_VOICE = "he-IL-AvriNeural"
 
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
 RECENT_CATEGORIES_FILE = HISTORY_DIR / "recent_categories.json"
-MAX_RECENT_CATEGORIES = 15
+MAX_RECENT_CATEGORIES = 25
 
 
 def load_phrase_history():
@@ -198,6 +238,10 @@ def get_available_category():
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
     category_native = CATEGORIES_NATIVE[category_english]
     max_attempts = 3
+
+    history = load_phrase_history()
+    recent_english = [p["english"] for p in history.get("phrases", []) if p.get("category") == category_english][-30:]
+
     for attempt in range(max_attempts):
         try:
             import requests
@@ -207,7 +251,11 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
                 "Content-Type": "application/json"
             }
 
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Hebrew.
+            avoid_text = ""
+            if recent_english:
+                avoid_text = "\nABSOLUTELY AVOID these already-used phrases:\n" + "\n".join(f"- {p}" for p in recent_english)
+
+            prompt = f"""Create {num_phrases * 6} unique and creative {category_english} phrases for English speakers learning Hebrew.{avoid_text}
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -218,6 +266,7 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 6. Hebrew text should be CLEAN - use standard Hebrew script
 7. Do NOT include multiple versions or slashes - just ONE clean Hebrew translation
 8. Transliteration should be in Roman script for pronunciation
+9. BE CREATIVE AND VARIED - do NOT repeat themes from the avoid list
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
@@ -233,10 +282,10 @@ IMPORTANT: Hebrew text must be clean - no slashes, no multiple versions."""
             payload = {
                 "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a Hebrew teacher. Create short, natural phrases with pauses."},
+                    {"role": "system", "content": "You are a Hebrew teacher. Create short, natural phrases with pauses. Each generation must produce completely different, creative phrases."},
                     {"role": "user", "content": prompt}
                 ],
-                "temperature": 0.9
+                "temperature": min(0.95 + attempt * 0.03, 1.0)
             }
 
             response = requests.post(url, headers=headers, json=payload, timeout=60)
@@ -277,6 +326,11 @@ IMPORTANT: Hebrew text must be clean - no slashes, no multiple versions."""
                 add_phrases_to_history(unique_phrases[:num_phrases], category_english)
                 return unique_phrases[:num_phrases]
 
+            print(f"[content] Attempt {attempt + 1}: API returned {len(phrases)} phrases, only {len(unique_phrases)} are new (need {num_phrases})")
+            for p in unique_phrases:
+                if p["english"] not in recent_english:
+                    recent_english.append(p["english"])
+
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
@@ -298,6 +352,46 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
         {"english": "Small steps lead to big changes.", "hebrew": "צעדים קטנים מובילים לשינויים גדולים.", "transliteration": "tse'adim ktanim movilim leshinuyim gdolim"},
         {"english": "You are stronger than you think.", "hebrew": "אתה חזק יותר ממה שאתה חושב.", "transliteration": "ata khazak yoter mima sheata khoshev"},
         {"english": "Happiness is a choice, choose it.", "hebrew": "אושר הוא בחירה, תבחר בו.", "transliteration": "osher hu bkhira, tivkhar bo"},
+        {"english": "What time is it please.", "hebrew": "מה השעה בבקשה.", "transliteration": "ma hasha'a bevakasha"},
+        {"english": "Where is the train station.", "hebrew": "איפה תחנת הרכבת.", "transliteration": "eifo takhanat harakevet"},
+        {"english": "How much does this cost.", "hebrew": "כמה זה עולה.", "transliteration": "kama ze oleh"},
+        {"english": "Can you help me please.", "hebrew": "אתה יכול לעזור לי בבקשה.", "transliteration": "ata yakhol la'azor li bevakasha"},
+        {"english": "I would like a coffee please.", "hebrew": "אני רוצה קפה בבקשה.", "transliteration": "ani rotse kafe bevakasha"},
+        {"english": "The food is delicious today.", "hebrew": "האוכל טעים מאוד היום.", "transliteration": "ha'ochel ta'im me'od hayom"},
+        {"english": "Have a wonderful weekend.", "hebrew": "שיהיה לך סוף שבוע נפלא.", "transliteration": "sheyihiye lekha sof shavua nifla"},
+        {"english": "Take care of yourself.", "hebrew": "תשמור על עצמך.", "transliteration": "tishmor al atsmekha"},
+        {"english": "See you tomorrow my friend.", "hebrew": "נתראה מחר חבר שלי.", "transliteration": "nitra'e makhar khaver sheli"},
+        {"english": "The weather is beautiful outside.", "hebrew": "מזג האוויר יפהפה בחוץ.", "transliteration": "mezeg ha'avir yafehfeh bakhuts"},
+        {"english": "I am very happy today.", "hebrew": "אני מאוד שמח היום.", "transliteration": "ani me'od same'akh hayom"},
+        {"english": "Learning Hebrew opens new doors.", "hebrew": "לימוד עברית פותח דלתות חדשות.", "transliteration": "limud ivrit pote'akh dlatot khadashot"},
+        {"english": "Keep practicing every single day.", "hebrew": "תמשיך להתאמן כל יום מחדש.", "transliteration": "tamshikh lehit'amen kol yom mekhadash"},
+        {"english": "You can achieve anything you want.", "hebrew": "אתה יכול להשיג כל מה שאתה רוצה.", "transliteration": "ata yakhol lehasig kol ma sheata rotse"},
+        {"english": "Rest when you are tired.", "hebrew": "תנוח כשאתה עייף.", "transliteration": "tanuakh ksheata ayef"},
+        {"english": "Focus on the positive things.", "hebrew": "תתרכז בדברים החיוביים.", "transliteration": "titrakez badvarim hakhivuviyim"},
+        {"english": "Learn from your mistakes.", "hebrew": "למד מהטעויות שלך.", "transliteration": "lemad hata'uyot shelkha"},
+        {"english": "Trust the process completely.", "hebrew": "סמוך על התהליך לגמרי.", "transliteration": "samokh al hatakhalich legamrey"},
+        {"english": "Breathe deeply and stay calm.", "hebrew": "נשום עמוק ותישאר רגוע.", "transliteration": "nshom amok vetishaer ragua"},
+        {"english": "Enjoy the little moments in life.", "hebrew": "תהנה מהרגעים הקטנים בחיים.", "transliteration": "tehneh merega'im haketanim bakhayim"},
+        {"english": "Smile more, worry less.", "hebrew": "תחייך יותר, תדאג פחות.", "transliteration": "tekhayekh yoter, tid'ag pakhot"},
+        {"english": "Be kind to everyone you meet.", "hebrew": "היה טוב לב לכל מי שאתה פוגש.", "transliteration": "heye tov lev lekhol mi sheata pogesh"},
+        {"english": "Help others without expecting anything back.", "hebrew": "עזור לאחרים בלי לצפות לתמורה.", "transliteration": "azor la'akherim bli letsapot ltmura"},
+        {"english": "Forgive yourself and move forward.", "hebrew": "סלח לעצמך ותתקדם קדימה.", "transliteration": "slakh le'atzmekha vetitkadem kadima"},
+        {"english": "Stay strong in difficult times.", "hebrew": "תישאר חזק בזמנים קשים.", "transliteration": "tishaer khazak bizmanim kashim"},
+        {"english": "Every moment is a new beginning.", "hebrew": "כל רגע הוא התחלה חדשה.", "transliteration": "kol rega hu hatchala khadasha"},
+        {"english": "Listen to your heart always.", "hebrew": "תקשיב ללב שלך תמיד.", "transliteration": "takshiv lelev shelkha tamid"},
+        {"english": "Do what makes you happy.", "hebrew": "עשה מה שעושה אותך שמח.", "transliteration": "ase ma she'ose otkha same'akh"},
+        {"english": "Your potential is unlimited.", "hebrew": "הפוטנציאל שלך הוא בלתי מוגבל.", "transliteration": "hapotentsial shelkha hu bilti mugbal"},
+        {"english": "Be brave and take risks.", "hebrew": "היה אמיץ וקח סיכונים.", "transliteration": "heye amits vekakh sikunim"},
+        {"english": "Celebrate your progress every day.", "hebrew": "חגוג את ההתקדמות שלך כל יום.", "transliteration": "khagog et hahitkadmut shelkha kol yom"},
+        {"english": "Surround yourself with good people.", "hebrew": "הקף את עצמך באנשים טובים.", "transliteration": "hakef et atsmekha beanashim tovim"},
+        {"english": "Read books and grow your mind.", "hebrew": "קרא ספרים וגדל את המוח שלך.", "transliteration": "kra sfarim vegadel et hamo'akh shelkha"},
+        {"english": "Travel and discover new places.", "hebrew": "טייל וגלה מקומות חדשים.", "transliteration": "tayel vegale mekomot khadashim"},
+        {"english": "Appreciate what you already have.", "hebrew": "הערך את מה שכבר יש לך.", "transliteration": "ha'erekh et ma shekvar yesh lekha"},
+        {"english": "Dance like nobody is watching.", "hebrew": "תרקוד כאילו אף אחד לא רואה.", "transliteration": "tirkod ke'ilu af ekhad lo ro'e"},
+        {"english": "Sing from your heart out loud.", "hebrew": "שר מהלב שלך בקול רם.", "transliteration": "shar mehalev shelkha bekol ram"},
+        {"english": "Plant seeds of kindness everywhere.", "hebrew": "שתול זרעים של טוב לב בכל מקום.", "transliteration": "shtol zra'im shel tov lev bekhol makom"},
+        {"english": "Let go of what you cannot control.", "hebrew": "שחרר את מה שאתה לא יכול לשלוט.", "transliteration": "shakher et ma sheata lo yakhol lishlot"},
+        {"english": "Be present in the here and now.", "hebrew": "היה נוכח בכאן ועכשיו.", "transliteration": "heye nokhe'ah bakan ve'akhshav"},
     ]
     fresh = [p for p in generic_fallbacks if not is_phrase_used(p["english"])]
     return fresh[:num_phrases]
