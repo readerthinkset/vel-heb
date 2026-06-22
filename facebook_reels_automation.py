@@ -288,22 +288,18 @@ IMPORTANT: Hebrew text must be clean - no slashes, no multiple versions."""
 def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     """Return simple English fallback phrases when AI generation fails"""
     generic_fallbacks = [
-        {"english": "Hello, nice to meet you.", "hebrew": "[HE] Hello", "transliteration": "hello"},
-        {"english": "Thank you very much.", "hebrew": "[HE] Thank you", "transliteration": "thank you"},
-        {"english": "Good morning, have a great day.", "hebrew": "[HE] Good morning", "transliteration": "good morning"},
-        {"english": "I love learning new languages.", "hebrew": "[HE] Love learning", "transliteration": "love learning"},
-        {"english": "Never give up on your dreams.", "hebrew": "[HE] Never give up", "transliteration": "never give up"},
-        {"english": "Every day is a fresh start.", "hebrew": "[HE] Fresh start", "transliteration": "fresh start"},
-        {"english": "Believe in yourself always.", "hebrew": "[HE] Believe", "transliteration": "believe"},
-        {"english": "Small steps lead to big changes.", "hebrew": "[HE] Small steps", "transliteration": "small steps"},
-        {"english": "You are stronger than you think.", "hebrew": "[HE] Stronger", "transliteration": "stronger"},
-        {"english": "Happiness is a choice, choose it.", "hebrew": "[HE] Happiness", "transliteration": "happiness"},
+        {"english": "Hello, nice to meet you.", "hebrew": "שלום, נעים להכיר אותך.", "transliteration": "shalom, na'im lehakir otkha"},
+        {"english": "Thank you very much.", "hebrew": "תודה רבה לך.", "transliteration": "toda raba lekha"},
+        {"english": "Good morning, have a great day.", "hebrew": "בוקר טוב, שיהיה לך יום נפלא.", "transliteration": "boker tov, sheyihiye lekha yom nifla"},
+        {"english": "I love learning new languages.", "hebrew": "אני אוהב ללמוד שפות חדשות.", "transliteration": "ani ohev lilmod safot khadashot"},
+        {"english": "Never give up on your dreams.", "hebrew": "לעולם אל תוותר על החלומות שלך.", "transliteration": "le'olam al titaer al hakhalomot shelkha"},
+        {"english": "Every day is a fresh start.", "hebrew": "כל יום הוא התחלה חדשה.", "transliteration": "kol yom hu hatchala khadasha"},
+        {"english": "Believe in yourself always.", "hebrew": "תמיד תאמין בעצמך.", "transliteration": "tamid ta'amin be'atzmekha"},
+        {"english": "Small steps lead to big changes.", "hebrew": "צעדים קטנים מובילים לשינויים גדולים.", "transliteration": "tse'adim ktanim movilim leshinuyim gdolim"},
+        {"english": "You are stronger than you think.", "hebrew": "אתה חזק יותר ממה שאתה חושב.", "transliteration": "ata khazak yoter mima sheata khoshev"},
+        {"english": "Happiness is a choice, choose it.", "hebrew": "אושר הוא בחירה, תבחר בו.", "transliteration": "osher hu bkhira, tivkhar bo"},
     ]
     fresh = [p for p in generic_fallbacks if not is_phrase_used(p["english"])]
-    # Assign the right language key
-    lang_key = "hebrew"
-    for p in fresh:
-        p[lang_key] = p.pop("hebrew")
     return fresh[:num_phrases]
 async def generate_single_audio(text: str, voice: str, output_path: str):
     try:
@@ -1537,7 +1533,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         b = draw.textbbox((0, 0), "Ag", font=font)
         return b[3] - b[1]
 
-    max_text_w = VIDEO_WIDTH - 180
+    max_text_w = VIDEO_WIDTH - 140
     cat_native = CATEGORIES_NATIVE.get(category_english, category_english)
 
     nat_font, nat_lines = pick_native_font(native, max_text_w - 40)
@@ -1574,7 +1570,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy = start_y
 
     # Category bar (rounded)
-    cat_text = cat_native
+    cat_text = category_english
     cat_bb = draw.textbbox((0, 0), cat_text, font=font_category)
     cat_tw = cat_bb[2] - cat_bb[0]
     cat_th = cat_bb[3] - cat_bb[1]
@@ -1594,7 +1590,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy += gap_cat_en
 
     # English phrase (top)
-    en_margin = 50
+    en_margin = 60
     rounded_rect(draw, (en_margin, cy, VIDEO_WIDTH - en_margin, cy + en_box_h), 28,
                  fill=(20, 40, 100, 220))
     for i, line in enumerate(en_lines):
@@ -1616,7 +1612,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
             use_harfbuzz = False
             print("  [WARNING] uharfbuzz/freetype not available, falling back to Pillow")
 
-    nat_margin = 70
+    nat_margin = 50
     rounded_rect(draw, (nat_margin, cy, VIDEO_WIDTH - nat_margin, cy + nat_box_h), 24,
                  fill=(139, 0, 0, 220))
 
@@ -1668,7 +1664,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
     # Transliteration
     if trans_lines:
-        trans_margin = 90
+        trans_margin = 70
         rounded_rect(draw, (trans_margin, cy, VIDEO_WIDTH - trans_margin, cy + trans_box_h), 18,
                      fill=(40, 40, 40, 220))
         for i, line in enumerate(trans_lines):
