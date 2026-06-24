@@ -1679,7 +1679,42 @@
       "transliteration": "Hashki'ah, tzvu'ah adom bo'er.",
       "category": "Colors",
       "generated_at": "2026-06-24T23:38:23.597960"
+    },
+    {
+      "english": "Her eyes, bright like stars.",
+      "hebrew": "עיניה, בוהקות ככוכבים.",
+      "transliteration": "eineiha, bohkot k'kochavim.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-24T23:44:50.020892"
+    },
+    {
+      "english": "His hand, strong grip.",
+      "hebrew": "ידו, אחיזה חזקה.",
+      "transliteration": "yado, achiza chazaka.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-24T23:44:50.020902"
+    },
+    {
+      "english": "A gentle touch, her arm.",
+      "hebrew": "מגע עדין, זרועה.",
+      "transliteration": "maga adin, zro'a.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-24T23:44:50.020903"
+    },
+    {
+      "english": "Listen with your ears, please.",
+      "hebrew": "האזן באוזניך, בבקשה.",
+      "transliteration": "ha'azen be'oznecha, bevakasha.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-24T23:44:50.020904"
+    },
+    {
+      "english": "Her smile, a warm sun.",
+      "hebrew": "חיוכה, שמש חמה.",
+      "transliteration": "chiyucha, shemesh chama.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-24T23:44:50.020905"
     }
   ],
-  "last_updated": "2026-06-24T23:38:23.597962"
+  "last_updated": "2026-06-24T23:44:50.020906"
 }
