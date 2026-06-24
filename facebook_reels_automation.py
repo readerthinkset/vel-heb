@@ -97,28 +97,8 @@ CATEGORIES_ENGLISH = [
     "Education",
     "Culture",
     "Finance",
-    "Relationships"
-
-    "Daily Routine",
-    "Weather",
-    "Feelings",
-    "Food",
-    "Health",
-    "Work",
-    "Technology",
-    "Nature",
-    "Animals",
-    "Colors",
-    "Directions",
-    "Body Parts",
-    "Clothes",
-    "Music",
-    "Sports",
-    "Holidays",
-    "Education",
-    "Culture",
-    "Finance",
-    "Relationships",]
+    "Relationships",
+]
 
 CATEGORIES_NATIVE = {
     "Greetings": "ברכות",
