@@ -1644,7 +1644,42 @@
       "transliteration": "Shulchan, lishnayim, bevakasha.",
       "category": "Restaurant",
       "generated_at": "2026-06-24T23:34:09.612662"
+    },
+    {
+      "english": "The sky, a deep blue today.",
+      "hebrew": "השמיים, כחול עמוק היום.",
+      "transliteration": "Hashamayim, kachol amok hayom.",
+      "category": "Colors",
+      "generated_at": "2026-06-24T23:38:23.597944"
+    },
+    {
+      "english": "Her dress, a soft green hue.",
+      "hebrew": "השמלה שלה, גוון ירוק עדין.",
+      "transliteration": "Hasimla shela, givan yarok adin.",
+      "category": "Colors",
+      "generated_at": "2026-06-24T23:38:23.597956"
+    },
+    {
+      "english": "A splash of yellow, bright and bold.",
+      "hebrew": "נגיעת צהוב, בהיר ונועז.",
+      "transliteration": "Ngi'at tzahov, bahir vena'az.",
+      "category": "Colors",
+      "generated_at": "2026-06-24T23:38:23.597957"
+    },
+    {
+      "english": "His shirt, a warm orange glow.",
+      "hebrew": "החולצה שלו, זוהר כתום חמים.",
+      "transliteration": "Hachultza shelo, zohar kamtom chamim.",
+      "category": "Colors",
+      "generated_at": "2026-06-24T23:38:23.597959"
+    },
+    {
+      "english": "The sunset, painted fiery red.",
+      "hebrew": "השקיעה, צבועה אדום בוער.",
+      "transliteration": "Hashki'ah, tzvu'ah adom bo'er.",
+      "category": "Colors",
+      "generated_at": "2026-06-24T23:38:23.597960"
     }
   ],
-  "last_updated": "2026-06-24T23:34:09.612664"
+  "last_updated": "2026-06-24T23:38:23.597962"
 }
