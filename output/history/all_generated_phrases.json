@@ -1609,7 +1609,42 @@
       "transliteration": "Ta'amu et ha'tarbut, derech miloteiha.",
       "category": "Motivation",
       "generated_at": "2026-06-22T22:09:41.542599"
+    },
+    {
+      "english": "What's the special, today?",
+      "hebrew": "מה המיוחד, היום?",
+      "transliteration": "Ma ham'yuchad, hayom?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-24T23:34:09.612648"
+    },
+    {
+      "english": "I'm ready, to order.",
+      "hebrew": "אני מוכן, להזמין.",
+      "transliteration": "Ani muchan, lehazmin.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-24T23:34:09.612658"
+    },
+    {
+      "english": "Can I have, the menu?",
+      "hebrew": "אפשר את, התפריט?",
+      "transliteration": "Efshar et, hatfri't?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-24T23:34:09.612660"
+    },
+    {
+      "english": "This looks, delicious.",
+      "hebrew": "זה נראה, טעים.",
+      "transliteration": "Ze nir'eh, ta'im.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-24T23:34:09.612661"
+    },
+    {
+      "english": "A table, for two, please.",
+      "hebrew": "שולחן, לשניים, בבקשה.",
+      "transliteration": "Shulchan, lishnayim, bevakasha.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-24T23:34:09.612662"
     }
   ],
-  "last_updated": "2026-06-22T22:09:41.542601"
+  "last_updated": "2026-06-24T23:34:09.612664"
 }
