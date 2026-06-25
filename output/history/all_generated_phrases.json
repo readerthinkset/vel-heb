@@ -1819,7 +1819,42 @@
       "transliteration": "eifo lamadeta?",
       "category": "Basic Phrases",
       "generated_at": "2026-06-25T16:15:56.062571"
+    },
+    {
+      "english": "Happy New Year, full of joy.",
+      "hebrew": "שנה טובה, מלאה בשמחה.",
+      "transliteration": "Shana tova, mle'ah besimcha.",
+      "category": "Holidays",
+      "generated_at": "2026-06-25T19:02:12.936480"
+    },
+    {
+      "english": "Shabbat Shalom, rest well.",
+      "hebrew": "שבת שלום, נוח לך.",
+      "transliteration": "Shabbat shalom, no'ach lecha.",
+      "category": "Holidays",
+      "generated_at": "2026-06-25T19:02:12.936491"
+    },
+    {
+      "english": "Chag Sameach, celebrate freely.",
+      "hebrew": "חג שמח, תחגוג בחופשיות.",
+      "transliteration": "Chag sameach, tachgog bechofshiyut.",
+      "category": "Holidays",
+      "generated_at": "2026-06-25T19:02:12.936493"
+    },
+    {
+      "english": "Passover begins, with matzah.",
+      "hebrew": "פסח מתחיל, עם מצות.",
+      "transliteration": "Pesach matchil, im matzot.",
+      "category": "Holidays",
+      "generated_at": "2026-06-25T19:02:12.936494"
+    },
+    {
+      "english": "Sukkot is here, build your booth.",
+      "hebrew": "סוכות הגיע, בני סוכה.",
+      "transliteration": "Sukkot higiya, bnei suka.",
+      "category": "Holidays",
+      "generated_at": "2026-06-25T19:02:12.936495"
     }
   ],
-  "last_updated": "2026-06-25T16:15:56.062572"
+  "last_updated": "2026-06-25T19:02:12.936497"
 }
