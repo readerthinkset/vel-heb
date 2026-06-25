@@ -1784,7 +1784,42 @@
       "transliteration": "Haḳshev heitev, tavim la'omek.",
       "category": "Success",
       "generated_at": "2026-06-25T13:58:36.180301"
+    },
+    {
+      "english": "What's new, friend?",
+      "hebrew": "מה חדש, חבר?",
+      "transliteration": "mah chadash, chaver?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-25T16:15:56.062557"
+    },
+    {
+      "english": "This is amazing, really.",
+      "hebrew": "זה מדהים, באמת.",
+      "transliteration": "zeh madhim, be'emet.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-25T16:15:56.062567"
+    },
+    {
+      "english": "I love this music.",
+      "hebrew": "אני אוהב את המוזיקה הזו.",
+      "transliteration": "ani ohev et ha'muzika hazo.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-25T16:15:56.062569"
+    },
+    {
+      "english": "It tastes wonderful.",
+      "hebrew": "זה טעים נפלא.",
+      "transliteration": "zeh ta'im nifla.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-25T16:15:56.062570"
+    },
+    {
+      "english": "Where did you learn?",
+      "hebrew": "איפה למדת?",
+      "transliteration": "eifo lamadeta?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-25T16:15:56.062571"
     }
   ],
-  "last_updated": "2026-06-25T13:58:36.180303"
+  "last_updated": "2026-06-25T16:15:56.062572"
 }
