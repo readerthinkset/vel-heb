@@ -1854,7 +1854,42 @@
       "transliteration": "Sukkot higiya, bnei suka.",
       "category": "Holidays",
       "generated_at": "2026-06-25T19:02:12.936495"
+    },
+    {
+      "english": "Breathe deep, feel calm.",
+      "hebrew": "נשמו עמוק, הרגישו רגוע.",
+      "transliteration": "Nishmu amok, hergishu ragua.",
+      "category": "Health",
+      "generated_at": "2026-06-25T21:49:52.880833"
+    },
+    {
+      "english": "Drink water, stay hydrated.",
+      "hebrew": "שתה מים, הישאר רווי.",
+      "transliteration": "Shte mayim, hisha'er ravui.",
+      "category": "Health",
+      "generated_at": "2026-06-25T21:49:52.880844"
+    },
+    {
+      "english": "Move your body, feel alive.",
+      "hebrew": "הזיזו גופכם, הרגישו חיים.",
+      "transliteration": "Hazizu guf'chem, hergishu chayim.",
+      "category": "Health",
+      "generated_at": "2026-06-25T21:49:52.880846"
+    },
+    {
+      "english": "Eat well, nourish your soul.",
+      "hebrew": "אכלו טוב, הזנו את נפשכם.",
+      "transliteration": "Echlu tov, hazinu et nafsh'chem.",
+      "category": "Health",
+      "generated_at": "2026-06-25T21:49:52.880848"
+    },
+    {
+      "english": "Sleep soundly, wake refreshed.",
+      "hebrew": "ישנו שינה עמוקה, קומו רעננים.",
+      "transliteration": "Yashnu shina amuka, kumu ra'ananim.",
+      "category": "Health",
+      "generated_at": "2026-06-25T21:49:52.880850"
     }
   ],
-  "last_updated": "2026-06-25T19:02:12.936497"
+  "last_updated": "2026-06-25T21:49:52.880853"
 }
