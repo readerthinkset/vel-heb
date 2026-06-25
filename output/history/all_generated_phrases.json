@@ -1714,7 +1714,42 @@
       "transliteration": "chiyucha, shemesh chama.",
       "category": "Body Parts",
       "generated_at": "2026-06-24T23:44:50.020905"
+    },
+    {
+      "english": "Create beauty, share joy.",
+      "hebrew": "צור יופי, חלק שמחה.",
+      "transliteration": "Tzor yofi, chalek simcha.",
+      "category": "Balance",
+      "generated_at": "2026-06-25T04:14:14.819689"
+    },
+    {
+      "english": "Build bridges, mend fences.",
+      "hebrew": "בנה גשרים, תקן גדרות.",
+      "transliteration": "B'neh g'sharim, t'ken gd'rot.",
+      "category": "Balance",
+      "generated_at": "2026-06-25T04:14:14.819698"
+    },
+    {
+      "english": "Breathe deep, move freely.",
+      "hebrew": "נשום עמוק, זז בחופשיות.",
+      "transliteration": "Nashom amok, zaz b'chofshiyut.",
+      "category": "Balance",
+      "generated_at": "2026-06-25T04:14:14.819700"
+    },
+    {
+      "english": "Explore worlds, find home.",
+      "hebrew": "חקור עולמות, מצא בית.",
+      "transliteration": "Chakor olamot, m'tza bayit.",
+      "category": "Balance",
+      "generated_at": "2026-06-25T04:14:14.819701"
+    },
+    {
+      "english": "Gather strength, lend a hand.",
+      "hebrew": "אסוף כוח, הושט יד.",
+      "transliteration": "Asof koach, hosh'ta yad.",
+      "category": "Balance",
+      "generated_at": "2026-06-25T04:14:14.819702"
     }
   ],
-  "last_updated": "2026-06-24T23:44:50.020906"
+  "last_updated": "2026-06-25T04:14:14.819703"
 }
