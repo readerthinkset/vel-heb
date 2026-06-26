@@ -1889,7 +1889,42 @@
       "transliteration": "Yashnu shina amuka, kumu ra'ananim.",
       "category": "Health",
       "generated_at": "2026-06-25T21:49:52.880850"
+    },
+    {
+      "english": "My grandma, she tells the best stories.",
+      "hebrew": "סבתא שלי, היא מספרת את הסיפורים הכי טובים.",
+      "transliteration": "Savta sheli, hi mesaperet et hasipurim hachi tovim.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-26T04:21:00.286023"
+    },
+    {
+      "english": "My grandpa, he built this whole house.",
+      "hebrew": "סבא שלי, הוא בנה את כל הבית הזה.",
+      "transliteration": "Saba sheli, hu banah et kol habayit hazeh.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-26T04:21:00.286032"
+    },
+    {
+      "english": "My aunt, she makes amazing challah.",
+      "hebrew": "דודה שלי, היא אופה חלה מדהימה.",
+      "transliteration": "Doda sheli, hi ofa challah madhima.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-26T04:21:00.286034"
+    },
+    {
+      "english": "My uncle, he knows all the jokes.",
+      "hebrew": "דוד שלי, הוא מכיר את כל הבדיחות.",
+      "transliteration": "Dod sheli, hu makir et kol habdichot.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-26T04:21:00.286035"
+    },
+    {
+      "english": "My cousin, she loves to paint.",
+      "hebrew": "בת דודה שלי, היא אוהבת לצייר.",
+      "transliteration": "Bat dodah sheli, hi ohevet letzayer.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-26T04:21:00.286036"
     }
   ],
-  "last_updated": "2026-06-25T21:49:52.880853"
+  "last_updated": "2026-06-26T04:21:00.286041"
 }
