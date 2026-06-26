@@ -1959,7 +1959,42 @@
       "transliteration": "Gal shel simcha tehora, bifnim.",
       "category": "Feelings",
       "generated_at": "2026-06-26T13:56:51.163303"
+    },
+    {
+      "english": "Wake up, greet the sun.",
+      "hebrew": "התעורר, ברך את השמש.",
+      "transliteration": "Hit'orer, barech et hashemesh.",
+      "category": "Daily Routine",
+      "generated_at": "2026-06-26T16:06:58.892137"
+    },
+    {
+      "english": "Stretch your body, open your mind.",
+      "hebrew": "מתח את הגוף, פתח את התודעה.",
+      "transliteration": "Metach et haguf, petach et hatoda'ah.",
+      "category": "Daily Routine",
+      "generated_at": "2026-06-26T16:06:58.892146"
+    },
+    {
+      "english": "Sip your coffee, plan your day.",
+      "hebrew": "לגום קפה, תכנן את היום.",
+      "transliteration": "Lagom kafe, tachen et hayom.",
+      "category": "Daily Routine",
+      "generated_at": "2026-06-26T16:06:58.892148"
+    },
+    {
+      "english": "Listen to the birds, feel alive.",
+      "hebrew": "שמע את הציפורים, הרגש חי.",
+      "transliteration": "Shma et hatziporim, regesh chai.",
+      "category": "Daily Routine",
+      "generated_at": "2026-06-26T16:06:58.892149"
+    },
+    {
+      "english": "Brush your teeth, smile bright.",
+      "hebrew": "צחצח שיניים, חייך חיוך רחב.",
+      "transliteration": "Tzachtzach shinayim, chayech chiyuch rachav.",
+      "category": "Daily Routine",
+      "generated_at": "2026-06-26T16:06:58.892150"
     }
   ],
-  "last_updated": "2026-06-26T13:56:51.163304"
+  "last_updated": "2026-06-26T16:06:58.892152"
 }
