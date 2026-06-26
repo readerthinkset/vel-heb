@@ -2029,7 +2029,42 @@
       "transliteration": "Chaber et ha'nekudot, ba'moach shelcha.",
       "category": "Creativity",
       "generated_at": "2026-06-26T18:23:25.873151"
+    },
+    {
+      "english": "Play hard, play fair.",
+      "hebrew": "שחק בכוח, שחק בהגינות.",
+      "transliteration": "S'chak be'ko'ach, s'chak behigyonut.",
+      "category": "Sports",
+      "generated_at": "2026-06-26T21:24:38.798412"
+    },
+    {
+      "english": "Teamwork, wins games.",
+      "hebrew": "עבודת צוות, מנצחת משחקים.",
+      "transliteration": "Avodat tzevet, menatzechet mis'chakim.",
+      "category": "Sports",
+      "generated_at": "2026-06-26T21:24:38.798422"
+    },
+    {
+      "english": "Every point, matters.",
+      "hebrew": "כל נקודה, חשובה.",
+      "transliteration": "Kol nekuda, chashuva.",
+      "category": "Sports",
+      "generated_at": "2026-06-26T21:24:38.798423"
+    },
+    {
+      "english": "Push your limits.",
+      "hebrew": "דחוף את הגבולות שלך.",
+      "transliteration": "D'chof et hagvulot shelcha.",
+      "category": "Sports",
+      "generated_at": "2026-06-26T21:24:38.798424"
+    },
+    {
+      "english": "Sweat, builds champions.",
+      "hebrew": "זיעה, בונה אלופים.",
+      "transliteration": "Zei'a, boneh alufim.",
+      "category": "Sports",
+      "generated_at": "2026-06-26T21:24:38.798425"
     }
   ],
-  "last_updated": "2026-06-26T18:23:25.873152"
+  "last_updated": "2026-06-26T21:24:38.798427"
 }
