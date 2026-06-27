@@ -2134,7 +2134,42 @@
       "transliteration": "le'ametz et hachom, shel hakosher.",
       "category": "Happiness",
       "generated_at": "2026-06-27T13:04:27.089230"
+    },
+    {
+      "english": "Learn a word, say it loud.",
+      "hebrew": "למד מילה, אמור אותה בקול.",
+      "transliteration": "Lmad mila, emor otah b'kol.",
+      "category": "Education",
+      "generated_at": "2026-06-27T15:08:13.558299"
+    },
+    {
+      "english": "Listen closely, understand now.",
+      "hebrew": "הקשב היטב, תבין עכשיו.",
+      "transliteration": "Hakshav heitev, tavim achshav.",
+      "category": "Education",
+      "generated_at": "2026-06-27T15:08:13.558311"
+    },
+    {
+      "english": "Read a sentence, feel the flow.",
+      "hebrew": "קרא משפט, הרגש את הזרימה.",
+      "transliteration": "K'ra mishpat, hargeish et hazrimah.",
+      "category": "Education",
+      "generated_at": "2026-06-27T15:08:13.558313"
+    },
+    {
+      "english": "Speak slowly, make it clear.",
+      "hebrew": "דבר לאט, תהיה ברור.",
+      "transliteration": "Daber le'at, tihiyeh barur.",
+      "category": "Education",
+      "generated_at": "2026-06-27T15:08:13.558314"
+    },
+    {
+      "english": "Ask a question, seek the answer.",
+      "hebrew": "שאל שאלה, חפש תשובה.",
+      "transliteration": "Sha'al she'elah, ch'pes t'shuvah.",
+      "category": "Education",
+      "generated_at": "2026-06-27T15:08:13.558316"
     }
   ],
-  "last_updated": "2026-06-27T13:04:27.089232"
+  "last_updated": "2026-06-27T15:08:13.558318"
 }
