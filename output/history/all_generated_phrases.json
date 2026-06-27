@@ -2064,7 +2064,42 @@
       "transliteration": "Zei'a, boneh alufim.",
       "category": "Sports",
       "generated_at": "2026-06-26T21:24:38.798425"
+    },
+    {
+      "english": "Brave heart, steady hand.",
+      "hebrew": "לב אמיץ, יד יציבה.",
+      "transliteration": "lev amitz, yad yetsiva.",
+      "category": "Courage",
+      "generated_at": "2026-06-27T04:07:23.787221"
+    },
+    {
+      "english": "Face the storm, stand tall.",
+      "hebrew": "התמודד עם הסערה, עמוד זקוף.",
+      "transliteration": "hitmoded im haseara, amod zakuf.",
+      "category": "Courage",
+      "generated_at": "2026-06-27T04:07:23.787229"
+    },
+    {
+      "english": "Bold steps, new beginnings.",
+      "hebrew": "צעדים נועזים, התחלות חדשות.",
+      "transliteration": "tsa'adim no'azim, hathalot hadashot.",
+      "category": "Courage",
+      "generated_at": "2026-06-27T04:07:23.787231"
+    },
+    {
+      "english": "Trust your inner strength.",
+      "hebrew": "בטח בכוח הפנימי שלך.",
+      "transliteration": "betach bekoach hapnimi shelcha.",
+      "category": "Courage",
+      "generated_at": "2026-06-27T04:07:23.787232"
+    },
+    {
+      "english": "Don't fear the unknown.",
+      "hebrew": "אל תפחד מהלא נודע.",
+      "transliteration": "al tifchad mehalo noda.",
+      "category": "Courage",
+      "generated_at": "2026-06-27T04:07:23.787233"
     }
   ],
-  "last_updated": "2026-06-26T21:24:38.798427"
+  "last_updated": "2026-06-27T04:07:23.787235"
 }
