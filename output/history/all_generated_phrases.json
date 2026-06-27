@@ -2204,7 +2204,42 @@
       "transliteration": "Chabru et hasimcha shelachem, tov achar tov.",
       "category": "Music",
       "generated_at": "2026-06-27T17:55:41.775786"
+    },
+    {
+      "english": "Listen closely, speak slowly.",
+      "hebrew": "קשוב היטב, דבר לאט.",
+      "transliteration": "Kashov heitev, daber le'at.",
+      "category": "Directions",
+      "generated_at": "2026-06-27T21:12:20.875870"
+    },
+    {
+      "english": "Repeat after me, please.",
+      "hebrew": "חזור אחריי, בבקשה.",
+      "transliteration": "Hazor acharai, bevakasha.",
+      "category": "Directions",
+      "generated_at": "2026-06-27T21:12:20.875880"
+    },
+    {
+      "english": "Open your books, now.",
+      "hebrew": "פתחו ספרים, עכשיו.",
+      "transliteration": "Pt'chu sfarim, achshav.",
+      "category": "Directions",
+      "generated_at": "2026-06-27T21:12:20.875881"
+    },
+    {
+      "english": "Read aloud, with feeling.",
+      "hebrew": "קרא בקול, עם רגש.",
+      "transliteration": "K'ra be'kol, im regesh.",
+      "category": "Directions",
+      "generated_at": "2026-06-27T21:12:20.875882"
+    },
+    {
+      "english": "Write this down, carefully.",
+      "hebrew": "כתוב את זה, בזהירות.",
+      "transliteration": "K'tov et zeh, behizhirut.",
+      "category": "Directions",
+      "generated_at": "2026-06-27T21:12:20.875884"
     }
   ],
-  "last_updated": "2026-06-27T17:55:41.775788"
+  "last_updated": "2026-06-27T21:12:20.875886"
 }
