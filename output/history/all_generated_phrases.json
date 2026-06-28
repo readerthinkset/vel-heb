@@ -2274,7 +2274,42 @@
       "transliteration": "B'ne g'sherim, shel hav'hana.",
       "category": "Positive Life",
       "generated_at": "2026-06-28T04:40:14.093350"
+    },
+    {
+      "english": "This shirt, it fits perfectly.",
+      "hebrew": "החולצה הזאת, מתאימה בול.",
+      "transliteration": "Ha-chultza ha-zot, mat'ima bul.",
+      "category": "Clothes",
+      "generated_at": "2026-06-28T13:09:44.654044"
+    },
+    {
+      "english": "I need new socks, please.",
+      "hebrew": "אני צריך גרביים חדשות, בבקשה.",
+      "transliteration": "Ani tsarich g'ravayim chadashot, bevakasha.",
+      "category": "Clothes",
+      "generated_at": "2026-06-28T13:09:44.654053"
+    },
+    {
+      "english": "These pants, are they comfortable?",
+      "hebrew": "המכנסיים האלה, נוחים?",
+      "transliteration": "Ha-michnasayim ha-ele, nochim?",
+      "category": "Clothes",
+      "generated_at": "2026-06-28T13:09:44.654055"
+    },
+    {
+      "english": "My favorite jacket, where is it?",
+      "hebrew": "המעיל האהוב עליי, איפה הוא?",
+      "transliteration": "Ha-me'il ha-ahuv alai, eifo hu?",
+      "category": "Clothes",
+      "generated_at": "2026-06-28T13:09:44.654056"
+    },
+    {
+      "english": "A warm sweater, for winter.",
+      "hebrew": "סוודר חם, לחורף.",
+      "transliteration": "Sveder cham, la-choref.",
+      "category": "Clothes",
+      "generated_at": "2026-06-28T13:09:44.654057"
     }
   ],
-  "last_updated": "2026-06-28T04:40:14.093352"
+  "last_updated": "2026-06-28T13:09:44.654059"
 }
