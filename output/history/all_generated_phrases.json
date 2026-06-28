@@ -2344,7 +2344,42 @@
       "transliteration": "Ze omer kol kach harbeh, li.",
       "category": "Gratitude",
       "generated_at": "2026-06-28T15:12:11.581969"
+    },
+    {
+      "english": "This view, is breathtaking.",
+      "hebrew": "הנוף הזה, עוצר נשימה.",
+      "transliteration": "Ha-nof ha-zeh, o'tzer neshimah.",
+      "category": "Travel",
+      "generated_at": "2026-06-28T17:59:14.760621"
+    },
+    {
+      "english": "I'm looking, for a good spot.",
+      "hebrew": "אני מחפש, מקום טוב.",
+      "transliteration": "Ani mechapés, makom tov.",
+      "category": "Travel",
+      "generated_at": "2026-06-28T17:59:14.760629"
+    },
+    {
+      "english": "Can we sit, over there?",
+      "hebrew": "אפשר לשבת, שם?",
+      "transliteration": "Efshar lashevet, sham?",
+      "category": "Travel",
+      "generated_at": "2026-06-28T17:59:14.760631"
+    },
+    {
+      "english": "This street, is very charming.",
+      "hebrew": "הרחוב הזה, מקסים.",
+      "transliteration": "Ha-rechov ha-zeh, maksim.",
+      "category": "Travel",
+      "generated_at": "2026-06-28T17:59:14.760632"
+    },
+    {
+      "english": "I love, the atmosphere here.",
+      "hebrew": "אני אוהב, את האווירה.",
+      "transliteration": "Ani ohev, et ha-avira.",
+      "category": "Travel",
+      "generated_at": "2026-06-28T17:59:14.760633"
     }
   ],
-  "last_updated": "2026-06-28T15:12:11.581971"
+  "last_updated": "2026-06-28T17:59:14.760635"
 }
