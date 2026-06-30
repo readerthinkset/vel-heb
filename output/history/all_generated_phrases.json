@@ -2589,7 +2589,42 @@
       "transliteration": "Akav achar ha-ketzev, metza et ha-zrimah shelcha.",
       "category": "Purpose",
       "generated_at": "2026-06-29T21:40:10.156175"
+    },
+    {
+      "english": "A little spice, please.",
+      "hebrew": "קצת חריף, בבקשה.",
+      "transliteration": "Ktzat charif, bevakasha.",
+      "category": "Food",
+      "generated_at": "2026-06-30T04:15:15.158971"
+    },
+    {
+      "english": "This tastes, amazing.",
+      "hebrew": "זה טעים, מדהים.",
+      "transliteration": "Ze taim, madhim.",
+      "category": "Food",
+      "generated_at": "2026-06-30T04:15:15.158979"
+    },
+    {
+      "english": "More bread, if possible.",
+      "hebrew": "עוד לחם, אם אפשר.",
+      "transliteration": "Od lechem, im efshar.",
+      "category": "Food",
+      "generated_at": "2026-06-30T04:15:15.158981"
+    },
+    {
+      "english": "Just a small bite.",
+      "hebrew": "רק ביס קטן.",
+      "transliteration": "Rak bis katan.",
+      "category": "Food",
+      "generated_at": "2026-06-30T04:15:15.158982"
+    },
+    {
+      "english": "Is this fresh, today?",
+      "hebrew": "זה טרי, היום?",
+      "transliteration": "Ze tari, hayom?",
+      "category": "Food",
+      "generated_at": "2026-06-30T04:15:15.158983"
     }
   ],
-  "last_updated": "2026-06-29T21:40:10.156177"
+  "last_updated": "2026-06-30T04:15:15.158985"
 }
