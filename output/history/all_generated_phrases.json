@@ -2659,7 +2659,42 @@
       "transliteration": "Sufa mitkarevet, sagor tarisim.",
       "category": "Weather",
       "generated_at": "2026-06-30T13:51:19.720461"
+    },
+    {
+      "english": "You brighten my day, always.",
+      "hebrew": "את/ה מאיר/ה לי את היום, תמיד.",
+      "transliteration": "at/a me'ir/a li et ha'yom, tamid.",
+      "category": "Friendship",
+      "generated_at": "2026-06-30T16:15:59.548239"
+    },
+    {
+      "english": "My rock, in tough times.",
+      "hebrew": "הסלע שלי, בזמנים קשים.",
+      "transliteration": "ha'sela sheli, bi'zmanim kashim.",
+      "category": "Friendship",
+      "generated_at": "2026-06-30T16:15:59.548250"
+    },
+    {
+      "english": "Sharing dreams, with you.",
+      "hebrew": "חולקים חלומות, איתך.",
+      "transliteration": "cholkim chalomot, itcha.",
+      "category": "Friendship",
+      "generated_at": "2026-06-30T16:15:59.548251"
+    },
+    {
+      "english": "A rare gem, my friend.",
+      "hebrew": "פנינה נדירה, חברי.",
+      "transliteration": "pnina nedira, chaveri.",
+      "category": "Friendship",
+      "generated_at": "2026-06-30T16:15:59.548253"
+    },
+    {
+      "english": "Our bond, keeps growing.",
+      "hebrew": "הקשר שלנו, ממשיך לגדול.",
+      "transliteration": "ha'kesher shelanu, mamshich ligdol.",
+      "category": "Friendship",
+      "generated_at": "2026-06-30T16:15:59.548254"
     }
   ],
-  "last_updated": "2026-06-30T13:51:19.720463"
+  "last_updated": "2026-06-30T16:15:59.548255"
 }
