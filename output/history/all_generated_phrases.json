@@ -2624,7 +2624,42 @@
       "transliteration": "Ze tari, hayom?",
       "category": "Food",
       "generated_at": "2026-06-30T04:15:15.158983"
+    },
+    {
+      "english": "Sunny day, happy mood.",
+      "hebrew": "יום שמשי, מצב רוח טוב.",
+      "transliteration": "Yom shimshi, matzav ruach tov.",
+      "category": "Weather",
+      "generated_at": "2026-06-30T13:51:19.720449"
+    },
+    {
+      "english": "Rain falling, indoors we stay.",
+      "hebrew": "גשם יורד, בפנים נשאר.",
+      "transliteration": "Geshem yored, bifnim nish'ar.",
+      "category": "Weather",
+      "generated_at": "2026-06-30T13:51:19.720457"
+    },
+    {
+      "english": "Wind blowing, leaves dance.",
+      "hebrew": "רוח נושבת, עלים רוקדים.",
+      "transliteration": "Ruach noshevet, alim rokdrim.",
+      "category": "Weather",
+      "generated_at": "2026-06-30T13:51:19.720458"
+    },
+    {
+      "english": "Cloudy sky, soft light.",
+      "hebrew": "שמיים מעוננים, אור רך.",
+      "transliteration": "Shamayim me'unanim, or rach.",
+      "category": "Weather",
+      "generated_at": "2026-06-30T13:51:19.720460"
+    },
+    {
+      "english": "Storm coming, close the shutters.",
+      "hebrew": "סופה מתקרבת, סגור תריסים.",
+      "transliteration": "Sufa mitkarevet, sagor tarisim.",
+      "category": "Weather",
+      "generated_at": "2026-06-30T13:51:19.720461"
     }
   ],
-  "last_updated": "2026-06-30T04:15:15.158985"
+  "last_updated": "2026-06-30T13:51:19.720463"
 }
