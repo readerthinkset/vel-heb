@@ -2869,7 +2869,42 @@
       "transliteration": "Shirim memal'im avir, levavot smechim.",
       "category": "Holidays",
       "generated_at": "2026-07-01T16:16:31.238483"
+    },
+    {
+      "english": "The future is, online.",
+      "hebrew": "העתיד, אונליין.",
+      "transliteration": "Ha'atid, online.",
+      "category": "Technology",
+      "generated_at": "2026-07-01T18:55:39.812814"
+    },
+    {
+      "english": "Click, connect, create.",
+      "hebrew": "לחץ, התחבר, צור.",
+      "transliteration": "Lachatz, hit'chaber, tzor.",
+      "category": "Technology",
+      "generated_at": "2026-07-01T18:55:39.812823"
+    },
+    {
+      "english": "New app, new life.",
+      "hebrew": "אפליקציה חדשה, חיים חדשים.",
+      "transliteration": "Aplikatzia chadasha, chaim chadashim.",
+      "category": "Technology",
+      "generated_at": "2026-07-01T18:55:39.812825"
+    },
+    {
+      "english": "Code is, the language.",
+      "hebrew": "קוד הוא, השפה.",
+      "transliteration": "Kod hu, hasafa.",
+      "category": "Technology",
+      "generated_at": "2026-07-01T18:55:39.812827"
+    },
+    {
+      "english": "Digital world, real impact.",
+      "hebrew": "עולם דיגיטלי, השפעה אמיתית.",
+      "transliteration": "Olam digitali, hashpa'a amiti't.",
+      "category": "Technology",
+      "generated_at": "2026-07-01T18:55:39.812828"
     }
   ],
-  "last_updated": "2026-07-01T16:16:31.238506"
+  "last_updated": "2026-07-01T18:55:39.812830"
 }
