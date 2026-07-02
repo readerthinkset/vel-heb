@@ -3079,7 +3079,42 @@
       "transliteration": "Ta'am et ha'rega, hit'aneg al ha'atid.",
       "category": "Balance",
       "generated_at": "2026-07-02T18:22:44.486245"
+    },
+    {
+      "english": "A beautiful day, indeed.",
+      "hebrew": "יום יפה, באמת.",
+      "transliteration": "Yom yafeh, be'emet.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-02T21:16:36.317985"
+    },
+    {
+      "english": "Coffee, please, soon.",
+      "hebrew": "קפה, בבקשה, בקרוב.",
+      "transliteration": "Kafeh, bevakasha, bekarov.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-02T21:16:36.317994"
+    },
+    {
+      "english": "This book, it's interesting.",
+      "hebrew": "הספר הזה, הוא מעניין.",
+      "transliteration": "Ha'sefer hazeh, hu me'anyen.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-02T21:16:36.317996"
+    },
+    {
+      "english": "We should go, now.",
+      "hebrew": "אנחנו צריכים ללכת, עכשיו.",
+      "transliteration": "Anachnu tzrichim lalechet, achshav.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-02T21:16:36.317997"
+    },
+    {
+      "english": "What a nice surprise!",
+      "hebrew": "איזו הפתעה נחמדה!",
+      "transliteration": "Eizo haft'a nechimda!",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-02T21:16:36.317998"
     }
   ],
-  "last_updated": "2026-07-02T18:22:44.486247"
+  "last_updated": "2026-07-02T21:16:36.318000"
 }
