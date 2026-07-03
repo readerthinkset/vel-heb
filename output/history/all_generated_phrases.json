@@ -3219,7 +3219,42 @@
       "transliteration": "Gal shel hakala, sof sof.",
       "category": "Feelings",
       "generated_at": "2026-07-03T15:48:17.628525"
+    },
+    {
+      "english": "Morning light, greets my window.",
+      "hebrew": "אור הבוקר, פוגש את החלון שלי.",
+      "transliteration": "Or ha-boker, pogeish et ha-chalon sheli.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-03T18:08:21.417205"
+    },
+    {
+      "english": "Slow breath in, out.",
+      "hebrew": "נשימה איטית, פנימה, החוצה.",
+      "transliteration": "Neshima eitit, p'nima, ha-chutza.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-03T18:08:21.417214"
+    },
+    {
+      "english": "Tea steeps, flavors bloom.",
+      "hebrew": "התה מתחמם, טעמים נפתחים.",
+      "transliteration": "Ha-teh mit'chamem, te'amim niftachim.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-03T18:08:21.417216"
+    },
+    {
+      "english": "Quiet thought, before the rush.",
+      "hebrew": "מחשבה שקטה, לפני הבהלה.",
+      "transliteration": "Machshava shketa, lifnei ha-b'hala.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-03T18:08:21.417239"
+    },
+    {
+      "english": "Shoes by the door, ready.",
+      "hebrew": "נעליים ליד הדלת, מוכנות.",
+      "transliteration": "Na'alayim leyad ha-delet, muchanot.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-03T18:08:21.417240"
     }
   ],
-  "last_updated": "2026-07-03T15:48:17.628527"
+  "last_updated": "2026-07-03T18:08:21.417242"
 }
