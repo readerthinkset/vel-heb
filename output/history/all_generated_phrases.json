@@ -3114,7 +3114,42 @@
       "transliteration": "Eizo haft'a nechimda!",
       "category": "Basic Phrases",
       "generated_at": "2026-07-02T21:16:36.317998"
+    },
+    {
+      "english": "My mom, she's my rock.",
+      "hebrew": "אמא שלי, היא עוגן.",
+      "transliteration": "Ima sheli, hi 'ogen.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-03T03:57:08.209805"
+    },
+    {
+      "english": "Dad, always got my back.",
+      "hebrew": "אבא, תמיד איתי.",
+      "transliteration": "Abba, tamid iti.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-03T03:57:08.209814"
+    },
+    {
+      "english": "My sister, bright as the sun.",
+      "hebrew": "אחותי, זורחת כמו שמש.",
+      "transliteration": "Ahoti, zorachat kmo shemesh.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-03T03:57:08.209816"
+    },
+    {
+      "english": "Brother, pure energy.",
+      "hebrew": "אחי, אנרגיה טהורה.",
+      "transliteration": "Achi, energia tehora.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-03T03:57:08.209818"
+    },
+    {
+      "english": "My son, full of wonder.",
+      "hebrew": "בני, מלא פליאה.",
+      "transliteration": "Beni, male pli'ah.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-03T03:57:08.209819"
     }
   ],
-  "last_updated": "2026-07-02T21:16:36.318000"
+  "last_updated": "2026-07-03T03:57:08.209821"
 }
