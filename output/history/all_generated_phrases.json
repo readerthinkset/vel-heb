@@ -3359,7 +3359,42 @@
       "transliteration": "achat esre sachaniv, al hamigresh.",
       "category": "Numbers",
       "generated_at": "2026-07-04T12:55:14.531676"
+    },
+    {
+      "english": "Try saying this, out loud.",
+      "hebrew": "נסו לומר זאת, בקול רם.",
+      "transliteration": "Nisu lomar zot, be'kol ram.",
+      "category": "Directions",
+      "generated_at": "2026-07-04T14:57:59.512701"
+    },
+    {
+      "english": "Think about the meaning, first.",
+      "hebrew": "חשבו על המשמעות, תחילה.",
+      "transliteration": "Chashvu al ha'mashma'ut, t'chila.",
+      "category": "Directions",
+      "generated_at": "2026-07-04T14:57:59.512710"
+    },
+    {
+      "english": "Let's practice, together now.",
+      "hebrew": "בואו נתרגל, יחד עכשיו.",
+      "transliteration": "Bo'u nit'ragel, yachad achshav.",
+      "category": "Directions",
+      "generated_at": "2026-07-04T14:57:59.512712"
+    },
+    {
+      "english": "Imagine the sentence, in your head.",
+      "hebrew": "דמיינו את המשפט, בראשכם.",
+      "transliteration": "Damyenu et ha'mishpat, be'roschem.",
+      "category": "Directions",
+      "generated_at": "2026-07-04T14:57:59.512714"
+    },
+    {
+      "english": "Focus on the sounds, carefully.",
+      "hebrew": "התמקדו בצלילים, בזהירות.",
+      "transliteration": "Hitmakdu ba'tzlilim, bi'zehirut.",
+      "category": "Directions",
+      "generated_at": "2026-07-04T14:57:59.512715"
     }
   ],
-  "last_updated": "2026-07-04T12:55:14.531678"
+  "last_updated": "2026-07-04T14:57:59.512716"
 }
