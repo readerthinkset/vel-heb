@@ -3394,7 +3394,42 @@
       "transliteration": "Hitmakdu ba'tzlilim, bi'zehirut.",
       "category": "Directions",
       "generated_at": "2026-07-04T14:57:59.512715"
+    },
+    {
+      "english": "Every moment, counts.",
+      "hebrew": "כל רגע, נחשב.",
+      "transliteration": "Kol rega, nechshav.",
+      "category": "Time",
+      "generated_at": "2026-07-04T17:57:21.993689"
+    },
+    {
+      "english": "Dawn breaks, new day.",
+      "hebrew": "שחר עולה, יום חדש.",
+      "transliteration": "Shachar oleh, yom chadash.",
+      "category": "Time",
+      "generated_at": "2026-07-04T17:57:21.993699"
+    },
+    {
+      "english": "Past fades, future calls.",
+      "hebrew": "עבר נעלם, עתיד קורא.",
+      "transliteration": "Avar ne'elam, atid kora.",
+      "category": "Time",
+      "generated_at": "2026-07-04T17:57:21.993700"
+    },
+    {
+      "english": "This instant, matters.",
+      "hebrew": "הרגע הזה, חשוב.",
+      "transliteration": "Haherega hazeh, chashuv.",
+      "category": "Time",
+      "generated_at": "2026-07-04T17:57:21.993700"
+    },
+    {
+      "english": "Night falls, stars appear.",
+      "hebrew": "לילה יורד, כוכבים נראים.",
+      "transliteration": "Layla yored, kochavim nir'im.",
+      "category": "Time",
+      "generated_at": "2026-07-04T17:57:21.993701"
     }
   ],
-  "last_updated": "2026-07-04T14:57:59.512716"
+  "last_updated": "2026-07-04T17:57:21.993702"
 }
