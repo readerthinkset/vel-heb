@@ -3324,7 +3324,42 @@
       "transliteration": "Ha'ma'amatz shelcha zor'each.",
       "category": "Perseverance",
       "generated_at": "2026-07-04T03:50:42.242821"
+    },
+    {
+      "english": "Four seasons, cycle of life.",
+      "hebrew": "ארבע עונות, מחזור החיים.",
+      "transliteration": "arba onot, machzor hachayim.",
+      "category": "Numbers",
+      "generated_at": "2026-07-04T12:55:14.531661"
+    },
+    {
+      "english": "Seven days, a full week.",
+      "hebrew": "שבעה ימים, שבוע שלם.",
+      "transliteration": "shiv'a yamim, shavua shalem.",
+      "category": "Numbers",
+      "generated_at": "2026-07-04T12:55:14.531672"
+    },
+    {
+      "english": "Six strings, a sweet song.",
+      "hebrew": "שישה מיתרים, שיר מתוק.",
+      "transliteration": "shisha meetarim, shir matok.",
+      "category": "Numbers",
+      "generated_at": "2026-07-04T12:55:14.531674"
+    },
+    {
+      "english": "Nine steps, reach the top.",
+      "hebrew": "תשע צעדים, מגיעים לפסגה.",
+      "transliteration": "tesha tze'adim, magi'im lifsga.",
+      "category": "Numbers",
+      "generated_at": "2026-07-04T12:55:14.531675"
+    },
+    {
+      "english": "Eleven players, on the field.",
+      "hebrew": "אחת עשרה שחקנים, על המגרש.",
+      "transliteration": "achat esre sachaniv, al hamigresh.",
+      "category": "Numbers",
+      "generated_at": "2026-07-04T12:55:14.531676"
     }
   ],
-  "last_updated": "2026-07-04T03:50:42.242842"
+  "last_updated": "2026-07-04T12:55:14.531678"
 }
