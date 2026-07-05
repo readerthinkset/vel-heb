@@ -3499,7 +3499,42 @@
       "transliteration": "Rega shel sheket, le'chulam.",
       "category": "Kindness",
       "generated_at": "2026-07-05T04:09:21.741720"
+    },
+    {
+      "english": "A bright day, to you.",
+      "hebrew": "יום בהיר, לך.",
+      "transliteration": "Yom vah-heer, le-cha.",
+      "category": "Greetings",
+      "generated_at": "2026-07-05T13:02:48.380630"
+    },
+    {
+      "english": "What brings you, here?",
+      "hebrew": "מה מביא אותך, לכאן?",
+      "transliteration": "Mah meh-vee ot-cha, le-kan?",
+      "category": "Greetings",
+      "generated_at": "2026-07-05T13:02:48.380640"
+    },
+    {
+      "english": "Peace be upon this place.",
+      "hebrew": "שלום על המקום הזה.",
+      "transliteration": "Shalom al ha-ma-kom ha-zeh.",
+      "category": "Greetings",
+      "generated_at": "2026-07-05T13:02:48.380642"
+    },
+    {
+      "english": "A good encounter, ahead.",
+      "hebrew": "מפגש טוב, לפנינו.",
+      "transliteration": "Mif-gash tov, le-fan-ei-nu.",
+      "category": "Greetings",
+      "generated_at": "2026-07-05T13:02:48.380643"
+    },
+    {
+      "english": "Glad you arrived, safely.",
+      "hebrew": "שמח שהגעת, בשלום.",
+      "transliteration": "Sa-me-ach she-hig-a-ta, be-sha-lom.",
+      "category": "Greetings",
+      "generated_at": "2026-07-05T13:02:48.380644"
     }
   ],
-  "last_updated": "2026-07-05T04:09:21.741722"
+  "last_updated": "2026-07-05T13:02:48.380646"
 }
