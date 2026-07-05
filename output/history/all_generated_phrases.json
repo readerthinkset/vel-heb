@@ -3534,7 +3534,42 @@
       "transliteration": "Sa-me-ach she-hig-a-ta, be-sha-lom.",
       "category": "Greetings",
       "generated_at": "2026-07-05T13:02:48.380644"
+    },
+    {
+      "english": "Listen closely, the desert whispers.",
+      "hebrew": "הקשב היטב, המדבר לוחש.",
+      "transliteration": "Hakshav hitev, hamidbar lochesh.",
+      "category": "Purpose",
+      "generated_at": "2026-07-05T15:05:52.413260"
+    },
+    {
+      "english": "New words, new horizons.",
+      "hebrew": "מילים חדשות, אופקים חדשים.",
+      "transliteration": "Milim chadashot, ofakim chadashim.",
+      "category": "Purpose",
+      "generated_at": "2026-07-05T15:05:52.413269"
+    },
+    {
+      "english": "Taste the ancient, feel the modern.",
+      "hebrew": "לטעם את העתיק, להרגיש את המודרני.",
+      "transliteration": "Lita'am et ha'atik, le'hargish et hamoderni.",
+      "category": "Purpose",
+      "generated_at": "2026-07-05T15:05:52.413271"
+    },
+    {
+      "english": "Let the letters bloom.",
+      "hebrew": "תנו לאותיות לפרוח.",
+      "transliteration": "T'nu le'otiot lifroach.",
+      "category": "Purpose",
+      "generated_at": "2026-07-05T15:05:52.413272"
+    },
+    {
+      "english": "Sing with the rhythm, of this land.",
+      "hebrew": "שירו עם הקצב, של הארץ הזו.",
+      "transliteration": "Shiru im hakatzev, shel ha'aretz hazu.",
+      "category": "Purpose",
+      "generated_at": "2026-07-05T15:05:52.413274"
     }
   ],
-  "last_updated": "2026-07-05T13:02:48.380646"
+  "last_updated": "2026-07-05T15:05:52.413275"
 }
