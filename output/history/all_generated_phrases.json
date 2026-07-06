@@ -3709,7 +3709,42 @@
       "transliteration": "Havantecha, mitrachevet hachutza.",
       "category": "Success",
       "generated_at": "2026-07-06T14:52:42.910687"
+    },
+    {
+      "english": "Her laughter, a vibrant pink.",
+      "hebrew": "צחוקה, ורוד עז.",
+      "transliteration": "Tzchokah, varod az.",
+      "category": "Colors",
+      "generated_at": "2026-07-06T16:47:49.236382"
+    },
+    {
+      "english": "His eyes, the deep sea's grey.",
+      "hebrew": "עיניו, אפור הים העמוק.",
+      "transliteration": "Einav, afor hayam ha'amok.",
+      "category": "Colors",
+      "generated_at": "2026-07-06T16:47:49.236393"
+    },
+    {
+      "english": "A whisper of lavender, calming.",
+      "hebrew": "לחש אזוביון, מרגיע.",
+      "transliteration": "Lachash azoviyon, margi'a.",
+      "category": "Colors",
+      "generated_at": "2026-07-06T16:47:49.236395"
+    },
+    {
+      "english": "The old book, faded brown.",
+      "hebrew": "הספר הישן, חום דהוי.",
+      "transliteration": "Hasefer hayashan, chum dahuy.",
+      "category": "Colors",
+      "generated_at": "2026-07-06T16:47:49.236397"
+    },
+    {
+      "english": "Shadows, a midnight purple.",
+      "hebrew": "צללים, סגול חצות.",
+      "transliteration": "Tzlalim, sagol chatzot.",
+      "category": "Colors",
+      "generated_at": "2026-07-06T16:47:49.236398"
     }
   ],
-  "last_updated": "2026-07-06T14:52:42.910689"
+  "last_updated": "2026-07-06T16:47:49.236400"
 }
