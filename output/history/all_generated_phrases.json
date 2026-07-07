@@ -3849,7 +3849,42 @@
       "transliteration": "Ata mevin oti, bli milim.",
       "category": "Relationships",
       "generated_at": "2026-07-07T04:05:57.280579"
+    },
+    {
+      "english": "My work, it's a passion.",
+      "hebrew": "העבודה שלי, היא תשוקה.",
+      "transliteration": "Ha'avoda sheli, hi teshuka.",
+      "category": "Work",
+      "generated_at": "2026-07-07T14:02:25.275600"
+    },
+    {
+      "english": "Today's task, finished.",
+      "hebrew": "המשימה להיום, סיימתי.",
+      "transliteration": "Ha'mesima le'hayom, siyamti.",
+      "category": "Work",
+      "generated_at": "2026-07-07T14:02:25.275610"
+    },
+    {
+      "english": "New project, exciting.",
+      "hebrew": "פרויקט חדש, מרגש.",
+      "transliteration": "Proyekt chadash, mergez.",
+      "category": "Work",
+      "generated_at": "2026-07-07T14:02:25.275612"
+    },
+    {
+      "english": "Teamwork, makes dreams work.",
+      "hebrew": "עבודת צוות, מגשימה חלומות.",
+      "transliteration": "Avodat tzevet, magshima chalomot.",
+      "category": "Work",
+      "generated_at": "2026-07-07T14:02:25.275613"
+    },
+    {
+      "english": "Deadline approaching, fast.",
+      "hebrew": "דדליין מתקרב, מהר.",
+      "transliteration": "Deadline mitkarev, maher.",
+      "category": "Work",
+      "generated_at": "2026-07-07T14:02:25.275614"
     }
   ],
-  "last_updated": "2026-07-07T04:05:57.280581"
+  "last_updated": "2026-07-07T14:02:25.275616"
 }
