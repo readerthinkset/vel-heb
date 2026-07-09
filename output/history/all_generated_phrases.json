@@ -4129,7 +4129,42 @@
       "transliteration": "ha'kahal, ro'esh.",
       "category": "Sports",
       "generated_at": "2026-07-09T04:00:27.616937"
+    },
+    {
+      "english": "What a delightful surprise.",
+      "hebrew": "איזה פלא נעים.",
+      "transliteration": "Eizeh pelef na'im.",
+      "category": "Travel",
+      "generated_at": "2026-07-09T14:25:42.577083"
+    },
+    {
+      "english": "This city, has a rhythm.",
+      "hebrew": "לעיר הזו, יש קצב.",
+      "transliteration": "La'ir hazoh, yesh ketzev.",
+      "category": "Travel",
+      "generated_at": "2026-07-09T14:25:42.577091"
+    },
+    {
+      "english": "Let's wander, without a map.",
+      "hebrew": "בוא נשוטט, בלי מפה.",
+      "transliteration": "Bo neshotet, bli mapa.",
+      "category": "Travel",
+      "generated_at": "2026-07-09T14:25:42.577092"
+    },
+    {
+      "english": "The food here, is exceptional.",
+      "hebrew": "האוכל כאן, יוצא מן הכלל.",
+      "transliteration": "Ha'okhel kan, yotzeh min ha'klal.",
+      "category": "Travel",
+      "generated_at": "2026-07-09T14:25:42.577094"
+    },
+    {
+      "english": "I feel so alive, right now.",
+      "hebrew": "אני מרגיש/ה כל כך חי/ה, עכשיו.",
+      "transliteration": "Ani margish/a kol kach chai/cha, achshav.",
+      "category": "Travel",
+      "generated_at": "2026-07-09T14:25:42.577095"
     }
   ],
-  "last_updated": "2026-07-09T04:00:27.616938"
+  "last_updated": "2026-07-09T14:25:42.577097"
 }
