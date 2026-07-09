@@ -4234,7 +4234,42 @@
       "transliteration": "Panim yidid'tiyot, chiyuch cham.",
       "category": "Basic Phrases",
       "generated_at": "2026-07-09T18:46:10.423360"
+    },
+    {
+      "english": "Something feels wrong, quickly.",
+      "hebrew": "משהו מרגיש לא טוב, מהר.",
+      "transliteration": "Mashehu margish lo tov, maher.",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T21:28:16.969089"
+    },
+    {
+      "english": "I need assistance, now.",
+      "hebrew": "אני זקוק לעזרה, עכשיו.",
+      "transliteration": "Ani zakuk le'ezra, achshav.",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T21:28:16.969100"
+    },
+    {
+      "english": "My breathing is difficult.",
+      "hebrew": "הנשימה שלי קשה.",
+      "transliteration": "Ha'neshima sheli kasheh.",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T21:28:16.969102"
+    },
+    {
+      "english": "Is there a pharmacy nearby?",
+      "hebrew": "יש בית מרקחת קרוב?",
+      "transliteration": "Yesh beit mirkahat karov?",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T21:28:16.969103"
+    },
+    {
+      "english": "I've had an accident.",
+      "hebrew": "אירעה לי תאונה.",
+      "transliteration": "Ir'ah li te'una.",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T21:28:16.969104"
     }
   ],
-  "last_updated": "2026-07-09T18:46:10.423362"
+  "last_updated": "2026-07-09T21:28:16.969106"
 }
