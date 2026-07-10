@@ -4409,7 +4409,42 @@
       "transliteration": "Hakashev, lelev shelcha.",
       "category": "Hope",
       "generated_at": "2026-07-10T18:16:50.613070"
+    },
+    {
+      "english": "Innovate, then share.",
+      "hebrew": "חדש, ואז שתף.",
+      "transliteration": "Chadésh, va'az shatef.",
+      "category": "Technology",
+      "generated_at": "2026-07-10T21:12:16.464998"
+    },
+    {
+      "english": "Data speaks, listen.",
+      "hebrew": "נתונים מדברים, הקשב.",
+      "transliteration": "Netunim medabrim, hakshév.",
+      "category": "Technology",
+      "generated_at": "2026-07-10T21:12:16.465008"
+    },
+    {
+      "english": "Your ideas, amplified.",
+      "hebrew": "הרעיונות שלך, מועצמים.",
+      "transliteration": "Ha'ra'ayonot shelkha, mu'atzmim.",
+      "category": "Technology",
+      "generated_at": "2026-07-10T21:12:16.465009"
+    },
+    {
+      "english": "Think, design, build.",
+      "hebrew": "חשוב, תכנן, בנה.",
+      "transliteration": "Chashov, tichnén, bné.",
+      "category": "Technology",
+      "generated_at": "2026-07-10T21:12:16.465011"
+    },
+    {
+      "english": "The network, expands.",
+      "hebrew": "הרשת, מתרחבת.",
+      "transliteration": "Ha'reshet, mitrachevet.",
+      "category": "Technology",
+      "generated_at": "2026-07-10T21:12:16.465012"
     }
   ],
-  "last_updated": "2026-07-10T18:16:50.613071"
+  "last_updated": "2026-07-10T21:12:16.465013"
 }
