@@ -4584,7 +4584,42 @@
       "transliteration": "Ha-miknasayim ha-qtsarim ha'ele, ha'im hem kutna?",
       "category": "Clothes",
       "generated_at": "2026-07-11T17:46:01.532741"
+    },
+    {
+      "english": "Her brow, furrowed in thought.",
+      "hebrew": "מצחה, מקומטת במחשבה.",
+      "transliteration": "Mitzha, mekumatet be'machshava.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-11T20:58:33.535427"
+    },
+    {
+      "english": "His jaw, set in determination.",
+      "hebrew": "לסתו, קבוע בהחלטה.",
+      "transliteration": "Lesto, kavu'a behachlata.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-11T20:58:33.535434"
+    },
+    {
+      "english": "A blush, on her cheek.",
+      "hebrew": "סומק, על לחייה.",
+      "transliteration": "Somek, al lechya.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-11T20:58:33.535436"
+    },
+    {
+      "english": "His lips, curved in a smile.",
+      "hebrew": "שפתיו, מעוקלות בחיוך.",
+      "transliteration": "Sefataiv, me'ukalot be'chiyuch.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-11T20:58:33.535437"
+    },
+    {
+      "english": "Her chin, tilted upwards.",
+      "hebrew": "סנטרה, מוטה כלפי מעלה.",
+      "transliteration": "Sant'ra, muta klapei ma'ala.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-11T20:58:33.535439"
     }
   ],
-  "last_updated": "2026-07-11T17:46:01.532743"
+  "last_updated": "2026-07-11T20:58:33.535440"
 }
