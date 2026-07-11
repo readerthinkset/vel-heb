@@ -4444,7 +4444,42 @@
       "transliteration": "Ha'reshet, mitrachevet.",
       "category": "Technology",
       "generated_at": "2026-07-10T21:12:16.465012"
+    },
+    {
+      "english": "Could we, try that, appetizer?",
+      "hebrew": "אפשר, לנסות, את המנה הראשונה?",
+      "transliteration": "Efshar, lenasot, et ham'na harishona?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-11T03:26:53.617066"
+    },
+    {
+      "english": "What's, this made, of, exactly?",
+      "hebrew": "ממה, זה עשוי, בדיוק?",
+      "transliteration": "Mimah, zeh asui, bediyuk?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-11T03:26:53.617076"
+    },
+    {
+      "english": "Is there, something, lighter, perhaps?",
+      "hebrew": "יש משהו, קליל, אולי?",
+      "transliteration": "Yesh mashehu, kalil, ulai?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-11T03:26:53.617077"
+    },
+    {
+      "english": "My compliments, to the chef.",
+      "hebrew": "מחמאות, לשף.",
+      "transliteration": "Mach'amot, lashef.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-11T03:26:53.617079"
+    },
+    {
+      "english": "We're still, deciding, thank you.",
+      "hebrew": "אנחנו עדיין, מחליטים, תודה.",
+      "transliteration": "Anachnu adayin, machlitim, todah.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-11T03:26:53.617080"
     }
   ],
-  "last_updated": "2026-07-10T21:12:16.465013"
+  "last_updated": "2026-07-11T03:26:53.617082"
 }
