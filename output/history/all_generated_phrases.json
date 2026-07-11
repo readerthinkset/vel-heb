@@ -4549,7 +4549,42 @@
       "transliteration": "Tzachok harbeh, reflektzia amukah.",
       "category": "Balance",
       "generated_at": "2026-07-11T14:44:40.960987"
+    },
+    {
+      "english": "This dress, it sparkles.",
+      "hebrew": "השמלה הזו, היא נוצצת.",
+      "transliteration": "Ha-simla ha-zo, hi notzet.",
+      "category": "Clothes",
+      "generated_at": "2026-07-11T17:46:01.532728"
+    },
+    {
+      "english": "That tie, is it silk?",
+      "hebrew": "העניבה ההיא, האם היא ממשי?",
+      "transliteration": "Ha-aniva ha-hi, ha'im hi mimashi?",
+      "category": "Clothes",
+      "generated_at": "2026-07-11T17:46:01.532737"
+    },
+    {
+      "english": "My shoes, are they polished?",
+      "hebrew": "הנעליים שלי, האם הן מבריקות?",
+      "transliteration": "Ha-na'alayim sheli, ha'im hen mavriqot?",
+      "category": "Clothes",
+      "generated_at": "2026-07-11T17:46:01.532738"
+    },
+    {
+      "english": "A stylish hat, for the sun.",
+      "hebrew": "כובע אופנתי, לשמש.",
+      "transliteration": "Kova ofnati, la-shemesh.",
+      "category": "Clothes",
+      "generated_at": "2026-07-11T17:46:01.532740"
+    },
+    {
+      "english": "These shorts, are they cotton?",
+      "hebrew": "המכנסיים הקצרים האלה, האם הם כותנה?",
+      "transliteration": "Ha-miknasayim ha-qtsarim ha'ele, ha'im hem kutna?",
+      "category": "Clothes",
+      "generated_at": "2026-07-11T17:46:01.532741"
     }
   ],
-  "last_updated": "2026-07-11T14:44:40.960989"
+  "last_updated": "2026-07-11T17:46:01.532743"
 }
