@@ -4689,7 +4689,42 @@
       "transliteration": "Kal le'daber, itcha.",
       "category": "Friendship",
       "generated_at": "2026-07-12T12:49:32.220655"
+    },
+    {
+      "english": "My mother, always a hug.",
+      "hebrew": "אמא שלי, תמיד חיבוק.",
+      "transliteration": "Ima sheli, tamid chibuk.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-12T14:47:08.869317"
+    },
+    {
+      "english": "My father, a strong hand.",
+      "hebrew": "אבא שלי, יד חזקה.",
+      "transliteration": "Abba sheli, yad chazaka.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-12T14:47:08.869327"
+    },
+    {
+      "english": "My sister, a guiding star.",
+      "hebrew": "אחותי, כוכב מנחה.",
+      "transliteration": "Achoti, kochav mancha.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-12T14:47:08.869329"
+    },
+    {
+      "english": "My brother, full of ideas.",
+      "hebrew": "אחי, מלא רעיונות.",
+      "transliteration": "Achi, male ra'ayonot.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-12T14:47:08.869331"
+    },
+    {
+      "english": "My son, pure curiosity.",
+      "hebrew": "בני, סקרנות טהורה.",
+      "transliteration": "Beni, sakranut tehora.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-12T14:47:08.869332"
     }
   ],
-  "last_updated": "2026-07-12T12:49:32.220657"
+  "last_updated": "2026-07-12T14:47:08.869334"
 }
