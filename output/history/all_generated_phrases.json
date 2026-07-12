@@ -4759,7 +4759,42 @@
       "transliteration": "Ritzpat ha'ya'ar, r'ka me'alim nof'lim.",
       "category": "Nature",
       "generated_at": "2026-07-12T17:51:25.910850"
+    },
+    {
+      "english": "Fog lifts, a new morning.",
+      "hebrew": "הערפל יורד, בוקר חדש.",
+      "transliteration": "ha'arfel yored, boker chadash.",
+      "category": "Weather",
+      "generated_at": "2026-07-12T20:58:49.317269"
+    },
+    {
+      "english": "Gentle drizzle, flowers drink.",
+      "hebrew": "דק משרד, פרחים שותים.",
+      "transliteration": "dak misrad, prachim shotim.",
+      "category": "Weather",
+      "generated_at": "2026-07-12T20:58:49.317278"
+    },
+    {
+      "english": "Gusty winds, kites soar high.",
+      "hebrew": "רוחות חזקות, עפיפונים עפים גבוה.",
+      "transliteration": "ruchot chazakot, afifonim afim gavoha.",
+      "category": "Weather",
+      "generated_at": "2026-07-12T20:58:49.317279"
+    },
+    {
+      "english": "Overcast skies, quiet afternoon.",
+      "hebrew": "שמים מעוננים, אחר הצהריים שקטים.",
+      "transliteration": "shamaim me'unanin, achar hatzohorayim shketim.",
+      "category": "Weather",
+      "generated_at": "2026-07-12T20:58:49.317281"
+    },
+    {
+      "english": "Thunder rumbles, distant drums.",
+      "hebrew": "רעם מתגלגל, תופים מרחוק.",
+      "transliteration": "ra'am mitgalgel, tupam merachok.",
+      "category": "Weather",
+      "generated_at": "2026-07-12T20:58:49.317282"
     }
   ],
-  "last_updated": "2026-07-12T17:51:25.910851"
+  "last_updated": "2026-07-12T20:58:49.317284"
 }
