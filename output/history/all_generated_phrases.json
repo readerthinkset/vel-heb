@@ -4829,7 +4829,42 @@
       "transliteration": "Hak'shev la'sipur, hargeish et ha'mashma'ut.",
       "category": "Education",
       "generated_at": "2026-07-13T02:37:30.984767"
+    },
+    {
+      "english": "Sun shines bright, summer's here.",
+      "hebrew": "השמש זורחת, הקיץ כאן.",
+      "transliteration": "Ha-shemesh zorachat, ha-kayitz kan.",
+      "category": "Holidays",
+      "generated_at": "2026-07-13T03:41:00.962662"
+    },
+    {
+      "english": "Stars twinkle high, night is calm.",
+      "hebrew": "כוכבים נוצצים, הלילה שקט.",
+      "transliteration": "Kochavim notz'tzi'im, ha-layla shaket.",
+      "category": "Holidays",
+      "generated_at": "2026-07-13T03:41:00.962670"
+    },
+    {
+      "english": "Harvest's bounty, fields are full.",
+      "hebrew": "שפע הקציר, השדות מלאים.",
+      "transliteration": "Shefa ha-katzir, ha-sodot mel'im.",
+      "category": "Holidays",
+      "generated_at": "2026-07-13T03:41:00.962672"
+    },
+    {
+      "english": "Ancient stories, whispered low.",
+      "hebrew": "סיפורים עתיקים, לוחשים בשקט.",
+      "transliteration": "Sipurim atikim, lochashim ba-sheket.",
+      "category": "Holidays",
+      "generated_at": "2026-07-13T03:41:00.962673"
+    },
+    {
+      "english": "Sweet dates offered, taste the joy.",
+      "hebrew": "תמרים מתוקים, טעמו את השמחה.",
+      "transliteration": "Tmarim metukim, ta'amu et ha-simcha.",
+      "category": "Holidays",
+      "generated_at": "2026-07-13T03:41:00.962675"
     }
   ],
-  "last_updated": "2026-07-13T02:37:30.984768"
+  "last_updated": "2026-07-13T03:41:00.962676"
 }
