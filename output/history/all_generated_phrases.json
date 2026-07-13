@@ -4794,7 +4794,42 @@
       "transliteration": "ra'am mitgalgel, tupam merachok.",
       "category": "Weather",
       "generated_at": "2026-07-12T20:58:49.317282"
+    },
+    {
+      "english": "Open a book, unlock a world.",
+      "hebrew": "פתח ספר, גלה עולם.",
+      "transliteration": "P'tach sefer, gal'eh olam.",
+      "category": "Education",
+      "generated_at": "2026-07-13T02:37:30.984752"
+    },
+    {
+      "english": "Curiosity sparks learning, always.",
+      "hebrew": "סקרנות מדליקה למידה, תמיד.",
+      "transliteration": "Sakranut madlikah l'midah, tamid.",
+      "category": "Education",
+      "generated_at": "2026-07-13T02:37:30.984762"
+    },
+    {
+      "english": "Every mistake, a step forward.",
+      "hebrew": "כל טעות, צעד קדימה.",
+      "transliteration": "Kol ta'ut, tza'ad kadimah.",
+      "category": "Education",
+      "generated_at": "2026-07-13T02:37:30.984764"
+    },
+    {
+      "english": "Connect the dots, see the picture.",
+      "hebrew": "חבר את הנקודות, ראה את התמונה.",
+      "transliteration": "Chaber et ha'nekudot, re'eh et ha'tmunah.",
+      "category": "Education",
+      "generated_at": "2026-07-13T02:37:30.984766"
+    },
+    {
+      "english": "Listen to the story, feel the meaning.",
+      "hebrew": "הקשב לסיפור, הרגש את המשמעות.",
+      "transliteration": "Hak'shev la'sipur, hargeish et ha'mashma'ut.",
+      "category": "Education",
+      "generated_at": "2026-07-13T02:37:30.984767"
     }
   ],
-  "last_updated": "2026-07-12T20:58:49.317284"
+  "last_updated": "2026-07-13T02:37:30.984768"
 }
