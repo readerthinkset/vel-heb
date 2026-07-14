@@ -5074,7 +5074,42 @@
       "transliteration": "Libi niftach, ktzat yoter.",
       "category": "Forgiveness",
       "generated_at": "2026-07-14T13:01:32.305549"
+    },
+    {
+      "english": "Just a little while, then we go.",
+      "hebrew": "עוד רגע קט, ואז נלך.",
+      "transliteration": "Od rega kat, va'az nelech.",
+      "category": "Time",
+      "generated_at": "2026-07-14T15:16:20.251780"
+    },
+    {
+      "english": "When the sun sets, we'll gather.",
+      "hebrew": "כשהשמש תשקע, נתאסף.",
+      "transliteration": "Kshehashemesh tishka, nitasef.",
+      "category": "Time",
+      "generated_at": "2026-07-14T15:16:20.251793"
+    },
+    {
+      "english": "Before the clock strikes, be ready.",
+      "hebrew": "לפני שהשעון יצלצל, תהיה מוכן.",
+      "transliteration": "Lifnei shehasha'on yitzal'tzel, tihiye mukhan.",
+      "category": "Time",
+      "generated_at": "2026-07-14T15:16:20.251795"
+    },
+    {
+      "english": "After the rain, a rainbow appears.",
+      "hebrew": "אחרי הגשם, קשת תופיע.",
+      "transliteration": "Acharei hageshem, keshet tofi'a.",
+      "category": "Time",
+      "generated_at": "2026-07-14T15:16:20.251797"
+    },
+    {
+      "english": "During the quiet, listen closely.",
+      "hebrew": "בזמן השקט, תקשיב היטב.",
+      "transliteration": "Bizman hasheket, takshiv heytev.",
+      "category": "Time",
+      "generated_at": "2026-07-14T15:16:20.251798"
     }
   ],
-  "last_updated": "2026-07-14T13:01:32.305550"
+  "last_updated": "2026-07-14T15:16:20.251800"
 }
