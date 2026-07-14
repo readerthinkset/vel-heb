@@ -5004,7 +5004,42 @@
       "transliteration": "Lech be'matarah, ve'im chen.",
       "category": "Positive Life",
       "generated_at": "2026-07-13T21:03:53.328411"
+    },
+    {
+      "english": "A pleasant day, to us.",
+      "hebrew": "יום נעים, לנו.",
+      "transliteration": "Yom na'im, lanu.",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T03:16:09.976461"
+    },
+    {
+      "english": "So glad, you're here.",
+      "hebrew": "שמח מאוד, שאתה כאן.",
+      "transliteration": "Same'ach me'od, she'ata kan.",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T03:16:09.976469"
+    },
+    {
+      "english": "Greetings, friend.",
+      "hebrew": "ברכה, ידיד.",
+      "transliteration": "Bracha, yadid.",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T03:16:09.976471"
+    },
+    {
+      "english": "May your day, shine.",
+      "hebrew": "שתהיה לך, יום זורח.",
+      "transliteration": "She'yihiyeh lecha, yom zor'each.",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T03:16:09.976473"
+    },
+    {
+      "english": "A warm hello, to you.",
+      "hebrew": "שלום חם, לך.",
+      "transliteration": "Shalom cham, lecha.",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T03:16:09.976474"
     }
   ],
-  "last_updated": "2026-07-13T21:03:53.328413"
+  "last_updated": "2026-07-14T03:16:09.976475"
 }
