@@ -5214,7 +5214,42 @@
       "transliteration": "Akav achar hashorashim, regesh et hatzmicha hachadasha.",
       "category": "Purpose",
       "generated_at": "2026-07-15T03:15:46.610838"
+    },
+    {
+      "english": "My heart feels full, today.",
+      "hebrew": "הלב שלי מרגיש מלא, היום.",
+      "transliteration": "Ha-lev sheli margish male, ha-yom.",
+      "category": "Feelings",
+      "generated_at": "2026-07-15T13:06:07.444592"
+    },
+    {
+      "english": "A touch of apprehension, there.",
+      "hebrew": "נגיעה של חשש, שם.",
+      "transliteration": "Ngi'a shel chashash, sham.",
+      "category": "Feelings",
+      "generated_at": "2026-07-15T13:06:07.444603"
+    },
+    {
+      "english": "Contentment, in this moment.",
+      "hebrew": "נחת, ברגע הזה.",
+      "transliteration": "Nachat, ba-rega ha-ze.",
+      "category": "Feelings",
+      "generated_at": "2026-07-15T13:06:07.444605"
+    },
+    {
+      "english": "A little overwhelmed, perhaps.",
+      "hebrew": "קצת מוצף, אולי.",
+      "transliteration": "K'tzat mutzaf, ulai.",
+      "category": "Feelings",
+      "generated_at": "2026-07-15T13:06:07.444607"
+    },
+    {
+      "english": "Feeling quite inspired, now.",
+      "hebrew": "מרגיש די מעוזן, עכשיו.",
+      "transliteration": "Margish dai me'u'zan, achshav.",
+      "category": "Feelings",
+      "generated_at": "2026-07-15T13:06:07.444608"
     }
   ],
-  "last_updated": "2026-07-15T03:15:46.610840"
+  "last_updated": "2026-07-15T13:06:07.444610"
 }
