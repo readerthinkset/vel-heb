@@ -5354,7 +5354,42 @@
       "transliteration": "Rega p'nimi, ha'ogen shelcha.",
       "category": "Strength",
       "generated_at": "2026-07-15T21:07:17.420633"
+    },
+    {
+      "english": "Innovation, takes flight.",
+      "hebrew": "חדשנות, ממריאה.",
+      "transliteration": "Chadshanut, mamri'ah.",
+      "category": "Technology",
+      "generated_at": "2026-07-16T03:22:15.216079"
+    },
+    {
+      "english": "AI, learns with us.",
+      "hebrew": "בינה מלאכותית, לומדת איתנו.",
+      "transliteration": "Bina melakhutit, lomedet itanu.",
+      "category": "Technology",
+      "generated_at": "2026-07-16T03:22:15.216089"
+    },
+    {
+      "english": "Smart devices, simplify life.",
+      "hebrew": "מכשירים חכמים, מפשטים חיים.",
+      "transliteration": "Machshirim chachamim, mefash'tim chayim.",
+      "category": "Technology",
+      "generated_at": "2026-07-16T03:22:15.216091"
+    },
+    {
+      "english": "The cloud, holds everything.",
+      "hebrew": "הענן, מחזיק הכל.",
+      "transliteration": "Ha'anan, machzik hakol.",
+      "category": "Technology",
+      "generated_at": "2026-07-16T03:22:15.216092"
+    },
+    {
+      "english": "Virtual reality, new worlds.",
+      "hebrew": "מציאות מדומה, עולמות חדשים.",
+      "transliteration": "Metzi'ut medumah, olamot chadashim.",
+      "category": "Technology",
+      "generated_at": "2026-07-16T03:22:15.216093"
     }
   ],
-  "last_updated": "2026-07-15T21:07:17.420635"
+  "last_updated": "2026-07-16T03:22:15.216095"
 }
