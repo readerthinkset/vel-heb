@@ -5459,7 +5459,42 @@
       "transliteration": "Lechishot shel efsharut, magi'ot.",
       "category": "Hope",
       "generated_at": "2026-07-16T15:25:44.440181"
+    },
+    {
+      "english": "A little help, perhaps?",
+      "hebrew": "עזרה קטנה, אולי?",
+      "transliteration": "Ezra ktana, ulai?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-16T18:00:07.995138"
+    },
+    {
+      "english": "This is quite tasty.",
+      "hebrew": "זה ממש טעים.",
+      "transliteration": "Ze mamash taim.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-16T18:00:07.995146"
+    },
+    {
+      "english": "Another cup, please.",
+      "hebrew": "עוד כוס, בבקשה.",
+      "transliteration": "Od kos, bevakasha.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-16T18:00:07.995148"
+    },
+    {
+      "english": "I'm learning slowly.",
+      "hebrew": "אני לומד לאט.",
+      "transliteration": "Ani lomed le'at.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-16T18:00:07.995150"
+    },
+    {
+      "english": "That's a good idea.",
+      "hebrew": "זו מחשבה טובה.",
+      "transliteration": "Zo machshava tova.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-16T18:00:07.995151"
     }
   ],
-  "last_updated": "2026-07-16T15:25:44.440182"
+  "last_updated": "2026-07-16T18:00:07.995153"
 }
