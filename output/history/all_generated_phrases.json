@@ -5529,7 +5529,42 @@
       "transliteration": "kol hevra, even derech.",
       "category": "Perseverance",
       "generated_at": "2026-07-16T21:09:34.962334"
+    },
+    {
+      "english": "Could we, linger, a little longer?",
+      "hebrew": "אפשר, להתעכב, עוד קצת?",
+      "transliteration": "Efshar, lehit'akev, od ktzat?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-17T03:26:20.339908"
+    },
+    {
+      "english": "This aroma, is divine.",
+      "hebrew": "הארומה הזו, אלוהית.",
+      "transliteration": "Ha'aroma hazu, elohit.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-17T03:26:20.339925"
+    },
+    {
+      "english": "May I, have a recommendation?",
+      "hebrew": "אפשר, המלצה?",
+      "transliteration": "Efshar, hamlatza?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-17T03:26:20.339927"
+    },
+    {
+      "english": "Just water, for now.",
+      "hebrew": "רק מים, לעת עתה.",
+      "transliteration": "Rak mayim, le'et ata.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-17T03:26:20.339929"
+    },
+    {
+      "english": "Is this, a local specialty?",
+      "hebrew": "זו, התמחות מקומית?",
+      "transliteration": "Zo, hitmachut mekomit?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-17T03:26:20.339930"
     }
   ],
-  "last_updated": "2026-07-16T21:09:34.962336"
+  "last_updated": "2026-07-17T03:26:20.339932"
 }
