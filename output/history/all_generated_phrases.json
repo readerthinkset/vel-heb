@@ -5914,7 +5914,42 @@
       "transliteration": "Mechama na'ameret, nefesh meromeMet.",
       "category": "Kindness",
       "generated_at": "2026-07-19T12:48:27.994051"
+    },
+    {
+      "english": "A sweet surprise, for sure.",
+      "hebrew": "הפתעה מתוקה, בוודאות.",
+      "transliteration": "Hafta'ah metukah, bevada'ut.",
+      "category": "Food",
+      "generated_at": "2026-07-19T14:46:32.135987"
+    },
+    {
+      "english": "This sauce, is heavenly.",
+      "hebrew": "הרוטב הזה, שמימי.",
+      "transliteration": "Ha'rotev hazeh, shamayimi.",
+      "category": "Food",
+      "generated_at": "2026-07-19T14:46:32.135998"
+    },
+    {
+      "english": "Just a tiny taste, please.",
+      "hebrew": "רק טעימה קטנטנה, בבקשה.",
+      "transliteration": "Rak te'imah ktantanah, bevakashah.",
+      "category": "Food",
+      "generated_at": "2026-07-19T14:46:32.136000"
+    },
+    {
+      "english": "Can I have, a little more?",
+      "hebrew": "אפשר עוד קצת, בבקשה?",
+      "transliteration": "Efshar od ktzat, bevakashah?",
+      "category": "Food",
+      "generated_at": "2026-07-19T14:46:32.136001"
+    },
+    {
+      "english": "The soup, smells divine.",
+      "hebrew": "המרק, מריח אלוהי.",
+      "transliteration": "Ha'marak, meriach elohi.",
+      "category": "Food",
+      "generated_at": "2026-07-19T14:46:32.136002"
     }
   ],
-  "last_updated": "2026-07-19T12:48:27.994052"
+  "last_updated": "2026-07-19T14:46:32.136004"
 }
