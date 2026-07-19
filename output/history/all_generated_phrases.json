@@ -5949,7 +5949,42 @@
       "transliteration": "Ha'marak, meriach elohi.",
       "category": "Food",
       "generated_at": "2026-07-19T14:46:32.136002"
+    },
+    {
+      "english": "His hair, a dark cascade.",
+      "hebrew": "שערו, מפלי כהה.",
+      "transliteration": "Se'aro, maflay keh-eh.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-19T17:50:01.097286"
+    },
+    {
+      "english": "Her forehead, smooth as silk.",
+      "hebrew": "מצחה, חלק כמשי.",
+      "transliteration": "Mitzh'chah, chalak k'mash'i.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-19T17:50:01.097296"
+    },
+    {
+      "english": "His eyebrow, arched with surprise.",
+      "hebrew": "גב עינו, קשתי בהפתעה.",
+      "transliteration": "Gav ein'o, kashtee b'hafta'ah.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-19T17:50:01.097298"
+    },
+    {
+      "english": "Her eyelashes, long and dark.",
+      "hebrew": "ריסיה, ארוכים וכהים.",
+      "transliteration": "Ris'eyha, arukeen v'keh'im.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-19T17:50:01.097299"
+    },
+    {
+      "english": "His cheek, a rosy hue.",
+      "hebrew": "לחיו, גוון ורדרד.",
+      "transliteration": "Lach'yo, giv'on v'rad'rad.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-19T17:50:01.097301"
     }
   ],
-  "last_updated": "2026-07-19T14:46:32.136004"
+  "last_updated": "2026-07-19T17:50:01.097302"
 }
