@@ -5844,7 +5844,42 @@
       "transliteration": "Chaver emet, matana yekra.",
       "category": "Wisdom",
       "generated_at": "2026-07-18T20:58:15.823224"
+    },
+    {
+      "english": "The tiny mouse, scurries home.",
+      "hebrew": "העכבר הקטן, בורח הביתה.",
+      "transliteration": "ha'achbar hakatan, bore'ach habaita.",
+      "category": "Animals",
+      "generated_at": "2026-07-19T03:34:59.329344"
+    },
+    {
+      "english": "A proud lion, roars loudly.",
+      "hebrew": "אריה גאה, מיילל בקול.",
+      "transliteration": "aryeh ga'ah, meyel'el bekol.",
+      "category": "Animals",
+      "generated_at": "2026-07-19T03:34:59.329356"
+    },
+    {
+      "english": "The swift fox, hunts at night.",
+      "hebrew": "השועל הזריז, צד בלילה.",
+      "transliteration": "hashu'al hazariz, tzad balayla.",
+      "category": "Animals",
+      "generated_at": "2026-07-19T03:34:59.329358"
+    },
+    {
+      "english": "A sleepy owl, watches the moon.",
+      "hebrew": "ינשוף מנומנם, צופה בירח.",
+      "transliteration": "yinshuf menunam, tzofeh bayare'ach.",
+      "category": "Animals",
+      "generated_at": "2026-07-19T03:34:59.329359"
+    },
+    {
+      "english": "The busy bee, collects nectar.",
+      "hebrew": "הדבורה העסוקה, אוספת צוף.",
+      "transliteration": "hadvora ha'asuka, osefet tzuf.",
+      "category": "Animals",
+      "generated_at": "2026-07-19T03:34:59.329360"
     }
   ],
-  "last_updated": "2026-07-18T20:58:15.823225"
+  "last_updated": "2026-07-19T03:34:59.329362"
 }
