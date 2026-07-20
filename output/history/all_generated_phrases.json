@@ -6054,7 +6054,42 @@
       "transliteration": "Nitzotz bo'er, sipuk.",
       "category": "Happiness",
       "generated_at": "2026-07-20T03:49:44.936589"
+    },
+    {
+      "english": "Say this word, slowly.",
+      "hebrew": "אמור את המילה הזו, לאט.",
+      "transliteration": "Emor et ha'mila hazot, le'at.",
+      "category": "Directions",
+      "generated_at": "2026-07-20T13:44:01.412323"
+    },
+    {
+      "english": "How do you say, this?",
+      "hebrew": "איך אומרים, את זה?",
+      "transliteration": "Eich omrim, et zeh?",
+      "category": "Directions",
+      "generated_at": "2026-07-20T13:44:01.412335"
+    },
+    {
+      "english": "Listen to the rhythm, now.",
+      "hebrew": "שמעו את הקצב, עכשיו.",
+      "transliteration": "Shim'u et ha'ketzev, achshav.",
+      "category": "Directions",
+      "generated_at": "2026-07-20T13:44:01.412337"
+    },
+    {
+      "english": "Try this new phrase.",
+      "hebrew": "נסו את המשפט החדש.",
+      "transliteration": "Nasu et ha'mishpat ha'chadash.",
+      "category": "Directions",
+      "generated_at": "2026-07-20T13:44:01.412338"
+    },
+    {
+      "english": "What does this mean?",
+      "hebrew": "מה המשמעות, של זה?",
+      "transliteration": "Ma ha'mashma'ut, shel zeh?",
+      "category": "Directions",
+      "generated_at": "2026-07-20T13:44:01.412339"
     }
   ],
-  "last_updated": "2026-07-20T03:49:44.936590"
+  "last_updated": "2026-07-20T13:44:01.412341"
 }
