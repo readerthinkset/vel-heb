@@ -6474,7 +6474,42 @@
       "transliteration": "Ha'basis shelcha, yatzi'v.",
       "category": "Strength",
       "generated_at": "2026-07-22T15:27:16.036410"
+    },
+    {
+      "english": "A gentle breeze, of happiness.",
+      "hebrew": "משב רוח, עדין של אושר.",
+      "transliteration": "mish'v ru'ach, adin shel osher.",
+      "category": "Feelings",
+      "generated_at": "2026-07-22T18:03:18.329473"
+    },
+    {
+      "english": "This moment, feels right.",
+      "hebrew": "הרגע הזה, מרגיש נכון.",
+      "transliteration": "ha'rega ha'ze, margish nachon.",
+      "category": "Feelings",
+      "generated_at": "2026-07-22T18:03:18.329484"
+    },
+    {
+      "english": "A quiet hum, of contentment.",
+      "hebrew": "זמזום שקט, של נחת.",
+      "transliteration": "zim'zum sheket, shel nachat.",
+      "category": "Feelings",
+      "generated_at": "2026-07-22T18:03:18.329486"
+    },
+    {
+      "english": "My spirit, is lifting.",
+      "hebrew": "רוחי, מתרוממת.",
+      "transliteration": "ruchi, mitromemet.",
+      "category": "Feelings",
+      "generated_at": "2026-07-22T18:03:18.329487"
+    },
+    {
+      "english": "A soft glow, of hope.",
+      "hebrew": "זוהר רך, של תקווה.",
+      "transliteration": "zo'her rach, shel tikvah.",
+      "category": "Feelings",
+      "generated_at": "2026-07-22T18:03:18.329488"
     }
   ],
-  "last_updated": "2026-07-22T15:27:16.036412"
+  "last_updated": "2026-07-22T18:03:18.329489"
 }
