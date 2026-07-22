@@ -6404,7 +6404,42 @@
       "transliteration": "Atah yotzer mashma'ut, milah acher milah.",
       "category": "Confidence",
       "generated_at": "2026-07-22T03:27:33.621724"
+    },
+    {
+      "english": "Gentle sunrise, greet the day.",
+      "hebrew": "זריחה עדינה, קבל את היום.",
+      "transliteration": "Zricha adina, kabe'l et hayom.",
+      "category": "Health",
+      "generated_at": "2026-07-22T13:16:50.622409"
+    },
+    {
+      "english": "A quiet hum, ease your mind.",
+      "hebrew": "המיה שקטה, הרגע את דעתך.",
+      "transliteration": "Hamiya shketa, harega et da'atcha.",
+      "category": "Health",
+      "generated_at": "2026-07-22T13:16:50.622421"
+    },
+    {
+      "english": "Cool water, a refreshing sip.",
+      "hebrew": "מים קרירים, לגימה מרעננת.",
+      "transliteration": "Mayim kririm, legima m're'anenet.",
+      "category": "Health",
+      "generated_at": "2026-07-22T13:16:50.622423"
+    },
+    {
+      "english": "Bare feet, touch the earth.",
+      "hebrew": "רגליים יחפות, גע באדמה.",
+      "transliteration": "Raglayim yechafot, ga ba'adama.",
+      "category": "Health",
+      "generated_at": "2026-07-22T13:16:50.622424"
+    },
+    {
+      "english": "Open window, let light in.",
+      "hebrew": "חלון פתוח, תן לאור להיכנס.",
+      "transliteration": "Chalon patuach, ten le'or lehikanes.",
+      "category": "Health",
+      "generated_at": "2026-07-22T13:16:50.622425"
     }
   ],
-  "last_updated": "2026-07-22T03:27:33.621727"
+  "last_updated": "2026-07-22T13:16:50.622427"
 }
