@@ -6509,7 +6509,42 @@
       "transliteration": "zo'her rach, shel tikvah.",
       "category": "Feelings",
       "generated_at": "2026-07-22T18:03:18.329488"
+    },
+    {
+      "english": "This style, really suits me.",
+      "hebrew": "הסגנון הזה, ממש מחמיא לי.",
+      "transliteration": "Ha'stil hazeh, mamash machmi'a li.",
+      "category": "Shopping",
+      "generated_at": "2026-07-22T21:16:37.866527"
+    },
+    {
+      "english": "Do you have, a different size?",
+      "hebrew": "יש לכם, מידה אחרת?",
+      "transliteration": "Yesh lachem, mida acheret?",
+      "category": "Shopping",
+      "generated_at": "2026-07-22T21:16:37.866536"
+    },
+    {
+      "english": "I’m drawn, to this material.",
+      "hebrew": "אני נמשכת, לחומר הזה.",
+      "transliteration": "Ani nimschet, la'chomer hazeh.",
+      "category": "Shopping",
+      "generated_at": "2026-07-22T21:16:37.866538"
+    },
+    {
+      "english": "This is, a great find.",
+      "hebrew": "זו, מציאה מעולה.",
+      "transliteration": "Zo, metzi'ah me'ulah.",
+      "category": "Shopping",
+      "generated_at": "2026-07-22T21:16:37.866539"
+    },
+    {
+      "english": "Could you check, stock levels?",
+      "hebrew": "תוכלו לבדוק, מלאי?",
+      "transliteration": "Tuchlu livdok, me'lai?",
+      "category": "Shopping",
+      "generated_at": "2026-07-22T21:16:37.866540"
     }
   ],
-  "last_updated": "2026-07-22T18:03:18.329489"
+  "last_updated": "2026-07-22T21:16:37.866541"
 }
