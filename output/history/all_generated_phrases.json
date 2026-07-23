@@ -6824,7 +6824,42 @@
       "transliteration": "Pgi'shat si'ur m'chot, rosh patuach.",
       "category": "Work",
       "generated_at": "2026-07-23T15:47:41.795023"
+    },
+    {
+      "english": "This is very helpful.",
+      "hebrew": "זה מאוד עוזר.",
+      "transliteration": "zeh me'od ozer.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-23T18:07:52.656827"
+    },
+    {
+      "english": "A little bit, maybe?",
+      "hebrew": "קצת, אולי?",
+      "transliteration": "ktzat, ulai?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-23T18:07:52.656837"
+    },
+    {
+      "english": "What a lovely painting.",
+      "hebrew": "איזה ציור יפה.",
+      "transliteration": "eizeh tziyur yafeh.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-23T18:07:52.656839"
+    },
+    {
+      "english": "Let's try this.",
+      "hebrew": "בוא ננסה את זה.",
+      "transliteration": "bo nenaseh et zeh.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-23T18:07:52.656841"
+    },
+    {
+      "english": "I need a moment.",
+      "hebrew": "אני צריך רגע.",
+      "transliteration": "ani tzarich rega.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-23T18:07:52.656842"
     }
   ],
-  "last_updated": "2026-07-23T15:47:41.795024"
+  "last_updated": "2026-07-23T18:07:52.656844"
 }
