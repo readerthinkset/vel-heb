@@ -1,4 +1,6 @@
 name: VELOCITY HEBREW - Daily 5x Upload
+permissions:
+  contents: write
 
 on:
   schedule:
