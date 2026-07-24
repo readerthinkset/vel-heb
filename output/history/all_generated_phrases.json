@@ -6929,7 +6929,42 @@
       "transliteration": "Bneh et chalomotecha, hakarka et metziutcha.",
       "category": "Balance",
       "generated_at": "2026-07-24T02:31:16.431762"
+    },
+    {
+      "english": "A generous portion, please.",
+      "hebrew": "מנה נדיבה, בבקשה.",
+      "transliteration": "mana nediva, bevakasha.",
+      "category": "Food",
+      "generated_at": "2026-07-24T03:29:10.178141"
+    },
+    {
+      "english": "This dish, is quite unique.",
+      "hebrew": "המנה הזו, די מיוחדת.",
+      "transliteration": "ha'mana ha'zo, di meyuchédet.",
+      "category": "Food",
+      "generated_at": "2026-07-24T03:29:10.178151"
+    },
+    {
+      "english": "I could eat this, every day.",
+      "hebrew": "אני יכול לאכול את זה, כל יום.",
+      "transliteration": "ani yachol le'echol et ze, kol yom.",
+      "category": "Food",
+      "generated_at": "2026-07-24T03:29:10.178153"
+    },
+    {
+      "english": "Can I try, a little of that?",
+      "hebrew": "אפשר לטעום, קצת מזה?",
+      "transliteration": "efshar lit'om, ktzat mize?",
+      "category": "Food",
+      "generated_at": "2026-07-24T03:29:10.178154"
+    },
+    {
+      "english": "The flavors, are perfectly balanced.",
+      "hebrew": "הטעמים, מאוזנים בצורה מושלמת.",
+      "transliteration": "hate'amim, me'uzanim be'tzura mushlemet.",
+      "category": "Food",
+      "generated_at": "2026-07-24T03:29:10.178155"
     }
   ],
-  "last_updated": "2026-07-24T02:31:16.431763"
+  "last_updated": "2026-07-24T03:29:10.178156"
 }
