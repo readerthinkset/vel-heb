@@ -63,7 +63,23 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None):
     print("\n" + "="*80)
     print(f"VELOCITY HEBREW - MULTI-PLATFORM UPLOAD")
     print("="*80)
-    if not Path(video_path).exists(): print(f"Video not found"); return results
+    if not Path(video_path).exists(): print(f"Video not found"); 
+    # === STANDARDIZED STATUS REPORT ===
+    print("\n" + "=" * 60)
+    print("UPLOAD STATUS REPORT")
+    print("=" * 60)
+    success_list = [p.lower() for p in results.get("platforms_successful", [])]
+    failed_list = [p.lower() for p in results.get("platforms_failed", [])]
+    skipped_list = [p.lower() for p in results.get("platforms_skipped", [])]
+    for pname in ["INSTAGRAM", "FACEBOOK", "YOUTUBE", "THREADS", "TIKTOK"]:
+        pl = pname.lower()
+        if pl in success_list: status = "SUCCESS"
+        elif pl in failed_list: status = "FAILED"
+        elif pl in skipped_list: status = "SKIPPED"
+        else: status = "-"
+        print(f"{pname}: {status}")
+    print("=" * 60)
+    return results
     platforms = [("facebook", "fb", "Facebook"), ("instagram", "ig", "Instagram"), ("youtube", "yt", "YouTube"), ("vk", "vk", "VK"), ("telegram", "tg", "Telegram"), ("twitter", "tw", "Twitter"), ("threads", "th", "Threads"), ("tiktok", "tk", "TikTok")]
     for pname, key, dname in platforms:
         results["platforms_attempted"].append(pname)
@@ -103,6 +119,22 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None):
     rf = Path("output") / f"upload_results_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
     rf.parent.mkdir(exist_ok=True)
     with open(rf, "w", encoding="utf-8") as f: json.dump(results, f, indent=2, ensure_ascii=False)
+    
+    # === STANDARDIZED STATUS REPORT ===
+    print("\n" + "=" * 60)
+    print("UPLOAD STATUS REPORT")
+    print("=" * 60)
+    success_list = [p.lower() for p in results.get("platforms_successful", [])]
+    failed_list = [p.lower() for p in results.get("platforms_failed", [])]
+    skipped_list = [p.lower() for p in results.get("platforms_skipped", [])]
+    for pname in ["INSTAGRAM", "FACEBOOK", "YOUTUBE", "THREADS", "TIKTOK"]:
+        pl = pname.lower()
+        if pl in success_list: status = "SUCCESS"
+        elif pl in failed_list: status = "FAILED"
+        elif pl in skipped_list: status = "SKIPPED"
+        else: status = "-"
+        print(f"{pname}: {status}")
+    print("=" * 60)
     return results
 
 
