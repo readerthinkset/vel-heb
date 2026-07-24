@@ -12,7 +12,7 @@ def upload_video_to_github(video_path_obj):
     if not repo_full:
         raise ValueError("GITHUB_REPOSITORY env var missing")
     owner, repo = repo_full.split('/')
-    token = os.getenv('GITHUB_TOKEN')
+    token = os.getenv('GH_PAT') or os.getenv('ADMIN_GITHUB_TOKEN') or os.getenv('GITHUB_TOKEN')
     
     with open(video_path_obj, 'rb') as f:
         file_bytes = f.read()
@@ -22,14 +22,23 @@ def upload_video_to_github(video_path_obj):
     remote_path = f"output/{filename}"
     branch = "main"
     
-    h = {'Authorization': f'Bearer {token}', 'Accept': 'application/vnd.github+json'}
     url = f"https://api.github.com/repos/{owner}/{repo}/contents/{remote_path}"
     
-    put_r = requests.put(url, headers=h, json={
-        'message': f'Temp IG upload {filename}',
-        'content': file_b64,
-        'branch': branch
-    }, timeout=60)
+    # Try Authorization token header format
+    headers_list = [
+        {'Authorization': f'token {token}', 'Accept': 'application/vnd.github+json'},
+        {'Authorization': f'Bearer {token}', 'Accept': 'application/vnd.github+json'}
+    ]
+    
+    put_r = None
+    for h in headers_list:
+        put_r = requests.put(url, headers=h, json={
+            'message': f'Temp IG upload {filename}',
+            'content': file_b64,
+            'branch': branch
+        }, timeout=60)
+        if put_r.status_code in (200, 201):
+            break
     
     if put_r.status_code not in (200, 201):
         raise Exception(f"GitHub temp upload failed ({put_r.status_code}): {put_r.text[:300]}")
