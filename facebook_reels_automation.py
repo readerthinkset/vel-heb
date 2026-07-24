@@ -398,7 +398,7 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 async def generate_single_audio(text: str, voice: str, output_path: str):
     import edge_tts
     try:
-        rate_param = "-12%" if "Hila" in voice else "+0%"
+        rate_param = "-18%" if "Hila" in voice else "+0%"
         communicate = edge_tts.Communicate(text, voice, rate=rate_param)
         await communicate.save(output_path)
         return True
