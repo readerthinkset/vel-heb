@@ -396,10 +396,10 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     fresh = [p for p in generic_fallbacks if not is_phrase_used(p["english"])]
     return fresh[:num_phrases]
 async def generate_single_audio(text: str, voice: str, output_path: str):
+    import edge_tts
     try:
-        import edge_tts
-        rate_param = '-12%' if 'Hila' in voice else '0%'
-    communicate = edge_tts.Communicate(text, voice, rate=rate_param)
+        rate_param = "-12%" if "Hila" in voice else "0%"
+        communicate = edge_tts.Communicate(text, voice, rate=rate_param)
         await communicate.save(output_path)
         return True
     except Exception as e:
