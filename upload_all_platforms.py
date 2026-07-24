@@ -1,6 +1,6 @@
 """
-VELOCITY VIETNAMESE - Unified Social Media Upload Script
-Uploads generated reels to all connected social media platforms
+Multi-Platform Video Uploader - VELOCITY HEBREW
+Automated upload script supporting Facebook, Instagram, YouTube, and other platforms.
 """
 
 import os
@@ -10,142 +10,121 @@ from pathlib import Path
 from datetime import datetime
 from dotenv import load_dotenv
 
+if sys.platform == "win32":
+    sys.stdout.reconfigure(encoding="utf-8")
+
 load_dotenv()
 
-upload_dir = Path(__file__).parent / "upload"
-if upload_dir.exists() and str(upload_dir) not in sys.path:
-    sys.path.insert(0, str(upload_dir))
-
-upload_to_facebook = None
-upload_to_instagram = None
-upload_to_youtube = None
-upload_to_vk = None
-upload_to_telegram = None
-upload_to_twitter = None
-upload_to_threads = None
-upload_to_tiktok = None
+try:
+    from upload_facebook import upload_to_facebook
+except ImportError:
+    upload_to_facebook = None
 
 try:
-    from upload_facebook import upload_to_facebook as fb_upload
-    upload_to_facebook = fb_upload
-except ImportError as e:
-    print(f"[!] Facebook upload module not available: {e}")
+    from upload_instagram import upload_to_instagram
+except ImportError:
+    upload_to_instagram = None
 
 try:
-    from upload_instagram import upload_to_instagram as ig_upload
-    upload_to_instagram = ig_upload
-except ImportError as e:
-    print(f"[!] Instagram upload module not available: {e}")
+    from upload_to_youtube import upload_to_youtube
+except ImportError:
+    upload_to_youtube = None
 
 try:
-    from upload_to_youtube import upload_to_youtube as yt_upload
-    upload_to_youtube = yt_upload
-except ImportError as e:
-    print(f"[!] YouTube upload module not available: {e}")
+    from upload_vk import upload_to_vk
+except ImportError:
+    upload_to_vk = None
 
 try:
-    from upload_vk import upload_to_vk as vk_upload
-    upload_to_vk = vk_upload
-except ImportError as e:
-    print(f"[!] VK upload module not available: {e}")
+    from upload_telegram import upload_to_telegram
+except ImportError:
+    upload_to_telegram = None
 
 try:
-    from upload_telegram import upload_to_telegram as tg_upload
-    upload_to_telegram = tg_upload
-except ImportError as e:
-    print(f"[!] Telegram upload module not available: {e}")
+    from upload_twitter import upload_to_twitter
+except ImportError:
+    upload_to_twitter = None
 
 try:
-    from upload_twitter import upload_to_twitter as tw_upload
-    upload_to_twitter = tw_upload
-except ImportError as e:
-    print(f"[!] Twitter upload module not available: {e}")
+    from upload_threads import upload_to_threads
+except ImportError:
+    upload_to_threads = None
 
 try:
-    from upload_threads import upload_to_threads as th_upload
-    upload_to_threads = th_upload
-except ImportError as e:
-    print(f"[!] Threads upload module not available: {e}")
-
-try:
-    from upload_tiktok import upload_to_tiktok as tk_upload
-    upload_to_tiktok = tk_upload
-except ImportError as e:
-    print(f"[!] TikTok upload module not available: {e}")
+    from upload_tiktok import upload_to_tiktok
+except ImportError:
+    upload_to_tiktok = None
 
 
 def get_latest_reel():
-    video_dir = Path("output/video")
+    base_dir = Path(__file__).parent.parent if (Path(__file__).parent / "output").exists() else Path(__file__).parent
+    video_dir = base_dir / "output" / "video"
+
     if not video_dir.exists():
-        print("No output/video directory found")
         return None
-    reels = list(video_dir.glob("*/final_reel.mp4"))
-    if not reels:
-        print("No reels found in output/video directory")
+
+    reel_dirs = [d for d in video_dir.iterdir() if d.is_dir()]
+    if not reel_dirs:
         return None
-    latest = max(reels, key=lambda p: p.stat().st_mtime)
-    metadata_file = latest.parent / "metadata.json"
-    metadata = {}
-    if metadata_file.exists():
-        with open(metadata_file, "r", encoding="utf-8") as f:
-            metadata = json.load(f)
-    return {
-        "video_path": str(latest),
-        "metadata": metadata,
-        "category": metadata.get("category_english", "Vietnamese Learning"),
-        "phrases": metadata.get("phrases", [])
-    }
+
+    reel_dirs.sort(key=lambda x: x.stat().st_mtime, reverse=True)
+
+    for reel_dir in reel_dirs:
+        video_file = reel_dir / "final_reel.mp4"
+        metadata_file = reel_dir / "metadata.json"
+
+        if video_file.exists() and metadata_file.exists():
+            with open(metadata_file, "r", encoding="utf-8") as f:
+                metadata = json.load(f)
+
+            return {
+                "dir": reel_dir,
+                "video_path": str(video_file),
+                "metadata": metadata,
+                "category": metadata.get("category_english", "General"),
+                "phrases": metadata.get("phrases", [])
+            }
+
+    return None
 
 
-def generate_caption(phrases, category, platform="facebook"):
-    if platform == "facebook":
+def generate_caption(phrases, category, platform="general"):
+    if platform == "instagram":
         caption_lines = [
-            f"Learn Vietnamese with VELOCITY VIETNAMESE!",
+            f"Learn Hebrew with VELOCITY HEBREW! 🇮🇱✨",
+            f"Topic: {category}",
             f"",
-            f"Category: {category}",
-            f"",
-            f"Master Vietnamese one phrase at a time! Today's {category} lesson:",
-            f""
+            f"Today's phrases:"
         ]
-        emojis = ["1", "2", "3", "4", "5"]
-        for i, phrase in enumerate(phrases[:5], 0):
-            emoji = emojis[i] if i < len(emojis) else f"{i+1}."
-            caption_lines.append(f"{emoji}. {phrase['english']}")
-            caption_lines.append(f"   {phrase.get('vietnamese', '')}")
-            caption_lines.append(f"   [{phrase.get('transliteration', '')}]")
+        for i, phrase in enumerate(phrases, 1):
+            caption_lines.append(f"{i}. {phrase['english']}")
+            caption_lines.append(f"   -> {phrase.get('hebrew', '')} ({phrase.get('transliteration', '')})")
             caption_lines.append("")
-        caption_lines.extend([
-            f"Tip: Repeat each phrase out loud 3 times!",
-            f"Like this video if you learned something new!",
-            f"Comment your favorite phrase below!",
-            f"Follow for daily Vietnamese lessons!",
-            f"",
-        ])
         hashtags = [
-            "#learnvietnamese", "#vietnameselessons", "#vietnameseforbeginners",
-            "#languagelearning", "#vietnamesevocabulary", "#velocityvietnamese",
-            "#dailyvietnamese", "#vietnamese", "#learnlanguages",
-            "#vietnameseteacher", "#speakvietnamese", "#vietnamesepractice",
-            "#bilingual", "#vietnamesewords", "#languagetips"
+            "#learnhebrew", "#hebrewlessons", "#hebrewforbeginners",
+            "#languagelearning", "#hebrewvocabulary", "#velocityhebrew",
+            "#dailyhebrew", "#hebrew", "#learnlanguages",
+            "#hebrewteacher", "#speakhebrew", "#hebrewpractice",
+            "#bilingual", "#hebrewwords", "#languagetips"
         ]
         caption_lines.extend(hashtags)
     else:
         caption_lines = [
-            f"Learn Vietnamese with VELOCITY VIETNAMESE!",
+            f"Learn Hebrew with VELOCITY HEBREW!",
             f"",
             f"Category: {category}",
             f"",
             f"Today's phrases:",
             f""
         ]
-        for i, phrase in enumerate(phrases[:3], 1):
+        for i, phrase in enumerate(phrases[:5], 1):
             caption_lines.append(f"{i}. {phrase['english']}")
-            caption_lines.append(f"   -> {phrase.get('vietnamese', '')}")
+            caption_lines.append(f"   -> {phrase.get('hebrew', '')} ({phrase.get('transliteration', '')})")
             caption_lines.append("")
         hashtags = [
-            "#learnvietnamese", "#vietnameselessons", "#vietnameseforbeginners",
-            "#languagelearning", "#vietnamesevocabulary", "#velocityvietnamese",
-            "#dailyvietnamese", "#vietnamese", "#learnlanguages", "#vietnameseteacher"
+            "#learnhebrew", "#hebrewlessons", "#hebrewforbeginners",
+            "#languagelearning", "#hebrewvocabulary", "#velocityhebrew",
+            "#dailyhebrew", "#hebrew", "#learnlanguages", "#hebrewteacher"
         ]
         caption_lines.extend(hashtags)
     return "\n".join(caption_lines)
@@ -164,7 +143,7 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None):
     }
 
     print("\n" + "=" * 80)
-    print("VELOCITY VIETNAMESE - MULTI-PLATFORM UPLOAD")
+    print("VELOCITY HEBREW - MULTI-PLATFORM UPLOAD")
     print("=" * 80)
     print(f"Video: {video_path}")
     print(f"Category: {category}")
@@ -194,7 +173,7 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None):
             try:
                 upload_result = None
                 if platform_name == "facebook":
-                    upload_result = upload_func(video_path=video_path, description=caption, title=f"Vietnamese: {category}")
+                    upload_result = upload_func(video_path=video_path, description=caption, title=f"Hebrew: {category}")
                 elif platform_name == "instagram":
                     upload_result = upload_func(video_path=video_path, caption=caption, is_story=False)
                 elif platform_name == "youtube":
@@ -203,7 +182,7 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None):
                     yt_title, yt_description, yt_tags = generate_video_metadata(category, num_phrases, phrases)
                     upload_result = upload_func(video_path=video_path, title=yt_title, description=yt_description, tags=yt_tags, category_id='22')
                 elif platform_name == "vk":
-                    upload_result = upload_func(video_path=video_path, description=caption, title=f"Vietnamese: {category}")
+                    upload_result = upload_func(video_path=video_path, description=caption, title=f"Hebrew: {category}")
                 elif platform_name == "telegram":
                     upload_result = upload_func(video_path=video_path, caption=caption)
                 elif platform_name == "twitter":
@@ -259,7 +238,7 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None):
 
 def main():
     print("\n" + "=" * 80)
-    print("VELOCITY VIETNAMESE - AUTOMATED UPLOAD")
+    print("VELOCITY HEBREW - AUTOMATED UPLOAD")
     print("=" * 80)
 
     reel = get_latest_reel()
