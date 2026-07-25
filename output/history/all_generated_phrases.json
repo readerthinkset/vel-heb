@@ -7244,7 +7244,42 @@
       "transliteration": "Chab'ku b'chema'la, tamid.",
       "category": "Kindness",
       "generated_at": "2026-07-25T17:52:56.860985"
+    },
+    {
+      "english": "The clock is ticking, let's move.",
+      "hebrew": "השעון מתקתק, בוא נזוז.",
+      "transliteration": "Ha'sha'on metaktèk, bo nazuz.",
+      "category": "Time",
+      "generated_at": "2026-07-25T21:00:22.394829"
+    },
+    {
+      "english": "This hour, unique, don't miss it.",
+      "hebrew": "השעה הזו, מיוחדת, אל תחמיץ.",
+      "transliteration": "Ha'sha'ah ha'zo, meyu'hédet, al tachmitz.",
+      "category": "Time",
+      "generated_at": "2026-07-25T21:00:22.394838"
+    },
+    {
+      "english": "Time flies, wings spread wide.",
+      "hebrew": "הזמן עף, כנפיים פרושות.",
+      "transliteration": "Ha'zman af, knafayim prushot.",
+      "category": "Time",
+      "generated_at": "2026-07-25T21:00:22.394840"
+    },
+    {
+      "english": "Minutes pass, moments remain.",
+      "hebrew": "דקות חולפות, רגעים נשארים.",
+      "transliteration": "Dakot kholfot, rega'im nish'arim.",
+      "category": "Time",
+      "generated_at": "2026-07-25T21:00:22.394841"
+    },
+    {
+      "english": "A breath of time, then gone.",
+      "hebrew": "נשימת זמן, ואז אבד.",
+      "transliteration": "Neshimat zman, va'az avad.",
+      "category": "Time",
+      "generated_at": "2026-07-25T21:00:22.394842"
     }
   ],
-  "last_updated": "2026-07-25T17:52:56.860987"
+  "last_updated": "2026-07-25T21:00:22.394844"
 }
