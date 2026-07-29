@@ -7804,7 +7804,42 @@
       "transliteration": "Chakru et ha'intonatzia, shel dovar safa em.",
       "category": "Directions",
       "generated_at": "2026-07-29T18:02:09.251885"
+    },
+    {
+      "english": "Your voice, a melody, in Hebrew.",
+      "hebrew": "הקול שלך, מנגינה, בעברית.",
+      "transliteration": "Ha-kol shelcha, mangina, be'ivrit.",
+      "category": "Confidence",
+      "generated_at": "2026-07-29T21:03:07.147236"
+    },
+    {
+      "english": "Discover courage, with each phrase.",
+      "hebrew": "גלְהֵר אומץ, עם כל משפט.",
+      "transliteration": "Galhēr ometz, im kol mishpat.",
+      "category": "Confidence",
+      "generated_at": "2026-07-29T21:03:07.147246"
+    },
+    {
+      "english": "New sounds, taking flight, today.",
+      "hebrew": "צלילים חדשים, עפים, היום.",
+      "transliteration": "Tzlilim chadashim, afim, hayom.",
+      "category": "Confidence",
+      "generated_at": "2026-07-29T21:03:07.147248"
+    },
+    {
+      "english": "Your understanding, it deepens.",
+      "hebrew": "ההבנה שלך, מעמיקה.",
+      "transliteration": "Ha-havana shelcha, ma'amika.",
+      "category": "Confidence",
+      "generated_at": "2026-07-29T21:03:07.147249"
+    },
+    {
+      "english": "Speak your truth, beautifully.",
+      "hebrew": "דבר את האמת שלך, יפה.",
+      "transliteration": "Daber et ha-emet shelcha, yafe.",
+      "category": "Confidence",
+      "generated_at": "2026-07-29T21:03:07.147250"
     }
   ],
-  "last_updated": "2026-07-29T18:02:09.251887"
+  "last_updated": "2026-07-29T21:03:07.147252"
 }
