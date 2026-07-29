@@ -7769,7 +7769,42 @@
       "transliteration": "Ha-nichuach, mamash mazmin.",
       "category": "Food",
       "generated_at": "2026-07-29T15:45:31.203679"
+    },
+    {
+      "english": "Whisper the letters, softly.",
+      "hebrew": "לחשו את האותיות, בשקט.",
+      "transliteration": "Lachashu et ha'otiot, besheket.",
+      "category": "Directions",
+      "generated_at": "2026-07-29T18:02:09.251864"
+    },
+    {
+      "english": "Taste the vowels, on your tongue.",
+      "hebrew": "טעמו את התנועות, על הלשון.",
+      "transliteration": "Ta'amu et ha'tnuot, al halashon.",
+      "category": "Directions",
+      "generated_at": "2026-07-29T18:02:09.251878"
+    },
+    {
+      "english": "Feel the stress, in each word.",
+      "hebrew": "הרגישו את הדגש, בכל מילה.",
+      "transliteration": "Hargishu et hadagesh, bechol mila.",
+      "category": "Directions",
+      "generated_at": "2026-07-29T18:02:09.251880"
+    },
+    {
+      "english": "Let the grammar unfold, gently.",
+      "hebrew": "תנו לדקדוק להיפתח, בעדינות.",
+      "transliteration": "Tnu ladikduk lehitapach, be'adinut.",
+      "category": "Directions",
+      "generated_at": "2026-07-29T18:02:09.251881"
+    },
+    {
+      "english": "Mimic the cadence, of a native speaker.",
+      "hebrew": "חקרו את האינטונציה, של דובר שפת אם.",
+      "transliteration": "Chakru et ha'intonatzia, shel dovar safa em.",
+      "category": "Directions",
+      "generated_at": "2026-07-29T18:02:09.251885"
     }
   ],
-  "last_updated": "2026-07-29T15:45:31.203680"
+  "last_updated": "2026-07-29T18:02:09.251887"
 }
