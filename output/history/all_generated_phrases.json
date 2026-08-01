@@ -8224,7 +8224,42 @@
       "transliteration": "chofen, shel simcha.",
       "category": "Numbers",
       "generated_at": "2026-08-01T03:37:53.043706"
+    },
+    {
+      "english": "Sky is painted, with softest grey.",
+      "hebrew": "שמיים צבועים, באפור רך.",
+      "transliteration": "shamayim tzvu'im, be'efor rach.",
+      "category": "Weather",
+      "generated_at": "2026-08-01T12:50:25.047453"
+    },
+    {
+      "english": "Sun peeks out, a shy hello.",
+      "hebrew": "שמש מבציצה, בוא שלום ביישני.",
+      "transliteration": "shemesh mabetzitzah, bo shalom bayeshani.",
+      "category": "Weather",
+      "generated_at": "2026-08-01T12:50:25.047462"
+    },
+    {
+      "english": "Air is electric, before the storm.",
+      "hebrew": "האוויר חשמלי, לפני הסערה.",
+      "transliteration": "ha'avir chashmali, lifnei hasa'arah.",
+      "category": "Weather",
+      "generated_at": "2026-08-01T12:50:25.047464"
+    },
+    {
+      "english": "Dewdrops gleam, on morning leaves.",
+      "hebrew": "טיפות טל נוצצות, על עלי בוקר.",
+      "transliteration": "tipot tal notz'tzot, al alei boker.",
+      "category": "Weather",
+      "generated_at": "2026-08-01T12:50:25.047465"
+    },
+    {
+      "english": "Clouds drift slowly, like lazy sheep.",
+      "hebrew": "עננים נסחפים לאט, כמו כבשים עצלות.",
+      "transliteration": "ananím nischafím le'at, kemo kvisim atzlóth.",
+      "category": "Weather",
+      "generated_at": "2026-08-01T12:50:25.047466"
     }
   ],
-  "last_updated": "2026-08-01T03:37:53.043707"
+  "last_updated": "2026-08-01T12:50:25.047468"
 }
