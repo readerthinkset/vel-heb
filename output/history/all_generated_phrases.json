@@ -8189,7 +8189,42 @@
       "transliteration": "Chaber mashma'uyot, tzur havana.",
       "category": "Growth",
       "generated_at": "2026-07-31T21:13:51.651801"
+    },
+    {
+      "english": "A lone star, shines bright.",
+      "hebrew": "כוכב בודד, זורח חזק.",
+      "transliteration": "kochav boded, zore'ach chazak.",
+      "category": "Numbers",
+      "generated_at": "2026-08-01T03:37:53.043691"
+    },
+    {
+      "english": "Two birds, on a wire.",
+      "hebrew": "שני ציפורים, על חוט.",
+      "transliteration": "shnei tziporim, al chut.",
+      "category": "Numbers",
+      "generated_at": "2026-08-01T03:37:53.043701"
+    },
+    {
+      "english": "Three doors, open wide.",
+      "hebrew": "שלושה דלתות, פתוחות לרווחה.",
+      "transliteration": "shlosha dlatot, ptuchot lerevacha.",
+      "category": "Numbers",
+      "generated_at": "2026-08-01T03:37:53.043703"
+    },
+    {
+      "english": "Four winds, blow gently.",
+      "hebrew": "ארבע רוחות, נושבות בעדינות.",
+      "transliteration": "arba ruchot, noshvot be'adinut.",
+      "category": "Numbers",
+      "generated_at": "2026-08-01T03:37:53.043704"
+    },
+    {
+      "english": "A handful, of joy.",
+      "hebrew": "חופן, של שמחה.",
+      "transliteration": "chofen, shel simcha.",
+      "category": "Numbers",
+      "generated_at": "2026-08-01T03:37:53.043706"
     }
   ],
-  "last_updated": "2026-07-31T21:13:51.651803"
+  "last_updated": "2026-08-01T03:37:53.043707"
 }
