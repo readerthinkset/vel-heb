@@ -8259,7 +8259,42 @@
       "transliteration": "ananím nischafím le'at, kemo kvisim atzlóth.",
       "category": "Weather",
       "generated_at": "2026-08-01T12:50:25.047466"
+    },
+    {
+      "english": "Can we, share, this dish?",
+      "hebrew": "אפשר, לחלוק, את המנה הזו?",
+      "transliteration": "Efshar, lachlok, et hamana hazu?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-01T14:52:36.654941"
+    },
+    {
+      "english": "This sauce, is incredible.",
+      "hebrew": "הרוטב הזה, מדהים.",
+      "transliteration": "Harotzev hazeh, madhim.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-01T14:52:36.654950"
+    },
+    {
+      "english": "Are there, gluten-free options?",
+      "hebrew": "יש, אופציות ללא גלוטן?",
+      "transliteration": "Yesh, optzyot lelo gluten?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-01T14:52:36.654951"
+    },
+    {
+      "english": "We'd like, a quieter, table.",
+      "hebrew": "נרצה, שולחן, שקט יותר.",
+      "transliteration": "Nirtzeh, shulchan, shaket yoter.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-01T14:52:36.654952"
+    },
+    {
+      "english": "Could you, explain, this ingredient?",
+      "hebrew": "תוכלו, להסביר, את המרכיב הזה?",
+      "transliteration": "Tuchlu, lehasbir, et hamarkiv hazeh?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-01T14:52:36.654953"
     }
   ],
-  "last_updated": "2026-08-01T12:50:25.047468"
+  "last_updated": "2026-08-01T14:52:36.654954"
 }
