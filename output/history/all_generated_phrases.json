@@ -8574,7 +8574,42 @@
       "transliteration": "savlanut, hi omanut shketa.",
       "category": "Patience",
       "generated_at": "2026-08-03T03:39:46.607783"
+    },
+    {
+      "english": "Speak joy, softly.",
+      "hebrew": "דבר שמחה, בעדינות.",
+      "transliteration": "Daber simcha, be'adinut.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T09:59:26.675989"
+    },
+    {
+      "english": "Listen to the heart, of Hebrew.",
+      "hebrew": "שמע את ליבה, של עברית.",
+      "transliteration": "Shma et liba, shel Ivrit.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T09:59:26.676000"
+    },
+    {
+      "english": "Build with words, strong.",
+      "hebrew": "בנה במילים, חזק.",
+      "transliteration": "Bne be'milim, chazak.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T09:59:26.676002"
+    },
+    {
+      "english": "Discover a new sound.",
+      "hebrew": "גלול צליל חדש.",
+      "transliteration": "Glel tslil chadash.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T09:59:26.676003"
+    },
+    {
+      "english": "Feel the rhythm, of the street.",
+      "hebrew": "הרגיש את הקצב, של הרחוב.",
+      "transliteration": "Hargesh et haketzev, shel harachov.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T09:59:26.676004"
     }
   ],
-  "last_updated": "2026-08-03T03:39:46.607784"
+  "last_updated": "2026-08-03T09:59:26.676006"
 }
