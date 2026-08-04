@@ -8889,7 +8889,42 @@
       "transliteration": "Hal'ev sheli, kal achshav.",
       "category": "Basic Phrases",
       "generated_at": "2026-08-04T18:23:07.062037"
+    },
+    {
+      "english": "Danger, move back.",
+      "hebrew": "סכנה, התרחק.",
+      "transliteration": "Sakana, hitrakhek.",
+      "category": "Emergency",
+      "generated_at": "2026-08-04T21:19:40.311035"
+    },
+    {
+      "english": "I am choking, help!",
+      "hebrew": "אני נחנק, עזרה!",
+      "transliteration": "Ani nikhnik, ezra!",
+      "category": "Emergency",
+      "generated_at": "2026-08-04T21:19:40.311045"
+    },
+    {
+      "english": "My head, it hurts.",
+      "hebrew": "הראש שלי, כואב.",
+      "transliteration": "Ha'rosh sheli, ko'ev.",
+      "category": "Emergency",
+      "generated_at": "2026-08-04T21:19:40.311046"
+    },
+    {
+      "english": "Call for help, now.",
+      "hebrew": "קרא לעזרה, מיד.",
+      "transliteration": "K'ra le'ezra, miyad.",
+      "category": "Emergency",
+      "generated_at": "2026-08-04T21:19:40.311048"
+    },
+    {
+      "english": "Fire! Everyone out!",
+      "hebrew": "שריפה! כולם בחוץ!",
+      "transliteration": "Sreifá! Kulám bachutz!",
+      "category": "Emergency",
+      "generated_at": "2026-08-04T21:19:40.311049"
     }
   ],
-  "last_updated": "2026-08-04T18:23:07.062039"
+  "last_updated": "2026-08-04T21:19:40.311051"
 }
