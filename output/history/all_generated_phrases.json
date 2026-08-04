@@ -8854,7 +8854,42 @@
       "transliteration": "perek kapo, gamish vechazak.",
       "category": "Body Parts",
       "generated_at": "2026-08-04T16:08:55.899822"
+    },
+    {
+      "english": "The sky, so blue today.",
+      "hebrew": "השמיים, כל כך כחולים היום.",
+      "transliteration": "Hashamayim, kol kach kchulim hayom.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-04T18:23:07.062020"
+    },
+    {
+      "english": "A gentle breeze, is blowing.",
+      "hebrew": "רוח קלילה, מתנוססת.",
+      "transliteration": "Ruach klila, mitnosetet.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-04T18:23:07.062032"
+    },
+    {
+      "english": "This street, is quite busy.",
+      "hebrew": "הרחוב הזה, די עמוס.",
+      "transliteration": "Harachov hazeh, di amos.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-04T18:23:07.062034"
+    },
+    {
+      "english": "Someone's singing, softly.",
+      "hebrew": "מישהו שר, בשקט.",
+      "transliteration": "Mishehu shar, besheket.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-04T18:23:07.062035"
+    },
+    {
+      "english": "My heart, feels light now.",
+      "hebrew": "הלב שלי, קל עכשיו.",
+      "transliteration": "Hal'ev sheli, kal achshav.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-04T18:23:07.062037"
     }
   ],
-  "last_updated": "2026-08-04T16:08:55.899824"
+  "last_updated": "2026-08-04T18:23:07.062039"
 }
