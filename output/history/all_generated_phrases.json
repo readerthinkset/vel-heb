@@ -8819,7 +8819,42 @@
       "transliteration": "Shemesh tzahorayim, gavoha me'al.",
       "category": "Time",
       "generated_at": "2026-08-04T13:40:43.498534"
+    },
+    {
+      "english": "His foot, a steady rhythm.",
+      "hebrew": "כף רגלו, קצב יציב.",
+      "transliteration": "kaf raglo, ketzev yatziv.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-04T16:08:55.899808"
+    },
+    {
+      "english": "Her knee, bent gently.",
+      "hebrew": "ברכה, כפופה בעדינות.",
+      "transliteration": "bircha, kfupha be'adinut.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-04T16:08:55.899818"
+    },
+    {
+      "english": "His elbow, a quick pivot.",
+      "hebrew": "מרפקו, סיבוב מהיר.",
+      "transliteration": "mirke'ko, sivuv mahir.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-04T16:08:55.899820"
+    },
+    {
+      "english": "Her shoulder, carrying a burden.",
+      "hebrew": "כתפה, נושאת משא.",
+      "transliteration": "ketefa, nose'et masa.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-04T16:08:55.899821"
+    },
+    {
+      "english": "His wrist, flexible and strong.",
+      "hebrew": "פרק כפו, גמיש וחזק.",
+      "transliteration": "perek kapo, gamish vechazak.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-04T16:08:55.899822"
     }
   ],
-  "last_updated": "2026-08-04T13:40:43.498536"
+  "last_updated": "2026-08-04T16:08:55.899824"
 }
