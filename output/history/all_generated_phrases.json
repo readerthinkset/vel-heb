@@ -9064,7 +9064,42 @@
       "transliteration": "Noch'chutcha, hi or.",
       "category": "Greetings",
       "generated_at": "2026-08-05T18:15:44.757026"
+    },
+    {
+      "english": "One moment, please.",
+      "hebrew": "רגע אחד, בבקשה.",
+      "transliteration": "rega echad, bevakasha.",
+      "category": "Numbers",
+      "generated_at": "2026-08-05T21:18:20.773138"
+    },
+    {
+      "english": "Two paths, diverging.",
+      "hebrew": "שני שבילים, מתפצלים.",
+      "transliteration": "shnei shvilim, mitpatzelim.",
+      "category": "Numbers",
+      "generated_at": "2026-08-05T21:18:20.773149"
+    },
+    {
+      "english": "Three colors, vibrant.",
+      "hebrew": "שלושה צבעים, עזים.",
+      "transliteration": "shlosha tzva'im, azim.",
+      "category": "Numbers",
+      "generated_at": "2026-08-05T21:18:20.773151"
+    },
+    {
+      "english": "Four corners, of the mat.",
+      "hebrew": "ארבע פינות, של המחצלת.",
+      "transliteration": "arba pinot, shel hamatzelet.",
+      "category": "Numbers",
+      "generated_at": "2026-08-05T21:18:20.773153"
+    },
+    {
+      "english": "Five senses, alive.",
+      "hebrew": "חמש חושים, חיים.",
+      "transliteration": "chamesh chushim, chayim.",
+      "category": "Numbers",
+      "generated_at": "2026-08-05T21:18:20.773154"
     }
   ],
-  "last_updated": "2026-08-05T18:15:44.757028"
+  "last_updated": "2026-08-05T21:18:20.773156"
 }
