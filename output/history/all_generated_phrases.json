@@ -9134,7 +9134,42 @@
       "transliteration": "Ten le'ometz shelch, lifro'ach be'adinut.",
       "category": "Strength",
       "generated_at": "2026-08-06T03:21:12.788951"
+    },
+    {
+      "english": "Could we, perhaps, see, the wine list?",
+      "hebrew": "אפשר, בבקשה, לראות, את רשימת היין?",
+      "transliteration": "Efshar, bevakasha, lir'ot, et reshimat hayayin?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-06T13:29:58.496259"
+    },
+    {
+      "english": "This soup, is surprisingly, comforting.",
+      "hebrew": "המרק הזה, מפתיע, כמה מחמם.",
+      "transliteration": "Hamar'ak hazeh, mafti'a, kama mechamem.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-06T13:29:58.496272"
+    },
+    {
+      "english": "What's, that vibrant, green salad?",
+      "hebrew": "מה זה, הסלט, הירוק והתוסס הזה?",
+      "transliteration": "Mah zeh, hasalat, hayarok v'hatose's hazeh?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-06T13:29:58.496273"
+    },
+    {
+      "english": "I'll have, the grilled fish, please.",
+      "hebrew": "אני אקח, את הדג, הצלוי, בבקשה.",
+      "transliteration": "Ani ekach, et hadag, hatzalui, bevakasha.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-06T13:29:58.496274"
+    },
+    {
+      "english": "Could we, get, a side of bread?",
+      "hebrew": "אפשר, לקבל, תוספת, של לחם?",
+      "transliteration": "Efshar, lekabel, tosefet, shel lechem?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-06T13:29:58.496275"
     }
   ],
-  "last_updated": "2026-08-06T03:21:12.788952"
+  "last_updated": "2026-08-06T13:29:58.496277"
 }
