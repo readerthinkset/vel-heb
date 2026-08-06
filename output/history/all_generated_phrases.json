@@ -9169,7 +9169,42 @@
       "transliteration": "Efshar, lekabel, tosefet, shel lechem?",
       "category": "Restaurant",
       "generated_at": "2026-08-06T13:29:58.496275"
+    },
+    {
+      "english": "The old tree, with stories in its bark.",
+      "hebrew": "העץ הזקן, עם סיפורים בקליפתו.",
+      "transliteration": "Ha'etz hazaken, im sipurim be'klipato.",
+      "category": "Nature",
+      "generated_at": "2026-08-06T22:51:52.389960"
+    },
+    {
+      "english": "Clouds drift, like white ships, in the blue.",
+      "hebrew": "עננים חולפים, כספינות לבנות, בכחול.",
+      "transliteration": "Ananim kholfim, k'sfinot levanot, ba'kachol.",
+      "category": "Nature",
+      "generated_at": "2026-08-06T22:51:52.389971"
+    },
+    {
+      "english": "A bird's song, a sweet melody, in the air.",
+      "hebrew": "שירת ציפור, מנגינה מתוקה, באוויר.",
+      "transliteration": "Shirat tzipor, mangina metuka, ba'avir.",
+      "category": "Nature",
+      "generated_at": "2026-08-06T22:51:52.389973"
+    },
+    {
+      "english": "Wildflowers bloom, a carpet of color, so bright.",
+      "hebrew": "פרחי בר פורחים, שטיח של צבע, כל כך בהיר.",
+      "transliteration": "Pirchei bar porchim, shati'ach shel tzeva, kol kach bahir.",
+      "category": "Nature",
+      "generated_at": "2026-08-06T22:51:52.389974"
+    },
+    {
+      "english": "The quiet stream, reflects the green trees.",
+      "hebrew": "הנחל השקט, משקף את העצים הירוקים.",
+      "transliteration": "Ha'nachal hasheket, meshakef et ha'etzim hay'rukim.",
+      "category": "Nature",
+      "generated_at": "2026-08-06T22:51:52.389975"
     }
   ],
-  "last_updated": "2026-08-06T13:29:58.496277"
+  "last_updated": "2026-08-06T22:51:52.389977"
 }
