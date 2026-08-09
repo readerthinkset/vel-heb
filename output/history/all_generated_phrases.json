@@ -9729,7 +9729,42 @@
       "transliteration": "Chabek et hadmama, metza shlva.",
       "category": "Hope",
       "generated_at": "2026-08-09T17:22:36.535007"
+    },
+    {
+      "english": "The mind, a vast ocean.",
+      "hebrew": "המוח, אוקיינוס עצום.",
+      "transliteration": "Ha-mo'ach, okyanus atzum.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-09T20:40:15.184356"
+    },
+    {
+      "english": "Her heart, beats a rhythm.",
+      "hebrew": "ליבה, פועם במקצב.",
+      "transliteration": "Libah, po'em be-miktzav.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-09T20:40:15.184366"
+    },
+    {
+      "english": "His voice, a low rumble.",
+      "hebrew": "קולו, רעם עמוק.",
+      "transliteration": "Kolo, ra'am amok.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-09T20:40:15.184368"
+    },
+    {
+      "english": "A furrowed brow, deep thought.",
+      "hebrew": "מצח מקומט, מחשבה עמוקה.",
+      "transliteration": "Metzach meku'mat, machshava amuka.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-09T20:40:15.184370"
+    },
+    {
+      "english": "Her forehead, a canvas.",
+      "hebrew": "מצחה, קנבס.",
+      "transliteration": "Metza'ah, kanvas.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-09T20:40:15.184371"
     }
   ],
-  "last_updated": "2026-08-09T17:22:36.535008"
+  "last_updated": "2026-08-09T20:40:15.184373"
 }
