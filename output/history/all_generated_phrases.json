@@ -9869,7 +9869,42 @@
       "transliteration": "Haruach shelcha, motzet et knafeha.",
       "category": "Happiness",
       "generated_at": "2026-08-10T17:43:25.110245"
+    },
+    {
+      "english": "Sky is weeping, softly,",
+      "hebrew": "שמיים בוכים, בעדינות,",
+      "transliteration": "shamayim bochim, be'adinut,",
+      "category": "Weather",
+      "generated_at": "2026-08-10T20:51:27.324062"
+    },
+    {
+      "english": "Warm air, like a hug,",
+      "hebrew": "אוויר חם, כמו חיבוק,",
+      "transliteration": "avir cham, kmo chibuk,",
+      "category": "Weather",
+      "generated_at": "2026-08-10T20:51:27.324073"
+    },
+    {
+      "english": "Clouds gather, in silence,",
+      "hebrew": "עננים מתאספים, בשקט,",
+      "transliteration": "ananim mitasfim, be'sheket,",
+      "category": "Weather",
+      "generated_at": "2026-08-10T20:51:27.324075"
+    },
+    {
+      "english": "A chill is coming, beware,",
+      "hebrew": "קור בא, להיזהר,",
+      "transliteration": "kor ba, le'hizaher,",
+      "category": "Weather",
+      "generated_at": "2026-08-10T20:51:27.324076"
+    },
+    {
+      "english": "Sunlight bathes, the earth,",
+      "hebrew": "אור שמש שוטף, את האדמה,",
+      "transliteration": "or shemesh shotef, et ha'adamah,",
+      "category": "Weather",
+      "generated_at": "2026-08-10T20:51:27.324077"
     }
   ],
-  "last_updated": "2026-08-10T17:43:25.110246"
+  "last_updated": "2026-08-10T20:51:27.324079"
 }
