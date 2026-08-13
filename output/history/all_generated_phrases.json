@@ -10359,7 +10359,42 @@
       "transliteration": "Ani mechapes, parit dominanti.",
       "category": "Shopping",
       "generated_at": "2026-08-13T14:50:25.190996"
+    },
+    {
+      "english": "A flutter of anticipation, building.",
+      "hebrew": "פרפור של ציפייה, נבנה.",
+      "transliteration": "Pirpur shel tzipiya, nivne.",
+      "category": "Feelings",
+      "generated_at": "2026-08-13T17:50:40.905045"
+    },
+    {
+      "english": "A warm hug, from within.",
+      "hebrew": "חיבוק חם, מבפנים.",
+      "transliteration": "Chibuk cham, mibifnim.",
+      "category": "Feelings",
+      "generated_at": "2026-08-13T17:50:40.905055"
+    },
+    {
+      "english": "A moment of pure wonder, unfolding.",
+      "hebrew": "רגע של פליאה טהורה, נפרש.",
+      "transliteration": "Rega shel pili'a tehora, nifras.",
+      "category": "Feelings",
+      "generated_at": "2026-08-13T17:50:40.905056"
+    },
+    {
+      "english": "A quiet sense, of belonging.",
+      "hebrew": "תחושה שקטה, של שייכות.",
+      "transliteration": "Tchusha shketa, shel shayachut.",
+      "category": "Feelings",
+      "generated_at": "2026-08-13T17:50:40.905058"
+    },
+    {
+      "english": "A gentle nudge, forward.",
+      "hebrew": "דחיפה עדינה, קדימה.",
+      "transliteration": "Dchifa adina, kadima.",
+      "category": "Feelings",
+      "generated_at": "2026-08-13T17:50:40.905059"
     }
   ],
-  "last_updated": "2026-08-13T14:50:25.190997"
+  "last_updated": "2026-08-13T17:50:40.905060"
 }
