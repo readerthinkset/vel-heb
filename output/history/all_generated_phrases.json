@@ -10569,7 +10569,42 @@
       "transliteration": "Ha-behirut ha-zo, ata cholek.",
       "category": "Gratitude",
       "generated_at": "2026-08-14T20:36:41.993139"
+    },
+    {
+      "english": "His eyes, bright stars, watching.",
+      "hebrew": "עיניו, כוכבים בוהקים, צופים.",
+      "transliteration": "Einav, kochavim bohakim, tzofim.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-15T01:40:46.702194"
+    },
+    {
+      "english": "Her ears, hearing secrets.",
+      "hebrew": "אוזניה, שומעות סודות.",
+      "transliteration": "Oznayim, shom'ot sodot.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-15T01:40:46.702203"
+    },
+    {
+      "english": "His mouth, ready to speak.",
+      "hebrew": "פיו, מוכן לדבר.",
+      "transliteration": "Pe'o, mukhan ledaber.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-15T01:40:46.702205"
+    },
+    {
+      "english": "Her teeth, small pearls, shining.",
+      "hebrew": "שיניה, פנינים קטנות, מבריקות.",
+      "transliteration": "Shenayim, pninim ktanot, mabriqot.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-15T01:40:46.702206"
+    },
+    {
+      "english": "His chin, a strong line.",
+      "hebrew": "סנטרו, קו חזק.",
+      "transliteration": "Sintoro, kav chazak.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-15T01:40:46.702207"
     }
   ],
-  "last_updated": "2026-08-14T20:36:41.993141"
+  "last_updated": "2026-08-15T01:40:46.702209"
 }
