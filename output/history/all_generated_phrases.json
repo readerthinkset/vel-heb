@@ -10639,7 +10639,42 @@
       "transliteration": "Ha-re-gel sheli shvu-ra, a-ni cho-shev.",
       "category": "Emergency",
       "generated_at": "2026-08-15T12:13:29.084463"
+    },
+    {
+      "english": "This dish, smells amazing.",
+      "hebrew": "המנה הזאת, מריחה נפלא.",
+      "transliteration": "Ha'manah ha'zot, merichah nifla.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-15T14:12:37.830063"
+    },
+    {
+      "english": "I'm craving, something spicy.",
+      "hebrew": "בא לי, משהו חריף.",
+      "transliteration": "Ba li, mashehu charif.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-15T14:12:37.830074"
+    },
+    {
+      "english": "What's, your most popular, item?",
+      "hebrew": "מה, הפריט הכי, נמכר שלכם?",
+      "transliteration": "Mah, ha'parit ha'chi, nimkar shelachem?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-15T14:12:37.830075"
+    },
+    {
+      "english": "Could I, have a doggy bag?",
+      "hebrew": "אפשר, לקחת שאריות, הביתה?",
+      "transliteration": "Efshar, lakachat she'ariot, habaita?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-15T14:12:37.830077"
+    },
+    {
+      "english": "This is, a delightful surprise.",
+      "hebrew": "זו, הפתעה נעימה.",
+      "transliteration": "Zo, hatza'ah ne'imah.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-15T14:12:37.830078"
     }
   ],
-  "last_updated": "2026-08-15T12:13:29.084464"
+  "last_updated": "2026-08-15T14:12:37.830082"
 }
