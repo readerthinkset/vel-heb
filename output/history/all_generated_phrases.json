@@ -10604,7 +10604,42 @@
       "transliteration": "Sintoro, kav chazak.",
       "category": "Body Parts",
       "generated_at": "2026-08-15T01:40:46.702207"
+    },
+    {
+      "english": "My arm, it's bleeding.",
+      "hebrew": "הזרוע שלי, מדממת.",
+      "transliteration": "Ha-z'ro'a sheli, m'da-me-met.",
+      "category": "Emergency",
+      "generated_at": "2026-08-15T12:13:29.084449"
+    },
+    {
+      "english": "I can't breathe, deeply.",
+      "hebrew": "אני לא נושם, עמוק.",
+      "transliteration": "A-ni lo no-shem, a-mok.",
+      "category": "Emergency",
+      "generated_at": "2026-08-15T12:13:29.084458"
+    },
+    {
+      "english": "Someone fell, over there.",
+      "hebrew": "מישהו נפל, שם.",
+      "transliteration": "Mi-she-hu na-fal, sham.",
+      "category": "Emergency",
+      "generated_at": "2026-08-15T12:13:29.084460"
+    },
+    {
+      "english": "This looks unsafe, watch out.",
+      "hebrew": "זה נראה לא בטוח, היזהר.",
+      "transliteration": "Ze nir-eh lo ba-tuch, hi-za-her.",
+      "category": "Emergency",
+      "generated_at": "2026-08-15T12:13:29.084461"
+    },
+    {
+      "english": "My leg is broken, I think.",
+      "hebrew": "הרגל שלי שבורה, אני חושב.",
+      "transliteration": "Ha-re-gel sheli shvu-ra, a-ni cho-shev.",
+      "category": "Emergency",
+      "generated_at": "2026-08-15T12:13:29.084463"
     }
   ],
-  "last_updated": "2026-08-15T01:40:46.702209"
+  "last_updated": "2026-08-15T12:13:29.084464"
 }
