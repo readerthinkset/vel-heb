@@ -10814,7 +10814,42 @@
       "transliteration": "Shorashim amukim, dibur chazak.",
       "category": "Perseverance",
       "generated_at": "2026-08-16T14:13:26.250224"
+    },
+    {
+      "english": "A perfect crust, on this bread.",
+      "hebrew": "קראסט מושלם, על הלחם הזה.",
+      "transliteration": "krast mushlam, al halechem hazeh.",
+      "category": "Food",
+      "generated_at": "2026-08-16T17:12:08.999035"
+    },
+    {
+      "english": "This salad, is so refreshing.",
+      "hebrew": "הסלט הזה, כל כך מרענן.",
+      "transliteration": "hasalat hazeh, kol kach mera'anen.",
+      "category": "Food",
+      "generated_at": "2026-08-16T17:12:08.999047"
+    },
+    {
+      "english": "Just a hint, of garlic, perhaps?",
+      "hebrew": "רק רמז, של שום, אולי?",
+      "transliteration": "rak remez, shel shum, ulai?",
+      "category": "Food",
+      "generated_at": "2026-08-16T17:12:08.999048"
+    },
+    {
+      "english": "The cheese, is wonderfully gooey.",
+      "hebrew": "הגבינה, נמסה להפליא.",
+      "transliteration": "hagvina, nimset lehafli.",
+      "category": "Food",
+      "generated_at": "2026-08-16T17:12:08.999049"
+    },
+    {
+      "english": "A delightful crumble, for dessert.",
+      "hebrew": "קראמבל נהדר, לקינוח.",
+      "transliteration": "krambl nehedar, lekinuach.",
+      "category": "Food",
+      "generated_at": "2026-08-16T17:12:08.999050"
     }
   ],
-  "last_updated": "2026-08-16T14:13:26.250226"
+  "last_updated": "2026-08-16T17:12:08.999052"
 }
