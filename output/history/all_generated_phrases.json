@@ -10884,7 +10884,42 @@
       "transliteration": "Shma et ha-muzika ba-milim.",
       "category": "Directions",
       "generated_at": "2026-08-16T20:29:27.111018"
+    },
+    {
+      "english": "Rise early, greet the day.",
+      "hebrew": "השכים קום, קבל את היום.",
+      "transliteration": "Hashkim kum, kabel et hayom.",
+      "category": "Balance",
+      "generated_at": "2026-08-17T01:45:56.642412"
+    },
+    {
+      "english": "Listen closely, speak clearly.",
+      "hebrew": "הקשב היטב, דבר ברור.",
+      "transliteration": "Hakshav heitev, daber barur.",
+      "category": "Balance",
+      "generated_at": "2026-08-17T01:45:56.642423"
+    },
+    {
+      "english": "Walk softly, tread with care.",
+      "hebrew": "לכת בנחת, דרך בזהירות.",
+      "transliteration": "Lechet benachat, derech bizhirut.",
+      "category": "Balance",
+      "generated_at": "2026-08-17T01:45:56.642426"
+    },
+    {
+      "english": "Give freely, receive openly.",
+      "hebrew": "תן בחופשיות, קבל בפתיחות.",
+      "transliteration": "Ten bechufshiyut, kabel biftiychut.",
+      "category": "Balance",
+      "generated_at": "2026-08-17T01:45:56.642427"
+    },
+    {
+      "english": "Shine bright, cast no shadow.",
+      "hebrew": "זהר באור, אל תטיל צל.",
+      "transliteration": "Zahar ba'or, al tatil tzel.",
+      "category": "Balance",
+      "generated_at": "2026-08-17T01:45:56.642428"
     }
   ],
-  "last_updated": "2026-08-16T20:29:27.111020"
+  "last_updated": "2026-08-17T01:45:56.642430"
 }
