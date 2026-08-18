@@ -11129,7 +11129,42 @@
       "transliteration": "Ha'chadashot ha'eleh, fantasiyot!",
       "category": "Joy",
       "generated_at": "2026-08-18T12:21:32.163030"
+    },
+    {
+      "english": "A good day, to you.",
+      "hebrew": "יום טוב, לך.",
+      "transliteration": "Yom tov, lecha.",
+      "category": "Greetings",
+      "generated_at": "2026-08-18T14:22:09.786949"
+    },
+    {
+      "english": "Welcome, new friend.",
+      "hebrew": "ברוך הבא, חבר חדש.",
+      "transliteration": "Baruch haba, chaver chadash.",
+      "category": "Greetings",
+      "generated_at": "2026-08-18T14:22:09.786960"
+    },
+    {
+      "english": "Hope you're well.",
+      "hebrew": "מקווה, שאתה בסדר.",
+      "transliteration": "Mekaveh, she'ata beseder.",
+      "category": "Greetings",
+      "generated_at": "2026-08-18T14:22:09.786962"
+    },
+    {
+      "english": "It's a pleasure, truly.",
+      "hebrew": "זו שמחה, באמת.",
+      "transliteration": "Zo simcha, be'emet.",
+      "category": "Greetings",
+      "generated_at": "2026-08-18T14:22:09.786963"
+    },
+    {
+      "english": "Glad our paths, crossed.",
+      "hebrew": "שמח, שדרכינו הצטלבו.",
+      "transliteration": "Same'ach, she'darkeynu hitz-talvu.",
+      "category": "Greetings",
+      "generated_at": "2026-08-18T14:22:09.786965"
     }
   ],
-  "last_updated": "2026-08-18T12:21:32.163032"
+  "last_updated": "2026-08-18T14:22:09.786966"
 }
