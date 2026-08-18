@@ -11164,7 +11164,42 @@
       "transliteration": "Same'ach, she'darkeynu hitz-talvu.",
       "category": "Greetings",
       "generated_at": "2026-08-18T14:22:09.786965"
+    },
+    {
+      "english": "This, catches my eye.",
+      "hebrew": "זה, תופס את העין שלי.",
+      "transliteration": "Zeh, topes et ha'ayin sheli.",
+      "category": "Shopping",
+      "generated_at": "2026-08-18T17:22:17.758146"
+    },
+    {
+      "english": "What's the price, for this?",
+      "hebrew": "מה המחיר, של זה?",
+      "transliteration": "Ma ha'mechir, shel zeh?",
+      "category": "Shopping",
+      "generated_at": "2026-08-18T17:22:17.758159"
+    },
+    {
+      "english": "Can I try, this on?",
+      "hebrew": "אפשר למדוד, את זה?",
+      "transliteration": "Efshar limdod, et zeh?",
+      "category": "Shopping",
+      "generated_at": "2026-08-18T17:22:17.758161"
+    },
+    {
+      "english": "I like, the feel of it.",
+      "hebrew": "אני אוהב/ת, את התחושה.",
+      "transliteration": "Ani ohev/et, et ha'tchusha.",
+      "category": "Shopping",
+      "generated_at": "2026-08-18T17:22:17.758163"
+    },
+    {
+      "english": "Do you have, this in blue?",
+      "hebrew": "יש לך, את זה בכחול?",
+      "transliteration": "Yesh lecha/lach, et zeh be'kachol?",
+      "category": "Shopping",
+      "generated_at": "2026-08-18T17:22:17.758164"
     }
   ],
-  "last_updated": "2026-08-18T14:22:09.786966"
+  "last_updated": "2026-08-18T17:22:17.758166"
 }
