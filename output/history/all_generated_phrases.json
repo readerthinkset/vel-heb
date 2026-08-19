@@ -11304,7 +11304,42 @@
       "transliteration": "kol hagut, tza'ad khazak.",
       "category": "Motivation",
       "generated_at": "2026-08-19T14:26:39.579042"
+    },
+    {
+      "english": "This scarf, it's so soft.",
+      "hebrew": "הצעיף הזה, הוא כל כך רך.",
+      "transliteration": "Ha-tza'if hazeh, hu kol kach rach.",
+      "category": "Clothes",
+      "generated_at": "2026-08-19T17:28:43.932687"
+    },
+    {
+      "english": "A fancy blouse, for a party.",
+      "hebrew": "חולצה אלגנטית, למסיבה.",
+      "transliteration": "Chultza elegantit, le-mesiba.",
+      "category": "Clothes",
+      "generated_at": "2026-08-19T17:28:43.932699"
+    },
+    {
+      "english": "These jeans, are they blue?",
+      "hebrew": "המכנסיים הכחולים האלה, הם כחולים?",
+      "transliteration": "Ha-mikhnasayim ha-kchulim ha'eleh, hem kchulim?",
+      "category": "Clothes",
+      "generated_at": "2026-08-19T17:28:43.932701"
+    },
+    {
+      "english": "My new coat, feels light.",
+      "hebrew": "המעיל החדש שלי, מרגיש קליל.",
+      "transliteration": "Ha-me'il ha-chadash sheli, margish kalil.",
+      "category": "Clothes",
+      "generated_at": "2026-08-19T17:28:43.932702"
+    },
+    {
+      "english": "A cute skirt, for summer.",
+      "hebrew": "חצאית חמודה, לקיץ.",
+      "transliteration": "Chaitza chamuda, la-kayitz.",
+      "category": "Clothes",
+      "generated_at": "2026-08-19T17:28:43.932704"
     }
   ],
-  "last_updated": "2026-08-19T14:26:39.579044"
+  "last_updated": "2026-08-19T17:28:43.932705"
 }
