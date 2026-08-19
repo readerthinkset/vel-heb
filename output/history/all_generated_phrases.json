@@ -11339,7 +11339,42 @@
       "transliteration": "Chaitza chamuda, la-kayitz.",
       "category": "Clothes",
       "generated_at": "2026-08-19T17:28:43.932704"
+    },
+    {
+      "english": "The sky, breathes color.",
+      "hebrew": "השמיים, נושמים צבע.",
+      "transliteration": "Ha-shamayim, nosh'mim tzeva.",
+      "category": "Hope",
+      "generated_at": "2026-08-19T22:05:42.635701"
+    },
+    {
+      "english": "Listen, for a whisper.",
+      "hebrew": "הקשב, ללחישה.",
+      "transliteration": "Hak'shev, le-lechisha.",
+      "category": "Hope",
+      "generated_at": "2026-08-19T22:05:42.635712"
+    },
+    {
+      "english": "A new song, begins now.",
+      "hebrew": "שיר חדש, מתחיל עכשיו.",
+      "transliteration": "Shir chadash, matchil achshav.",
+      "category": "Hope",
+      "generated_at": "2026-08-19T22:05:42.635714"
+    },
+    {
+      "english": "Your spirit, soars free.",
+      "hebrew": "רוחך, ממריאה חופשי.",
+      "transliteration": "Ru'achech, mamri'a chofshi.",
+      "category": "Hope",
+      "generated_at": "2026-08-19T22:05:42.635716"
+    },
+    {
+      "english": "The quiet, holds answers.",
+      "hebrew": "השקט, מחזיק תשובות.",
+      "transliteration": "Ha-sheket, machzik teshuvot.",
+      "category": "Hope",
+      "generated_at": "2026-08-19T22:05:42.635717"
     }
   ],
-  "last_updated": "2026-08-19T17:28:43.932705"
+  "last_updated": "2026-08-19T22:05:42.635719"
 }
