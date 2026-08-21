@@ -11549,7 +11549,42 @@
       "transliteration": "Sug'muzar shel pachad, bifnim.",
       "category": "Feelings",
       "generated_at": "2026-08-20T20:35:35.072065"
+    },
+    {
+      "english": "A quiet chord, then silence.",
+      "hebrew": "אַקּוֹרְד שָׁקֵט, וְאַחַר כָּךְ דְּמָמָה.",
+      "transliteration": "akord shaket, ve'achar kach dmama.",
+      "category": "Music",
+      "generated_at": "2026-08-21T01:47:01.728419"
+    },
+    {
+      "english": "This music, lifts the soul.",
+      "hebrew": "הַמּוּזִיקָה הַזּוֹ, מְרִימָה אֶת הַנֶּפֶשׁ.",
+      "transliteration": "hamuzika hazoh, merima et hanefesh.",
+      "category": "Music",
+      "generated_at": "2026-08-21T01:47:01.728428"
+    },
+    {
+      "english": "A single drum, a steady heart.",
+      "hebrew": "תּוּף אֶחָד, לֵב יַצִּיב.",
+      "transliteration": "tuf echad, lev yatziv.",
+      "category": "Music",
+      "generated_at": "2026-08-21T01:47:01.728430"
+    },
+    {
+      "english": "The flute's soft cry, so clear.",
+      "hebrew": "בְּכִי הַחֲלִיל, כֹּה צָלוּל.",
+      "transliteration": "bechi hachlill, koh tzalul.",
+      "category": "Music",
+      "generated_at": "2026-08-21T01:47:01.728431"
+    },
+    {
+      "english": "Strings vibrate, a sweet dream.",
+      "hebrew": "מֵיתָרִים רוֹעֲדִים, חֲלוֹם מָתוֹק.",
+      "transliteration": "meitarim ro'adim, chalom matok.",
+      "category": "Music",
+      "generated_at": "2026-08-21T01:47:01.728432"
     }
   ],
-  "last_updated": "2026-08-20T20:35:35.072067"
+  "last_updated": "2026-08-21T01:47:01.728434"
 }
