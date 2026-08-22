@@ -11724,7 +11724,42 @@
       "transliteration": "Ta'aminu be'hitkadmut shelachem.",
       "category": "Perseverance",
       "generated_at": "2026-08-21T20:32:02.370703"
+    },
+    {
+      "english": "One spark, ignites the fire.",
+      "hebrew": "ניצוץ אחד, מדליק את האש.",
+      "transliteration": "Nitzotz echad, madlik et ha'esh.",
+      "category": "Numbers",
+      "generated_at": "2026-08-22T01:40:13.292985"
+    },
+    {
+      "english": "Two hands, build a home.",
+      "hebrew": "שתי ידיים, בונות בית.",
+      "transliteration": "Shtei yadayim, bonot bayit.",
+      "category": "Numbers",
+      "generated_at": "2026-08-22T01:40:13.292997"
+    },
+    {
+      "english": "Three notes, a melody starts.",
+      "hebrew": "שלוש תווים, מנגינה מתחילה.",
+      "transliteration": "Shalosh tavim, mangina matchila.",
+      "category": "Numbers",
+      "generated_at": "2026-08-22T01:40:13.292999"
+    },
+    {
+      "english": "Four pillars, support the truth.",
+      "hebrew": "ארבע עמודים, תומכים באמת.",
+      "transliteration": "Arba amudim, tochim ba'emet.",
+      "category": "Numbers",
+      "generated_at": "2026-08-22T01:40:13.293000"
+    },
+    {
+      "english": "Five stones, cast a spell.",
+      "hebrew": "חמש אבנים, מטילות כישוף.",
+      "transliteration": "Chamesh avanim, metilot kishuf.",
+      "category": "Numbers",
+      "generated_at": "2026-08-22T01:40:13.293001"
     }
   ],
-  "last_updated": "2026-08-21T20:32:02.370705"
+  "last_updated": "2026-08-22T01:40:13.293004"
 }
