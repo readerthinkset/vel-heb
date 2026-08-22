@@ -11864,7 +11864,42 @@
       "transliteration": "H<em>a</em><em>o</em>sher h<em>a</em>z<em>e</em>h, k<em>o</em>l k<em>a</em>kh tah<em>o</em>r.",
       "category": "Gratitude",
       "generated_at": "2026-08-22T14:11:09.206009"
+    },
+    {
+      "english": "A single rose, velvety crimson.",
+      "hebrew": "ורד בודד, קטיפתי ארגמן.",
+      "transliteration": "Vered boded, k'tifati argaman.",
+      "category": "Colors",
+      "generated_at": "2026-08-22T17:12:41.421094"
+    },
+    {
+      "english": "The moon, a pale ivory tonight.",
+      "hebrew": "הירח, שנהב חיוור הלילה.",
+      "transliteration": "Ha'yare'ach, sh'neh'av chiv'ar ha'layla.",
+      "category": "Colors",
+      "generated_at": "2026-08-22T17:12:41.421109"
+    },
+    {
+      "english": "His jacket, a worn leather tan.",
+      "hebrew": "הז'קט שלו, קרם עור בלוי.",
+      "transliteration": "Ha'z'ket shelo, k'rem or baluy.",
+      "category": "Colors",
+      "generated_at": "2026-08-22T17:12:41.421111"
+    },
+    {
+      "english": "A ripe peach, soft peachy blush.",
+      "hebrew": "אפרסק בשל, סומק אפרסק עדין.",
+      "transliteration": "Afarsek bashel, som'ek afarsek adin.",
+      "category": "Colors",
+      "generated_at": "2026-08-22T17:12:41.421112"
+    },
+    {
+      "english": "The evening sky, a bruised plum.",
+      "hebrew": "שמי הערב, שזיף חבול.",
+      "transliteration": "Sh'mei ha'erev, sh'zif chavul.",
+      "category": "Colors",
+      "generated_at": "2026-08-22T17:12:41.421113"
     }
   ],
-  "last_updated": "2026-08-22T14:11:09.206011"
+  "last_updated": "2026-08-22T17:12:41.421115"
 }
