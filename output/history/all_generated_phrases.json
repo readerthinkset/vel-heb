@@ -11899,7 +11899,42 @@
       "transliteration": "Sh'mei ha'erev, sh'zif chavul.",
       "category": "Colors",
       "generated_at": "2026-08-22T17:12:41.421113"
+    },
+    {
+      "english": "This pastry, is so fluffy.",
+      "hebrew": "המאפה הזה, כל כך אוורירי.",
+      "transliteration": "Ha'ma'af hazeh, kol kach aviri.",
+      "category": "Food",
+      "generated_at": "2026-08-22T20:29:21.600057"
+    },
+    {
+      "english": "A crunchy pickle, right here.",
+      "hebrew": "מלפפון חמוץ, פריך, ממש כאן.",
+      "transliteration": "Melafefon chamutz, parich, mamash kan.",
+      "category": "Food",
+      "generated_at": "2026-08-22T20:29:21.600070"
+    },
+    {
+      "english": "That stew, is deeply savory.",
+      "hebrew": "התבשיל ההוא, עמוק בטעמו.",
+      "transliteration": "Ha'tavshil ha'hu, amokh b'ta'amo.",
+      "category": "Food",
+      "generated_at": "2026-08-22T20:29:21.600072"
+    },
+    {
+      "english": "Could I have, some olives, please?",
+      "hebrew": "אפשר לי, קצת זיתים, בבקשה?",
+      "transliteration": "Efshar li, ktzat zeit'im, bevakasha?",
+      "category": "Food",
+      "generated_at": "2026-08-22T20:29:21.600074"
+    },
+    {
+      "english": "A perfect drizzle, of olive oil.",
+      "hebrew": "טפטוף מושלם, של שמן זית.",
+      "transliteration": "Tiftuf mushlam, shel shemen zayit.",
+      "category": "Food",
+      "generated_at": "2026-08-22T20:29:21.600075"
     }
   ],
-  "last_updated": "2026-08-22T17:12:41.421115"
+  "last_updated": "2026-08-22T20:29:21.600077"
 }
