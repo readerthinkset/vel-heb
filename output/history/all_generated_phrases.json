@@ -12004,7 +12004,42 @@
       "transliteration": "Shev b'sheket, v'rak sim lev.",
       "category": "Mindfulness",
       "generated_at": "2026-08-23T12:15:12.346912"
+    },
+    {
+      "english": "A blink, then gone.",
+      "hebrew": "מצמוץ, ואז נעלם.",
+      "transliteration": "Mitzmutz, v'az ne'elam.",
+      "category": "Time",
+      "generated_at": "2026-08-23T14:13:16.518196"
+    },
+    {
+      "english": "Wait a beat, listen.",
+      "hebrew": "חכה רגע, תקשיב.",
+      "transliteration": "Chake riga, takshiv.",
+      "category": "Time",
+      "generated_at": "2026-08-23T14:13:16.518208"
+    },
+    {
+      "english": "This instant, breathe.",
+      "hebrew": "הרגע הזה, נשום.",
+      "transliteration": "Ha'riga hazeh, neshom.",
+      "category": "Time",
+      "generated_at": "2026-08-23T14:13:16.518210"
+    },
+    {
+      "english": "Seconds slip, like sand.",
+      "hebrew": "שניות חולפות, כמו חול.",
+      "transliteration": "Shniyot cholfot, kmo chol.",
+      "category": "Time",
+      "generated_at": "2026-08-23T14:13:16.518211"
+    },
+    {
+      "english": "The quiet hour, calls.",
+      "hebrew": "השעה השקטה, קוראת.",
+      "transliteration": "Ha'sha'ah ha'shketah, koret.",
+      "category": "Time",
+      "generated_at": "2026-08-23T14:13:16.518213"
     }
   ],
-  "last_updated": "2026-08-23T12:15:12.346914"
+  "last_updated": "2026-08-23T14:13:16.518214"
 }
