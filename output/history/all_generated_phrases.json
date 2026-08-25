@@ -12389,7 +12389,42 @@
       "transliteration": "Ani shokel, et hakniyah hazu.",
       "category": "Shopping",
       "generated_at": "2026-08-25T14:34:35.228053"
+    },
+    {
+      "english": "That sounds, intriguing.",
+      "hebrew": "זה נשמע, מסקרן.",
+      "transliteration": "ze nishma, mesakeren.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-25T17:23:26.699520"
+    },
+    {
+      "english": "Could we, get, some olives?",
+      "hebrew": "אפשר לקבל, זיתים?",
+      "transliteration": "efshar lekabel, zeitim?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-25T17:23:26.699530"
+    },
+    {
+      "english": "Is this, prepared, fresh?",
+      "hebrew": "זה מוכן, טרי?",
+      "transliteration": "ze mukhan, tari?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-25T17:23:26.699531"
+    },
+    {
+      "english": "My appetite, is growing.",
+      "hebrew": "התיאבון, שלי גובר.",
+      "transliteration": "ha'teavon, sheli gover.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-25T17:23:26.699533"
+    },
+    {
+      "english": "What's, the house, drink?",
+      "hebrew": "מה המשקה, של הבית?",
+      "transliteration": "ma ha'mashke, shel habayit?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-25T17:23:26.699534"
     }
   ],
-  "last_updated": "2026-08-25T14:34:35.228054"
+  "last_updated": "2026-08-25T17:23:26.699544"
 }
