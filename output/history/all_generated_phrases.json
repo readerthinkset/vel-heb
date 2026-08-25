@@ -12424,7 +12424,42 @@
       "transliteration": "ma ha'mashke, shel habayit?",
       "category": "Restaurant",
       "generated_at": "2026-08-25T17:23:26.699534"
+    },
+    {
+      "english": "A bright spark, within me.",
+      "hebrew": "ניצוץ בהיר, בי.",
+      "transliteration": "Nitzotz bahir, bi.",
+      "category": "Joy",
+      "generated_at": "2026-08-25T20:35:41.831933"
+    },
+    {
+      "english": "This little wonder, oh wow.",
+      "hebrew": "הפלא הקטן הזה, וואו.",
+      "transliteration": "Ha'pele ha'katan hazeh, wow.",
+      "category": "Joy",
+      "generated_at": "2026-08-25T20:35:41.831945"
+    },
+    {
+      "english": "Pure delight, like sunshine.",
+      "hebrew": "עונג צרוף, כשמש.",
+      "transliteration": "Oneg tzaruf, k'shemesh.",
+      "category": "Joy",
+      "generated_at": "2026-08-25T20:35:41.831947"
+    },
+    {
+      "english": "A gentle hum, of peace.",
+      "hebrew": "זמזום עדין, של שלווה.",
+      "transliteration": "Zimzum adin, shel shilvah.",
+      "category": "Joy",
+      "generated_at": "2026-08-25T20:35:41.831949"
+    },
+    {
+      "english": "This is good, really good.",
+      "hebrew": "זה טוב, ממש טוב.",
+      "transliteration": "Zeh tov, mamash tov.",
+      "category": "Joy",
+      "generated_at": "2026-08-25T20:35:41.831950"
     }
   ],
-  "last_updated": "2026-08-25T17:23:26.699544"
+  "last_updated": "2026-08-25T20:35:41.831952"
 }
