@@ -12634,7 +12634,42 @@
       "transliteration": "kor pit'omí, tzim'r'móret.",
       "category": "Weather",
       "generated_at": "2026-08-27T08:51:43.975613"
+    },
+    {
+      "english": "Sunshine, please, today.",
+      "hebrew": "שמש, בבקשה, היום.",
+      "transliteration": "Shemesh, bevakasha, hayom.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-27T21:22:42.319312"
+    },
+    {
+      "english": "Mind is quiet, for now.",
+      "hebrew": "המחשבות רגועות, לעת עתה.",
+      "transliteration": "Hamachshavot regu'ot, le'et ata.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-27T21:22:42.319323"
+    },
+    {
+      "english": "Sweet taste, in the air.",
+      "hebrew": "טעם מתוק, באוויר.",
+      "transliteration": "Ta'am matok, ba'avir.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-27T21:22:42.319325"
+    },
+    {
+      "english": "Breath in, breath out.",
+      "hebrew": "נשימה פנימה, נשימה החוצה.",
+      "transliteration": "Neshima pnima, neshima hachutza.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-27T21:22:42.319327"
+    },
+    {
+      "english": "A good start, perhaps.",
+      "hebrew": "התחלה טובה, אולי.",
+      "transliteration": "Hatchala tova, ulai.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-27T21:22:42.319328"
     }
   ],
-  "last_updated": "2026-08-27T08:51:43.975615"
+  "last_updated": "2026-08-27T21:22:42.319330"
 }
