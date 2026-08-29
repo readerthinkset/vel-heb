@@ -12914,7 +12914,42 @@
       "transliteration": "Ha'matzpen sheli, tamid amiti.",
       "category": "Relationships",
       "generated_at": "2026-08-29T00:48:37.639861"
+    },
+    {
+      "english": "This blouse, a vibrant color.",
+      "hebrew": "החולצה הזו, צבע עז.",
+      "transliteration": "Hachultza hazu, tzeva az.",
+      "category": "Clothes",
+      "generated_at": "2026-08-29T02:46:57.268324"
+    },
+    {
+      "english": "My coat, it's quite heavy.",
+      "hebrew": "המעיל שלי, הוא די כבד.",
+      "transliteration": "Hame'il sheli, hu di kaved.",
+      "category": "Clothes",
+      "generated_at": "2026-08-29T02:46:57.268332"
+    },
+    {
+      "english": "These trousers, a classic cut.",
+      "hebrew": "המכנסיים האלה, גזרה קלאסית.",
+      "transliteration": "Hamichnasayim ha'eleh, g'zara klasit.",
+      "category": "Clothes",
+      "generated_at": "2026-08-29T02:46:57.268333"
+    },
+    {
+      "english": "A simple t-shirt, for everyday.",
+      "hebrew": "חולצת טריקו פשוטה, ליום-יום.",
+      "transliteration": "Chultzat triko p'shuta, leyom-yom.",
+      "category": "Clothes",
+      "generated_at": "2026-08-29T02:46:57.268334"
+    },
+    {
+      "english": "Her dress, it flows beautifully.",
+      "hebrew": "השמלה שלה, היא מתנופפת יפה.",
+      "transliteration": "Hasemla shela, hi mitnafe'fet yafeh.",
+      "category": "Clothes",
+      "generated_at": "2026-08-29T02:46:57.268336"
     }
   ],
-  "last_updated": "2026-08-29T00:48:37.639863"
+  "last_updated": "2026-08-29T02:46:57.268337"
 }
