@@ -13194,7 +13194,42 @@
       "transliteration": "Ha'derech niglet, bizman ha'haliha.",
       "category": "Patience",
       "generated_at": "2026-08-30T15:36:08.947713"
+    },
+    {
+      "english": "A bright hello, ahead.",
+      "hebrew": "ברכה בהירה, לפנינו.",
+      "transliteration": "Bracha behira, lefanenu.",
+      "category": "Greetings",
+      "generated_at": "2026-08-30T17:50:24.830997"
+    },
+    {
+      "english": "May your day, bloom.",
+      "hebrew": "שתפרח יומיכם.",
+      "transliteration": "She'tifrach yomeichem.",
+      "category": "Greetings",
+      "generated_at": "2026-08-30T17:50:24.831007"
+    },
+    {
+      "english": "A good start, awaits.",
+      "hebrew": "התחלה טובה, מחכה.",
+      "transliteration": "Hatchala tova, mechaka.",
+      "category": "Greetings",
+      "generated_at": "2026-08-30T17:50:24.831008"
+    },
+    {
+      "english": "Welcome, kindred spirit.",
+      "hebrew": "ברוכים הבאים, נשמה תאומה.",
+      "transliteration": "Bruchim haba'im, neshama te'oma.",
+      "category": "Greetings",
+      "generated_at": "2026-08-30T17:50:24.831010"
+    },
+    {
+      "english": "Glad, you're joining.",
+      "hebrew": "שמח, שאת/ה מצטרף/ת.",
+      "transliteration": "Sameach, she'at/a mitz'taref/et.",
+      "category": "Greetings",
+      "generated_at": "2026-08-30T17:50:24.831011"
     }
   ],
-  "last_updated": "2026-08-30T15:36:08.947714"
+  "last_updated": "2026-08-30T17:50:24.831012"
 }
