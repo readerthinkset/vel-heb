@@ -13509,7 +13509,42 @@
       "transliteration": "hanahar zorem, hala.",
       "category": "Hope",
       "generated_at": "2026-09-01T04:46:01.309557"
+    },
+    {
+      "english": "My mother, she just *knows*.",
+      "hebrew": "אמא שלי, היא פשוט יודעת.",
+      "transliteration": "Ima sheli, hi pashut yode'at.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-01T15:39:59.965223"
+    },
+    {
+      "english": "Father, his advice, always wise.",
+      "hebrew": "אבא, העצה שלו, תמיד חכמה.",
+      "transliteration": "Abba, ha'eitzah shelo, tamid chachamah.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-01T15:39:59.965234"
+    },
+    {
+      "english": "Sister, a melody, in my life.",
+      "hebrew": "אחותי, מנגינה, בחיי.",
+      "transliteration": "Achoti, manginah, bechayai.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-01T15:39:59.965236"
+    },
+    {
+      "english": "Brother, a puzzle solver.",
+      "hebrew": "אחי, פותר חידות.",
+      "transliteration": "Achi, poteir chidot.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-01T15:39:59.965237"
+    },
+    {
+      "english": "My son, a tiny explorer.",
+      "hebrew": "בני, חוקר זעיר.",
+      "transliteration": "Beni, chokeh ze'ir.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-01T15:39:59.965238"
     }
   ],
-  "last_updated": "2026-09-01T04:46:01.309559"
+  "last_updated": "2026-09-01T15:39:59.965239"
 }
