@@ -14034,7 +14034,42 @@
       "transliteration": "Kol nisayon, even binyan.",
       "category": "Success",
       "generated_at": "2026-09-04T15:17:58.425918"
+    },
+    {
+      "english": "Need quiet, urgently.",
+      "hebrew": "צריך שקט, בדחיפות.",
+      "transliteration": "Tzarich sheket, bid'chifut.",
+      "category": "Emergency",
+      "generated_at": "2026-09-04T17:15:54.151101"
+    },
+    {
+      "english": "Someone is unconscious.",
+      "hebrew": "מישהו מחוסר הכרה.",
+      "transliteration": "Mishehu mechusar hakarah.",
+      "category": "Emergency",
+      "generated_at": "2026-09-04T17:15:54.151114"
+    },
+    {
+      "english": "This is not safe, move.",
+      "hebrew": "זה לא בטוח,זוזו.",
+      "transliteration": "Ze lo batuach, zuzoo.",
+      "category": "Emergency",
+      "generated_at": "2026-09-04T17:15:54.151116"
+    },
+    {
+      "english": "My vision, it's blurry.",
+      "hebrew": "הראייה שלי, מטושטשת.",
+      "transliteration": "Ha're'iyah sheli, metushteshet.",
+      "category": "Emergency",
+      "generated_at": "2026-09-04T17:15:54.151117"
+    },
+    {
+      "english": "I feel dizzy, help me.",
+      "hebrew": "אני מסוחרר, עזור לי.",
+      "transliteration": "Ani mesuchrar, azor li.",
+      "category": "Emergency",
+      "generated_at": "2026-09-04T17:15:54.151119"
     }
   ],
-  "last_updated": "2026-09-04T15:17:58.425920"
+  "last_updated": "2026-09-04T17:15:54.151121"
 }
