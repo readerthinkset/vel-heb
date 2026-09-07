@@ -14629,7 +14629,42 @@
       "transliteration": "Nochzuch'cha, matana.",
       "category": "Mindfulness",
       "generated_at": "2026-09-07T20:17:11.407530"
+    },
+    {
+      "english": "Now, a fresh start.",
+      "hebrew": "עכשיו, התחלה חדשה.",
+      "transliteration": "Achshav, hatchala chadasha.",
+      "category": "Time",
+      "generated_at": "2026-09-07T22:42:50.185377"
+    },
+    {
+      "english": "Soon, adventure awaits.",
+      "hebrew": "בקרוב, הרפתקה מחכה.",
+      "transliteration": "Be'karov, harpatka mechaka.",
+      "category": "Time",
+      "generated_at": "2026-09-07T22:42:50.185391"
+    },
+    {
+      "english": "Later, we'll remember.",
+      "hebrew": "מאוחר יותר, נזכור.",
+      "transliteration": "Me'uchar yoter, nizkor.",
+      "category": "Time",
+      "generated_at": "2026-09-07T22:42:50.185392"
+    },
+    {
+      "english": "This second, breathe deep.",
+      "hebrew": "השנייה הזו, נשום עמוק.",
+      "transliteration": "Ha'shniya ha'zo, nashom amok.",
+      "category": "Time",
+      "generated_at": "2026-09-07T22:42:50.185393"
+    },
+    {
+      "english": "Once, a quiet whisper.",
+      "hebrew": "פעם, לחישה שקטה.",
+      "transliteration": "Pa'am, lechisha shketa.",
+      "category": "Time",
+      "generated_at": "2026-09-07T22:42:50.185395"
     }
   ],
-  "last_updated": "2026-09-07T20:17:11.407532"
+  "last_updated": "2026-09-07T22:42:50.185396"
 }
