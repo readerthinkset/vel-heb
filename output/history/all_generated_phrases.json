@@ -14734,7 +14734,42 @@
       "transliteration": "shisha mitarim, yotzrim gitara.",
       "category": "Numbers",
       "generated_at": "2026-09-08T17:40:31.503053"
+    },
+    {
+      "english": "Unlock, the digital gate.",
+      "hebrew": "פתח, את השער הדיגיטלי.",
+      "transliteration": "P'tach, et hasha'ar hadigitali.",
+      "category": "Technology",
+      "generated_at": "2026-09-08T19:40:21.309682"
+    },
+    {
+      "english": "Bytes whisper, secrets.",
+      "hebrew": "בתים לוחשים, סודות.",
+      "transliteration": "Batim locheshim, sodot.",
+      "category": "Technology",
+      "generated_at": "2026-09-08T19:40:21.309693"
+    },
+    {
+      "english": "Screen glows, minds awaken.",
+      "hebrew": "מסך זוהר, מוחות מתעוררים.",
+      "transliteration": "Masach zoher, mechot mit'orerim.",
+      "category": "Technology",
+      "generated_at": "2026-09-08T19:40:21.309694"
+    },
+    {
+      "english": "Algorithms hum, a new tune.",
+      "hebrew": "אלגוריתמים מזמזמים, מנגינה חדשה.",
+      "transliteration": "Algorithmim mezamzemim, mangina chadasha.",
+      "category": "Technology",
+      "generated_at": "2026-09-08T19:40:21.309696"
+    },
+    {
+      "english": "Navigate, the information stream.",
+      "hebrew": "נווט, בזרם המידע.",
+      "transliteration": "Navet, bezerem hameida.",
+      "category": "Technology",
+      "generated_at": "2026-09-08T19:40:21.309697"
     }
   ],
-  "last_updated": "2026-09-08T17:40:31.503055"
+  "last_updated": "2026-09-08T19:40:21.309699"
 }
