@@ -14944,7 +14944,42 @@
       "transliteration": "Brokhot zor'mot, k'mo mayim.",
       "category": "Holidays",
       "generated_at": "2026-09-09T22:24:58.894242"
+    },
+    {
+      "english": "A little restless, maybe.",
+      "hebrew": "קצת חסר מנוחה, אולי.",
+      "transliteration": "ktzat chaser menucha, ulai.",
+      "category": "Feelings",
+      "generated_at": "2026-09-10T04:17:37.107193"
+    },
+    {
+      "english": "Feeling quite adrift, today.",
+      "hebrew": "מרגיש די אבוד, היום.",
+      "transliteration": "margish di avud, hayom.",
+      "category": "Feelings",
+      "generated_at": "2026-09-10T04:17:37.107204"
+    },
+    {
+      "english": "A quiet ache, deep down.",
+      "hebrew": "כאב שקט, עמוק בפנים.",
+      "transliteration": "ke'ev sheket, amok bifnim.",
+      "category": "Feelings",
+      "generated_at": "2026-09-10T04:17:37.107206"
+    },
+    {
+      "english": "A flicker of amusement, yes.",
+      "hebrew": "ניצוץ של שעשוע, כן.",
+      "transliteration": "nitzotz shel sha'ashu'a, ken.",
+      "category": "Feelings",
+      "generated_at": "2026-09-10T04:17:37.107207"
+    },
+    {
+      "english": "Feeling slightly off, now.",
+      "hebrew": "מרגיש קצת לא בסדר, עכשיו.",
+      "transliteration": "margish ktzat lo beseder, achshav.",
+      "category": "Feelings",
+      "generated_at": "2026-09-10T04:17:37.107208"
     }
   ],
-  "last_updated": "2026-09-09T22:24:58.894244"
+  "last_updated": "2026-09-10T04:17:37.107209"
 }
