@@ -15119,7 +15119,42 @@
       "transliteration": "Ha'chibur hazeh, hu mezamzem.",
       "category": "Relationships",
       "generated_at": "2026-09-11T04:16:47.907036"
+    },
+    {
+      "english": "The king's crown, pure gold gleam.",
+      "hebrew": "כתר המלך, זהב טהור זוהר.",
+      "transliteration": "Keter hamélech, zaháv tahór zoher.",
+      "category": "Colors",
+      "generated_at": "2026-09-11T15:23:53.713036"
+    },
+    {
+      "english": "A distant mountain, hazy purple shade.",
+      "hebrew": "ההר הרחוק, גוון סגול מעורפל.",
+      "transliteration": "Héhar harahók, givón sagól me'urpál.",
+      "category": "Colors",
+      "generated_at": "2026-09-11T15:23:53.713046"
+    },
+    {
+      "english": "Her favorite sweater, warm cozy beige.",
+      "hebrew": "הסוודר האהוב עליה, בז' נוח וחם.",
+      "transliteration": "Hasvedár ha'ahúv aléha, bézh noch vahám.",
+      "category": "Colors",
+      "generated_at": "2026-09-11T15:23:53.713048"
+    },
+    {
+      "english": "The deep sea, a sapphire mystery.",
+      "hebrew": "הים העמוק, תעלומת ספיר.",
+      "transliteration": "Hayam ha'amók, te'alúmat safír.",
+      "category": "Colors",
+      "generated_at": "2026-09-11T15:23:53.713050"
+    },
+    {
+      "english": "A robin's breast, fiery orange bright.",
+      "hebrew": "חזה הציפור, כתום לוהט.",
+      "transliteration": "Hazeháh hatsipór, katóm lohét.",
+      "category": "Colors",
+      "generated_at": "2026-09-11T15:23:53.713051"
     }
   ],
-  "last_updated": "2026-09-11T04:16:47.907038"
+  "last_updated": "2026-09-11T15:23:53.713053"
 }
