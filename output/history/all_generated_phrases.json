@@ -15364,7 +15364,42 @@
       "transliteration": "Har'gi'u k'tefeichem, shach'reru.",
       "category": "Health",
       "generated_at": "2026-09-12T16:36:56.702161"
+    },
+    {
+      "english": "My mother, her kindness, a warm blanket.",
+      "hebrew": "אמא שלי, החסד שלה, שמיכה חמה.",
+      "transliteration": "Ima sheli, ha'chesed shela, shimcha chama.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-12T18:52:23.434333"
+    },
+    {
+      "english": "My father, his wisdom, a guiding light.",
+      "hebrew": "אבא שלי, החוכמה שלו, אור מנחה.",
+      "transliteration": "Abba sheli, hachochma shelo, or mancha.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-12T18:52:23.434342"
+    },
+    {
+      "english": "My sister, her spirit, like a wild bird.",
+      "hebrew": "אחותי, הרוח שלה, כמו ציפור פראית.",
+      "transliteration": "Achoti, haruach shela, kmo tzipor pra'it.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-12T18:52:23.434344"
+    },
+    {
+      "english": "My brother, his energy, a vibrant spark.",
+      "hebrew": "אחי, האנרגיה שלו, ניצוץ תוסס.",
+      "transliteration": "Achi, ha'energia shelo, nitzotz toses.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-12T18:52:23.434345"
+    },
+    {
+      "english": "My son, his questions, a boundless ocean.",
+      "hebrew": "בני, השאלות שלו, אוקיינוס ללא גבולות.",
+      "transliteration": "Beni, hashealot shelo, oke'anus lelo gvulot.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-12T18:52:23.434347"
     }
   ],
-  "last_updated": "2026-09-12T16:36:56.702163"
+  "last_updated": "2026-09-12T18:52:23.434348"
 }
