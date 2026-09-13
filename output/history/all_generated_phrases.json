@@ -15434,7 +15434,42 @@
       "transliteration": "Ha-muzika ha-zo, kol kakh ketsivit.",
       "category": "Travel",
       "generated_at": "2026-09-12T22:06:48.724956"
+    },
+    {
+      "english": "Imagine the sound, here.",
+      "hebrew": "דמיינו את הצליל, כאן.",
+      "transliteration": "Dmey'nu et ha'tzlil, kan.",
+      "category": "Directions",
+      "generated_at": "2026-09-13T04:28:05.803426"
+    },
+    {
+      "english": "Try this, gently.",
+      "hebrew": "נסו את זה, בעדינות.",
+      "transliteration": "Nasu et ze, be'adinut.",
+      "category": "Directions",
+      "generated_at": "2026-09-13T04:28:05.803436"
+    },
+    {
+      "english": "Feel the pulse, now.",
+      "hebrew": "הרגישו את הפעימה, עכשיו.",
+      "transliteration": "Hargishu et ha'pe'ima, achshav.",
+      "category": "Directions",
+      "generated_at": "2026-09-13T04:28:05.803437"
+    },
+    {
+      "english": "Let the meaning sink, in.",
+      "hebrew": "תן למשמעות לחדור, פנימה.",
+      "transliteration": "Ten la'mashma'ut lachdor, p'nima.",
+      "category": "Directions",
+      "generated_at": "2026-09-13T04:28:05.803439"
+    },
+    {
+      "english": "Open your ears, wide.",
+      "hebrew": "פתחו את האוזניים, לרווחה.",
+      "transliteration": "Ptachu et ha'oznayim, le'revacha.",
+      "category": "Directions",
+      "generated_at": "2026-09-13T04:28:05.803440"
     }
   ],
-  "last_updated": "2026-09-12T22:06:48.724958"
+  "last_updated": "2026-09-13T04:28:05.803442"
 }
