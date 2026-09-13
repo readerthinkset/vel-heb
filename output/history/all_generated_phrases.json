@@ -15469,7 +15469,42 @@
       "transliteration": "Ptachu et ha'oznayim, le'revacha.",
       "category": "Directions",
       "generated_at": "2026-09-13T04:28:05.803440"
+    },
+    {
+      "english": "New sounds, new pathways.",
+      "hebrew": "צלילים חדשים, מסלולים חדשים.",
+      "transliteration": "Tzlilim chadashim, maslulim chadashim.",
+      "category": "Education",
+      "generated_at": "2026-09-13T15:11:21.423685"
+    },
+    {
+      "english": "Feel the rhythm, of thought.",
+      "hebrew": "הרגישו את הקצב, של המחשבה.",
+      "transliteration": "Hargishu et haketzev, shel hamachshava.",
+      "category": "Education",
+      "generated_at": "2026-09-13T15:11:21.423695"
+    },
+    {
+      "english": "Let understanding, grow.",
+      "hebrew": "תן להבנה, לגדול.",
+      "transliteration": "Ten le'havana, ligdol.",
+      "category": "Education",
+      "generated_at": "2026-09-13T15:11:21.423696"
+    },
+    {
+      "english": "Each lesson, a bright light.",
+      "hebrew": "כל שיעור, אור בהיר.",
+      "transliteration": "Kol shi'ur, or bahir.",
+      "category": "Education",
+      "generated_at": "2026-09-13T15:11:21.423698"
+    },
+    {
+      "english": "Speak with courage, my friend.",
+      "hebrew": "דבר באומץ, ידידי.",
+      "transliteration": "Daber be'ometz, yedidi.",
+      "category": "Education",
+      "generated_at": "2026-09-13T15:11:21.423699"
     }
   ],
-  "last_updated": "2026-09-13T04:28:05.803442"
+  "last_updated": "2026-09-13T15:11:21.423701"
 }
