@@ -15609,7 +15609,42 @@
       "transliteration": "Bo nele'ch, leyad ha'yam.",
       "category": "Basic Phrases",
       "generated_at": "2026-09-13T22:17:02.444649"
+    },
+    {
+      "english": "This really, sparks my interest.",
+      "hebrew": "זה באמת, מעורר את הסקרנות שלי.",
+      "transliteration": "zeh be'emet, me'orer et haskarnut sheli.",
+      "category": "Shopping",
+      "generated_at": "2026-09-14T04:34:50.791874"
+    },
+    {
+      "english": "I'm exploring, new possibilities.",
+      "hebrew": "אני בוחן, אפשרויות חדשות.",
+      "transliteration": "ani bohen, efsharuyot chadashot.",
+      "category": "Shopping",
+      "generated_at": "2026-09-14T04:34:50.791884"
+    },
+    {
+      "english": "Does this, have any matching items?",
+      "hebrew": "האם יש לזה, פריטים תואמים?",
+      "transliteration": "ha'im yesh lezeh, ptitim to'im?",
+      "category": "Shopping",
+      "generated_at": "2026-09-14T04:34:50.791886"
+    },
+    {
+      "english": "This is, quite unexpected.",
+      "hebrew": "זה די, מפתיע.",
+      "transliteration": "zeh di, mafti'a.",
+      "category": "Shopping",
+      "generated_at": "2026-09-14T04:34:50.791888"
+    },
+    {
+      "english": "I'm on the hunt, for something special.",
+      "hebrew": "אני בציד, למשהו מיוחד.",
+      "transliteration": "ani ba'tzayid, lemasehu meyuchad.",
+      "category": "Shopping",
+      "generated_at": "2026-09-14T04:34:50.791889"
     }
   ],
-  "last_updated": "2026-09-13T22:17:02.444651"
+  "last_updated": "2026-09-14T04:34:50.791891"
 }
