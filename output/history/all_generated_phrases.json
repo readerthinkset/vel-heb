@@ -15644,7 +15644,42 @@
       "transliteration": "ani ba'tzayid, lemasehu meyuchad.",
       "category": "Shopping",
       "generated_at": "2026-09-14T04:34:50.791889"
+    },
+    {
+      "english": "You've got this, really.",
+      "hebrew": "את/ה יכול/ה, באמת.",
+      "transliteration": "At/a yakhol/a, be'emet.",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T17:08:49.155113"
+    },
+    {
+      "english": "Keep going, friend.",
+      "hebrew": "המשיכו, חבר.",
+      "transliteration": "Hamshikhu, khaver.",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T17:08:49.155124"
+    },
+    {
+      "english": "Amazing progress, see?",
+      "hebrew": "התקדמות מדהימה, רואים?",
+      "transliteration": "Hitkadmut madhima, ro'im?",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T17:08:49.155126"
+    },
+    {
+      "english": "Breathe deep, speak.",
+      "hebrew": "נשמו עמוק, דברו.",
+      "transliteration": "Nishmu amok, dabru.",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T17:08:49.155127"
+    },
+    {
+      "english": "That sounded great!",
+      "hebrew": "זה נשמע מצוין!",
+      "transliteration": "Ze nishma metzuyan!",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T17:08:49.155128"
     }
   ],
-  "last_updated": "2026-09-14T04:34:50.791891"
+  "last_updated": "2026-09-14T17:08:49.155129"
 }
