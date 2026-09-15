@@ -15924,7 +15924,42 @@
       "transliteration": "Ha'or ha'zeh she'atah mevi, nifla.",
       "category": "Gratitude",
       "generated_at": "2026-09-15T19:55:47.421525"
+    },
+    {
+      "english": "Journal flows, thoughts appear.",
+      "hebrew": "היומן זורם, מחשבות עולות.",
+      "transliteration": "Ha'yoman zorem, machshavot olot.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-15T22:48:41.128972"
+    },
+    {
+      "english": "Newspaper rustles, news arrives.",
+      "hebrew": "עיתון מתפצפץ, חדשות מגיעות.",
+      "transliteration": "Iton mitpatzpetz, chadashot magi'ot.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-15T22:48:41.128982"
+    },
+    {
+      "english": "Shower mist, cools my skin.",
+      "hebrew": "אדי מקלחת, מקררים את עורי.",
+      "transliteration": "Adéi miklachat, mekarerim et oori.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-15T22:48:41.128984"
+    },
+    {
+      "english": "Toast pops up, ready to eat.",
+      "hebrew": "טוסט קופץ, מוכן לאכילה.",
+      "transliteration": "Tost kofetz, muchan le'achila.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-15T22:48:41.128985"
+    },
+    {
+      "english": "Car keys jingle, time to go.",
+      "hebrew": "מפתחות רכב מצלצלים, זמן ללכת.",
+      "transliteration": "Mafteachot rechev metzal'tzlim, zman laléchet.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-15T22:48:41.128986"
     }
   ],
-  "last_updated": "2026-09-15T19:55:47.421527"
+  "last_updated": "2026-09-15T22:48:41.128988"
 }
