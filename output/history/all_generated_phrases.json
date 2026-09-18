@@ -16379,7 +16379,42 @@
       "transliteration": "Karnay yerach rokd'ot, al galim shketim.",
       "category": "Holidays",
       "generated_at": "2026-09-18T17:22:10.325014"
+    },
+    {
+      "english": "Listen closely, say it slow.",
+      "hebrew": "הקשיבו היטב, אמרו לאט.",
+      "transliteration": "Hakshivu heytev, imru le'at.",
+      "category": "Directions",
+      "generated_at": "2026-09-18T19:18:42.023314"
+    },
+    {
+      "english": "Repeat this, feel the pulse.",
+      "hebrew": "חזרו על זה, הרגישו את הפעימה.",
+      "transliteration": "Chazru al ze, regishu et ha'pe'ima.",
+      "category": "Directions",
+      "generated_at": "2026-09-18T19:18:42.023327"
+    },
+    {
+      "english": "Find the echo, speak it out.",
+      "hebrew": "מצאו את ההד, דברו זאת.",
+      "transliteration": "Metsu et ha'hed, dabru zot.",
+      "category": "Directions",
+      "generated_at": "2026-09-18T19:18:42.023329"
+    },
+    {
+      "english": "Let the sound, linger here.",
+      "hebrew": "תנו לצליל, להתעכב כאן.",
+      "transliteration": "Tnu la'tzlil, le'hit'abek kan.",
+      "category": "Directions",
+      "generated_at": "2026-09-18T19:18:42.023330"
+    },
+    {
+      "english": "Connect the syllables, make it flow.",
+      "hebrew": "חברו את ההברות, עשו זאת לזרום.",
+      "transliteration": "Chabru et ha'havarot, asu zot lizrom.",
+      "category": "Directions",
+      "generated_at": "2026-09-18T19:18:42.023331"
     }
   ],
-  "last_updated": "2026-09-18T17:22:10.325016"
+  "last_updated": "2026-09-18T19:18:42.023333"
 }
