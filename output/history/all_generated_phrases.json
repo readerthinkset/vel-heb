@@ -16449,7 +16449,42 @@
       "transliteration": "Ha-metikoot, bidiyuk kmo she-tzarich.",
       "category": "Food",
       "generated_at": "2026-09-18T22:26:41.075238"
+    },
+    {
+      "english": "Forest floor, a tapestry, of fallen leaves.",
+      "hebrew": "רצפת יער, שטיח, של עלים נופלים.",
+      "transliteration": "Ritzfat ya'ar, shati'ach, shel aleem nof'lim.",
+      "category": "Nature",
+      "generated_at": "2026-09-19T14:57:02.770470"
+    },
+    {
+      "english": "Whispering reeds, by the silent lake.",
+      "hebrew": "קנים לוחשים, ליד האגם הדומם.",
+      "transliteration": "K'nim locheshim, leyad ha'agam hadomem.",
+      "category": "Nature",
+      "generated_at": "2026-09-19T14:57:02.770480"
+    },
+    {
+      "english": "Sunbeam paints, a golden stripe, on the path.",
+      "hebrew": "קרן שמש צובעת, פס זהב, על השביל.",
+      "transliteration": "Keren shemesh tzova'at, pas zahav, al hashavil.",
+      "category": "Nature",
+      "generated_at": "2026-09-19T14:57:02.770481"
+    },
+    {
+      "english": "Jagged cliff, braves the wind, forever.",
+      "hebrew": "צוק משונן, מעז לרוח, לנצח.",
+      "transliteration": "Tzuk meshunan, me'ez laru'ach, lanetzach.",
+      "category": "Nature",
+      "generated_at": "2026-09-19T14:57:02.770483"
+    },
+    {
+      "english": "Damp earth smells, after the brief storm.",
+      "hebrew": "אדמה לחה מריחה, אחרי הסערה הקצרה.",
+      "transliteration": "Adamah lachah mericha, acharei hasa'arah haketzarah.",
+      "category": "Nature",
+      "generated_at": "2026-09-19T14:57:02.770484"
     }
   ],
-  "last_updated": "2026-09-18T22:26:41.075240"
+  "last_updated": "2026-09-19T14:57:02.770486"
 }
