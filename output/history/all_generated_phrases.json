@@ -16484,7 +16484,42 @@
       "transliteration": "Adamah lachah mericha, acharei hasa'arah haketzarah.",
       "category": "Nature",
       "generated_at": "2026-09-19T14:57:02.770484"
+    },
+    {
+      "english": "Her neck, slender, graceful.",
+      "hebrew": "צווארה, דק, חינני.",
+      "transliteration": "Tzavara, dak, chinani.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-19T16:53:41.608053"
+    },
+    {
+      "english": "His chest, strong, broad.",
+      "hebrew": "חזהו, חזק, רחב.",
+      "transliteration": "Chazo, chazak, rachav.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-19T16:53:41.608066"
+    },
+    {
+      "english": "Her waist, a gentle curve.",
+      "hebrew": "מותנה, קימור עדין.",
+      "transliteration": "Motna, kimur adin.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-19T16:53:41.608069"
+    },
+    {
+      "english": "His stomach, a quiet ache.",
+      "hebrew": "בטנו, כאב שקט.",
+      "transliteration": "B't'no, ke'ev sheket.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-19T16:53:41.608070"
+    },
+    {
+      "english": "Her back, straight, proud.",
+      "hebrew": "גבה, ישר, גאה.",
+      "transliteration": "G'vah, yashar, g'eh.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-19T16:53:41.608071"
     }
   ],
-  "last_updated": "2026-09-19T14:57:02.770486"
+  "last_updated": "2026-09-19T16:53:41.608073"
 }
