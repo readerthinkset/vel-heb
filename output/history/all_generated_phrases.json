@@ -16659,7 +16659,42 @@
       "transliteration": "Shalva pnimít, mení'a et ma'asecha.",
       "category": "Strength",
       "generated_at": "2026-09-20T14:59:58.398488"
+    },
+    {
+      "english": "Hear the silence, deeply.",
+      "hebrew": "שמע את הדממה, עמוק.",
+      "transliteration": "Shma et had'mama, amok.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-20T17:06:48.856069"
+    },
+    {
+      "english": "Ground yourself, right here.",
+      "hebrew": "קרקע את עצמך, ממש כאן.",
+      "transliteration": "Kara'a et atzmecha, mamash kan.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-20T17:06:48.856082"
+    },
+    {
+      "english": "This breath, is enough.",
+      "hebrew": "הנשימה הזו, מספיקה.",
+      "transliteration": "Haneshima hazu, maspika.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-20T17:06:48.856084"
+    },
+    {
+      "english": "Taste the quiet, inside.",
+      "hebrew": "טעם את השקט, בפנים.",
+      "transliteration": "Ta'am et hasheket, bifnim.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-20T17:06:48.856085"
+    },
+    {
+      "english": "Let go, just be.",
+      "hebrew": "שחרר, פשוט היה.",
+      "transliteration": "Shachrer, pashut heye.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-20T17:06:48.856086"
     }
   ],
-  "last_updated": "2026-09-20T14:59:58.398490"
+  "last_updated": "2026-09-20T17:06:48.856088"
 }
