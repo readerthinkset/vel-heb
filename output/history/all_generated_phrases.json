@@ -16834,7 +16834,42 @@
       "transliteration": "Or yatziv, zor'each bifnim.",
       "category": "Hope",
       "generated_at": "2026-09-21T17:18:00.342295"
+    },
+    {
+      "english": "A warm feeling, thank you.",
+      "hebrew": "תחושה חמה, תודה.",
+      "transliteration": "Tchusha chama, toda.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-21T18:58:53.799571"
+    },
+    {
+      "english": "This is lovely, really.",
+      "hebrew": "זה נחמד, באמת.",
+      "transliteration": "Ze nekhmad, be'emet.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-21T18:58:53.799581"
+    },
+    {
+      "english": "Such a kind gesture, wow.",
+      "hebrew": "מחוה כל כך יפה, וואו.",
+      "transliteration": "Mekhva kol kakh yafeh, wow.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-21T18:58:53.799583"
+    },
+    {
+      "english": "My heart is full, thank you.",
+      "hebrew": "ליבי מלא, תודה.",
+      "transliteration": "Libi maleh, toda.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-21T18:58:53.799584"
+    },
+    {
+      "english": "You're simply wonderful, truly.",
+      "hebrew": "אתה פשוט נפלא, באמת.",
+      "transliteration": "Ata pashut nifla, be'emet.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-21T18:58:53.799585"
     }
   ],
-  "last_updated": "2026-09-21T17:18:00.342297"
+  "last_updated": "2026-09-21T18:58:53.799587"
 }
