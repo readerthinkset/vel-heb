@@ -17219,7 +17219,42 @@
       "transliteration": "Metza et ha'hafsaka, haregev et ha'pe'ima.",
       "category": "Balance",
       "generated_at": "2026-09-23T18:04:21.884564"
+    },
+    {
+      "english": "Something strange, happening here.",
+      "hebrew": "משהו מוזר, קורה פה.",
+      "transliteration": "Mashehu muzar, koteh po.",
+      "category": "Emergency",
+      "generated_at": "2026-09-23T19:54:56.291547"
+    },
+    {
+      "english": "I need to be alone, for a moment.",
+      "hebrew": "אני צריך/צריכה, להיות לבד, רגע.",
+      "transliteration": "Ani tsarich/tsricha, lehiyot levad, rega.",
+      "category": "Emergency",
+      "generated_at": "2026-09-23T19:54:56.291559"
+    },
+    {
+      "english": "This is getting out, of hand.",
+      "hebrew": "זה יוצא, משליטה.",
+      "transliteration": "Ze yotze, mishlita.",
+      "category": "Emergency",
+      "generated_at": "2026-09-23T19:54:56.291561"
+    },
+    {
+      "english": "I'm not feeling, quite myself.",
+      "hebrew": "אני לא מרגיש/מרגישה, בדיוק אני.",
+      "transliteration": "Ani lo margish/margisha, bediyuk ani.",
+      "category": "Emergency",
+      "generated_at": "2026-09-23T19:54:56.291562"
+    },
+    {
+      "english": "Is there a doctor, close by?",
+      "hebrew": "יש רופא, קרוב?",
+      "transliteration": "Yesh rofeh, karov?",
+      "category": "Emergency",
+      "generated_at": "2026-09-23T19:54:56.291563"
     }
   ],
-  "last_updated": "2026-09-23T18:04:21.884566"
+  "last_updated": "2026-09-23T19:54:56.291565"
 }
