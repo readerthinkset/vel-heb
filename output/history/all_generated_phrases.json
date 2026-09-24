@@ -17359,7 +17359,42 @@
       "transliteration": "Tzay'er et ha-bitui, b'oznecha.",
       "category": "Directions",
       "generated_at": "2026-09-24T16:01:45.100268"
+    },
+    {
+      "english": "This has, a certain charm.",
+      "hebrew": "יש לזה, קסם מיוחד.",
+      "transliteration": "yesh le'zeh, kesem meyuchad.",
+      "category": "Shopping",
+      "generated_at": "2026-09-24T18:03:16.446600"
+    },
+    {
+      "english": "I'm admiring, its form.",
+      "hebrew": "אני מתפעל, מצורתו.",
+      "transliteration": "ani mitpa'el, metzurato.",
+      "category": "Shopping",
+      "generated_at": "2026-09-24T18:03:16.446610"
+    },
+    {
+      "english": "This resonates, with me.",
+      "hebrew": "זה מהדהד, איתי.",
+      "transliteration": "zeh mehadehd, iti.",
+      "category": "Shopping",
+      "generated_at": "2026-09-24T18:03:16.446611"
+    },
+    {
+      "english": "What a lovely, find!",
+      "hebrew": "איזו מציאה, נהדרת!",
+      "transliteration": "eizo metzi'ah, nehederet!",
+      "category": "Shopping",
+      "generated_at": "2026-09-24T18:03:16.446612"
+    },
+    {
+      "english": "This speaks, to my soul.",
+      "hebrew": "זה מדבר, לנשמה שלי.",
+      "transliteration": "zeh medaber, lan'shamah sheli.",
+      "category": "Shopping",
+      "generated_at": "2026-09-24T18:03:16.446613"
     }
   ],
-  "last_updated": "2026-09-24T16:01:45.100270"
+  "last_updated": "2026-09-24T18:03:16.446614"
 }
