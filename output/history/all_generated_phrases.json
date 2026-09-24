@@ -17324,7 +17324,42 @@
       "transliteration": "Hakol mistader, ba'sof.",
       "category": "Common Expressions",
       "generated_at": "2026-09-24T04:24:31.576594"
+    },
+    {
+      "english": "Hear the echo, speak again.",
+      "hebrew": "שמע את ההד, דבר שוב.",
+      "transliteration": "Shma et ha-hed, dab'er shuv.",
+      "category": "Directions",
+      "generated_at": "2026-09-24T16:01:45.100255"
+    },
+    {
+      "english": "Trace the sound, with your mind.",
+      "hebrew": "עקוב אחר הצליל, בדמיונך.",
+      "transliteration": "Ak'ov achar ha-tzlil, bid'm'yonecha.",
+      "category": "Directions",
+      "generated_at": "2026-09-24T16:01:45.100266"
+    },
+    {
+      "english": "Breathe the sentence, let it settle.",
+      "hebrew": "נשום את המשפט, תן לו להתיישב.",
+      "transliteration": "N'shom et ha-mishpat, ten lo lehit'yash'ev.",
+      "category": "Directions",
+      "generated_at": "2026-09-24T16:01:45.100267"
+    },
+    {
+      "english": "Hold the word, explore its shape.",
+      "hebrew": "החזק במילה, חקור את צורתה.",
+      "transliteration": "Hach'zek ba-mila, chakor et tzurtah.",
+      "category": "Directions",
+      "generated_at": "2026-09-24T16:01:45.100268"
+    },
+    {
+      "english": "Paint the phrase, in your ear.",
+      "hebrew": "צייר את הביטוי, באוזנך.",
+      "transliteration": "Tzay'er et ha-bitui, b'oznecha.",
+      "category": "Directions",
+      "generated_at": "2026-09-24T16:01:45.100268"
     }
   ],
-  "last_updated": "2026-09-24T04:24:31.576596"
+  "last_updated": "2026-09-24T16:01:45.100270"
 }
