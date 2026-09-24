@@ -17289,7 +17289,42 @@
       "transliteration": "Zohar bahir, betochi.",
       "category": "Joy",
       "generated_at": "2026-09-23T22:52:00.372266"
+    },
+    {
+      "english": "New day, new start.",
+      "hebrew": "יום חדש, התחלה חדשה.",
+      "transliteration": "Yom chadash, hat'chala chadasha.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-24T04:24:31.576581"
+    },
+    {
+      "english": "Let's make it happen.",
+      "hebrew": "בואו נגרום לזה לקרות.",
+      "transliteration": "Bo'u nag'rem le'zeh li'krot.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-24T04:24:31.576590"
+    },
+    {
+      "english": "Feeling the good vibes.",
+      "hebrew": "מרגיש את האנרגיה הטובה.",
+      "transliteration": "Margish et ha'energiya ha'tova.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-24T04:24:31.576592"
+    },
+    {
+      "english": "One step at a time.",
+      "hebrew": "צעד אחד, כל פעם.",
+      "transliteration": "Tza'ad echad, kol pa'am.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-24T04:24:31.576593"
+    },
+    {
+      "english": "It’s all coming together.",
+      "hebrew": "הכל מסתדר, בסוף.",
+      "transliteration": "Hakol mistader, ba'sof.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-24T04:24:31.576594"
     }
   ],
-  "last_updated": "2026-09-23T22:52:00.372268"
+  "last_updated": "2026-09-24T04:24:31.576596"
 }
