@@ -95,6 +95,9 @@ def upload_to_instagram(video_path, caption="", is_story=False):
             err_msg = err_data.get('message', c_res.text)
             err_code = err_data.get('code')
             err_subcode = err_data.get('error_subcode')
+            if err_subcode == 2207050:
+                hint = " [ACCOUNT CHECKPOINT: Instagram has restricted this account. Log in via the Instagram mobile app or web to clear the checkpoint / prompt.]"
+                raise Exception(f"Container creation failed: {err_msg} (code: {err_code}, subcode: {err_subcode}){hint}")
             raise Exception(f"Container creation failed: {err_msg} (code: {err_code}, subcode: {err_subcode})")
 
         c_data_res = c_res.json()
