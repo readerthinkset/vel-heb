@@ -18129,7 +18129,42 @@
       "transliteration": "Ten l'mishpatim lizrom, kmo mayim.",
       "category": "Growth",
       "generated_at": "2026-09-28T20:19:08.486418"
+    },
+    {
+      "english": "Morning light, a gentle blush.",
+      "hebrew": "אור הבוקר, סומק עדין.",
+      "transliteration": "Or ha-boker, somek adin.",
+      "category": "Weather",
+      "generated_at": "2026-09-28T22:21:10.284778"
+    },
+    {
+      "english": "Wind picks up, a playful nudge.",
+      "hebrew": "הרוח מתחזקת, דחיפה שובבה.",
+      "transliteration": "Ha-ruach mit-cha-ze-ket, dchi-fa sho-va-va.",
+      "category": "Weather",
+      "generated_at": "2026-09-28T22:21:10.284787"
+    },
+    {
+      "english": "Sunbeam warms, a sudden kiss.",
+      "hebrew": "קרן שמש מחממת, נשיקה פתאומית.",
+      "transliteration": "Ke-ren she-mesh me-cha-me-met, ne-shi-ka pit-o-mit.",
+      "category": "Weather",
+      "generated_at": "2026-09-28T22:21:10.284789"
+    },
+    {
+      "english": "Rain falls lightly, a soft drum.",
+      "hebrew": "גשם יורד קלות, תוף רך.",
+      "transliteration": "Ge-shem yo-red ka-lot, tof rach.",
+      "category": "Weather",
+      "generated_at": "2026-09-28T22:21:10.284790"
+    },
+    {
+      "english": "Sky clears slowly, revealing blue.",
+      "hebrew": "השמיים מתבהרים לאט, מגלים כחול.",
+      "transliteration": "Ha-sha-ma-yim mit-ba-h-rim le-at, me-ga-lim ka-chol.",
+      "category": "Weather",
+      "generated_at": "2026-09-28T22:21:10.284791"
     }
   ],
-  "last_updated": "2026-09-28T20:19:08.486420"
+  "last_updated": "2026-09-28T22:21:10.284793"
 }
