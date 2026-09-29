@@ -18304,7 +18304,42 @@
       "transliteration": "Milim shelcha mit'atz'vot, yafeh.",
       "category": "Confidence",
       "generated_at": "2026-09-29T19:00:13.058912"
+    },
+    {
+      "english": "This spice blend, dances on the tongue.",
+      "hebrew": "תערובת התבלינים הזו, רוקדת על הלשון.",
+      "transliteration": "Ta'arovet ha't'vlinim ha'zu, rokedet al ha'lashon.",
+      "category": "Food",
+      "generated_at": "2026-09-29T21:10:20.795588"
+    },
+    {
+      "english": "A burst of citrus, bright and bold.",
+      "hebrew": "פרץ הדרים, בהיר ונועז.",
+      "transliteration": "Peretz hadarim, bahir v'no'az.",
+      "category": "Food",
+      "generated_at": "2026-09-29T21:10:20.795601"
+    },
+    {
+      "english": "Layers of flavor, unfold slowly.",
+      "hebrew": "שכבות טעם, נפרשות לאט.",
+      "transliteration": "Sh'khavot ta'am, nifrasot le'at.",
+      "category": "Food",
+      "generated_at": "2026-09-29T21:10:20.795603"
+    },
+    {
+      "english": "This sweetness, has a deep earthiness.",
+      "hebrew": "המתיקות הזו, בעלת אדמתיות עמוקה.",
+      "transliteration": "Ha'metukut ha'zu, ba'alat admatiyut amuka.",
+      "category": "Food",
+      "generated_at": "2026-09-29T21:10:20.795604"
+    },
+    {
+      "english": "A surprising tang, makes it exciting.",
+      "hebrew": "חמצמצות מפתיעה, עושה את זה מרגש.",
+      "transliteration": "Khamt'zam'tsut maf'ti'a, oseh et zeh margish.",
+      "category": "Food",
+      "generated_at": "2026-09-29T21:10:20.795606"
     }
   ],
-  "last_updated": "2026-09-29T19:00:13.058914"
+  "last_updated": "2026-09-29T21:10:20.795607"
 }
