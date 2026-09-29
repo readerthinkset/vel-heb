@@ -18269,7 +18269,42 @@
       "transliteration": "Ha'tzafon ha'amiti sheli, tamid.",
       "category": "Relationships",
       "generated_at": "2026-09-29T17:08:43.669746"
+    },
+    {
+      "english": "Your Hebrew, a bright spark.",
+      "hebrew": "עברית שלך, ניצוץ בהיר.",
+      "transliteration": "Ivrit shelcha, nitzotz bahir.",
+      "category": "Confidence",
+      "generated_at": "2026-09-29T19:00:13.058897"
+    },
+    {
+      "english": "Dare to speak, listen close.",
+      "hebrew": "העז לדבר, הקשב היטב.",
+      "transliteration": "Ha'ez le'daber, hak'shev heitev.",
+      "category": "Confidence",
+      "generated_at": "2026-09-29T19:00:13.058907"
+    },
+    {
+      "english": "Sound by sound, growing strong.",
+      "hebrew": "צליל אחר צליל, מתחזק.",
+      "transliteration": "Tzlil achar tzlil, mit'chazek.",
+      "category": "Confidence",
+      "generated_at": "2026-09-29T19:00:13.058909"
+    },
+    {
+      "english": "You're a Hebrew speaker, yes!",
+      "hebrew": "אתה דובר עברית, כן!",
+      "transliteration": "Atah do'ver ivrit, ken!",
+      "category": "Confidence",
+      "generated_at": "2026-09-29T19:00:13.058910"
+    },
+    {
+      "english": "Your words take shape, beautifully.",
+      "hebrew": "מילים שלך מתעצבות, יפה.",
+      "transliteration": "Milim shelcha mit'atz'vot, yafeh.",
+      "category": "Confidence",
+      "generated_at": "2026-09-29T19:00:13.058912"
     }
   ],
-  "last_updated": "2026-09-29T17:08:43.669748"
+  "last_updated": "2026-09-29T19:00:13.058914"
 }
