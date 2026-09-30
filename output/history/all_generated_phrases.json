@@ -18479,7 +18479,42 @@
       "transliteration": "Ha'lev sheli, shar.",
       "category": "Joy",
       "generated_at": "2026-09-30T18:41:58.043125"
+    },
+    {
+      "english": "Roll the sound, then say it.",
+      "hebrew": "גלגל את הצליל, ואז אמור.",
+      "transliteration": "Galgal et hatz'lil, v'az emor.",
+      "category": "Directions",
+      "generated_at": "2026-09-30T21:07:41.308405"
+    },
+    {
+      "english": "Listen for the deep tone, repeat.",
+      "hebrew": "הקשב לטון העמוק, חזור.",
+      "transliteration": "Hakshav laton ha'amok, chazor.",
+      "category": "Directions",
+      "generated_at": "2026-09-30T21:07:41.308413"
+    },
+    {
+      "english": "Feel the breath, then utter.",
+      "hebrew": "הרגש את הנשימה, ואז הבר.",
+      "transliteration": "Hargeish et haneshima, v'az haber.",
+      "category": "Directions",
+      "generated_at": "2026-09-30T21:07:41.308415"
+    },
+    {
+      "english": "Let the root anchor, speak.",
+      "hebrew": "תן לשורש לעגון, דבר.",
+      "transliteration": "Ten lashoresh la'agon, daber.",
+      "category": "Directions",
+      "generated_at": "2026-09-30T21:07:41.308416"
+    },
+    {
+      "english": "Picture the meaning, then form.",
+      "hebrew": "דמיין את המשמעות, ואז עצב.",
+      "transliteration": "Dam'yen et hameishma'ut, v'az atzev.",
+      "category": "Directions",
+      "generated_at": "2026-09-30T21:07:41.308418"
     }
   ],
-  "last_updated": "2026-09-30T18:41:58.043127"
+  "last_updated": "2026-09-30T21:07:41.308419"
 }
