@@ -18619,7 +18619,42 @@
       "transliteration": "Hahoveh, rak lecha.",
       "category": "Time",
       "generated_at": "2026-10-01T18:54:32.452274"
+    },
+    {
+      "english": "This cobblestone path, calls to me.",
+      "hebrew": "השביל המרוצף הזה, קורא לי.",
+      "transliteration": "Ha-shvil ha-merutzaf ha-zeh, koreh li.",
+      "category": "Travel",
+      "generated_at": "2026-10-01T20:01:27.828443"
+    },
+    {
+      "english": "Let's find, a local legend.",
+      "hebrew": "בוא נמצא, אגדה מקומית.",
+      "transliteration": "Bo nimtza, agada mekomit.",
+      "category": "Travel",
+      "generated_at": "2026-10-01T20:01:27.828453"
+    },
+    {
+      "english": "The air here, smells like spices.",
+      "hebrew": "האוויר כאן, מריח כמו תבלינים.",
+      "transliteration": "Ha-avir kan, meri'ach kmo tavlinim.",
+      "category": "Travel",
+      "generated_at": "2026-10-01T20:01:27.828455"
+    },
+    {
+      "english": "Can you recommend, a hidden gem?",
+      "hebrew": "תוכל להמליץ, על פנינה נסתרת?",
+      "transliteration": "Tuchal lehamlitz, al pinah nisteret?",
+      "category": "Travel",
+      "generated_at": "2026-10-01T20:01:27.828457"
+    },
+    {
+      "english": "I want to taste, that pastry.",
+      "hebrew": "אני רוצה לטעום, את המאפה הזה.",
+      "transliteration": "Ani rotzeh lit'om, et ha-ma'afeh ha-zeh.",
+      "category": "Travel",
+      "generated_at": "2026-10-01T20:01:27.828458"
     }
   ],
-  "last_updated": "2026-10-01T18:54:32.452276"
+  "last_updated": "2026-10-01T20:01:27.828459"
 }
