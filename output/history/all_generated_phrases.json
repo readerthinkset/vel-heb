@@ -18584,7 +18584,42 @@
       "transliteration": "Tnu le'machshavot, le'hityashev.",
       "category": "Patience",
       "generated_at": "2026-10-01T05:29:19.972881"
+    },
+    {
+      "english": "Right now, decide.",
+      "hebrew": "עַכְשָׁו, הַחְלֵט.",
+      "transliteration": "Achshav, hachtel.",
+      "category": "Time",
+      "generated_at": "2026-10-01T18:54:32.452253"
+    },
+    {
+      "english": "A tiny moment, then it's past.",
+      "hebrew": "רֶגַע קָטָן, וְאָז עָבַר.",
+      "transliteration": "Rega katan, ve'az avar.",
+      "category": "Time",
+      "generated_at": "2026-10-01T18:54:32.452265"
+    },
+    {
+      "english": "Soon, the dawn will break.",
+      "hebrew": "בְּקָרוֹב, הַשַׁחַר יִפְרוֹץ.",
+      "transliteration": "B'karov, hashachar yifrotz.",
+      "category": "Time",
+      "generated_at": "2026-10-01T18:54:32.452267"
+    },
+    {
+      "english": "Give it some space, let it grow.",
+      "hebrew": "תֵּן לָזֶה מָקוֹם, שֶׁיִגְדַּל.",
+      "transliteration": "Ten lazeh makom, sheyigdal.",
+      "category": "Time",
+      "generated_at": "2026-10-01T18:54:32.452269"
+    },
+    {
+      "english": "The present, just for you.",
+      "hebrew": "הַהוֹוֶה, רַק לְךָ.",
+      "transliteration": "Hahoveh, rak lecha.",
+      "category": "Time",
+      "generated_at": "2026-10-01T18:54:32.452274"
     }
   ],
-  "last_updated": "2026-10-01T05:29:19.972883"
+  "last_updated": "2026-10-01T18:54:32.452276"
 }
