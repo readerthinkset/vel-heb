@@ -18934,7 +18934,42 @@
       "transliteration": "s'to, nachush la'matara.",
       "category": "Body Parts",
       "generated_at": "2026-10-03T15:19:46.112993"
+    },
+    {
+      "english": "Alarm chirps, I hit snooze.",
+      "hebrew": "השעון מצייץ, אני לוחץ נודניק.",
+      "transliteration": "Ha'shon metzayetz, ani lochetz nudnik.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-03T17:41:15.873237"
+    },
+    {
+      "english": "Stretching limbs, hello world.",
+      "hebrew": "מותח איברים, שלום עולם.",
+      "transliteration": "Mote'ach eivarim, shalom olam.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-03T17:41:15.873247"
+    },
+    {
+      "english": "Bare feet, cool floor.",
+      "hebrew": "רגליים יחפות, רצפה קרה.",
+      "transliteration": "Raglayim yechafot, ritzpa karah.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-03T17:41:15.873249"
+    },
+    {
+      "english": "Window blinds, I pull them up.",
+      "hebrew": "תריסי חלון, אני מרים אותם.",
+      "transliteration": "Tirsei chalon, ani merim otam.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-03T17:41:15.873250"
+    },
+    {
+      "english": "Morning light, through the glass.",
+      "hebrew": "אור בוקר, דרך הזכוכית.",
+      "transliteration": "Or boker, derech ha'zchuchit.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-03T17:41:15.873252"
     }
   ],
-  "last_updated": "2026-10-03T15:19:46.112995"
+  "last_updated": "2026-10-03T17:41:15.873253"
 }
