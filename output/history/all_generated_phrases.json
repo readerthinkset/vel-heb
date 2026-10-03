@@ -19004,7 +19004,42 @@
       "transliteration": "Ha'reshet, mezamze'met.",
       "category": "Technology",
       "generated_at": "2026-10-03T19:36:37.803624"
+    },
+    {
+      "english": "Daylight breaks, clear and bright.",
+      "hebrew": "השחר עולה, צלול ובוהק.",
+      "transliteration": "H'shachar oleh, tzalul u'vohek.",
+      "category": "Weather",
+      "generated_at": "2026-10-03T22:47:45.796410"
+    },
+    {
+      "english": "Sky, a canvas, painted blue.",
+      "hebrew": "שמיים, קנבס, צבועים כחול.",
+      "transliteration": "Shamayim, canvas, tzvu'im kachol.",
+      "category": "Weather",
+      "generated_at": "2026-10-03T22:47:45.796419"
+    },
+    {
+      "english": "Sunbeams peek, through the haze.",
+      "hebrew": "קרני שמש מבצבצות, דרך הערפל.",
+      "transliteration": "Karnay shemesh mivatz'tzot, derech ha'arfel.",
+      "category": "Weather",
+      "generated_at": "2026-10-03T22:47:45.796420"
+    },
+    {
+      "english": "Warmth spreads, a gentle touch.",
+      "hebrew": "חום מתפשט, מגע עדין.",
+      "transliteration": "Choom mitpashet, maga adin.",
+      "category": "Weather",
+      "generated_at": "2026-10-03T22:47:45.796421"
+    },
+    {
+      "english": "Clouds drift, lazy and slow.",
+      "hebrew": "עננים חולפים, עצלים ואיטיים.",
+      "transliteration": "Ananim cholfim, atzlim v'iti'im.",
+      "category": "Weather",
+      "generated_at": "2026-10-03T22:47:45.796422"
     }
   ],
-  "last_updated": "2026-10-03T19:36:37.803626"
+  "last_updated": "2026-10-03T22:47:45.796423"
 }
