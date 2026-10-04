@@ -19074,7 +19074,42 @@
       "transliteration": "yachad achshav, siman mekaveh.",
       "category": "Holidays",
       "generated_at": "2026-10-04T05:32:28.214802"
+    },
+    {
+      "english": "Hello there, my friend.",
+      "hebrew": "שלום לך, ידידי.",
+      "transliteration": "Shalom lecha, yedidi.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-04T16:03:56.795105"
+    },
+    {
+      "english": "How are you, really?",
+      "hebrew": "מה שלומך, באמת?",
+      "transliteration": "Ma shlomcha, be'emet?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-04T16:03:56.795117"
+    },
+    {
+      "english": "It's a pleasure, meeting you.",
+      "hebrew": "נעים מאוד, להכיר אותך.",
+      "transliteration": "Naim me'od, lehakir otcha.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-04T16:03:56.795119"
+    },
+    {
+      "english": "What's new, with you?",
+      "hebrew": "מה חדש, אצלך?",
+      "transliteration": "Ma chadash, etzlech?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-04T16:03:56.795120"
+    },
+    {
+      "english": "Have a good day, ahead.",
+      "hebrew": "יום טוב, לפניך.",
+      "transliteration": "Yom tov, lefaneycha.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-04T16:03:56.795122"
     }
   ],
-  "last_updated": "2026-10-04T05:32:28.214804"
+  "last_updated": "2026-10-04T16:03:56.795123"
 }
