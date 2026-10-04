@@ -19039,7 +19039,42 @@
       "transliteration": "Ananim cholfim, atzlim v'iti'im.",
       "category": "Weather",
       "generated_at": "2026-10-03T22:47:45.796422"
+    },
+    {
+      "english": "Joy bursts forth, like a river.",
+      "hebrew": "שִׂמְחָה פּוֹרֶצֶת, כְּמוֹ נָהָר.",
+      "transliteration": "simcha poretzet, kmo nahar.",
+      "category": "Holidays",
+      "generated_at": "2026-10-04T05:32:28.214786"
+    },
+    {
+      "english": "Sky opens up, with blessings.",
+      "hebrew": "שָׁמַיִם נִפְתָּחִים, עִם בְּרָכוֹת.",
+      "transliteration": "shamayim niftachim, im brachot.",
+      "category": "Holidays",
+      "generated_at": "2026-10-04T05:32:28.214797"
+    },
+    {
+      "english": "Memories bloom, sweet and clear.",
+      "hebrew": "זִכְרוֹנוֹת פּוֹרְחִים, מָתוֹק וְצָלוּל.",
+      "transliteration": "zikronot porchim, matok ve'tzalul.",
+      "category": "Holidays",
+      "generated_at": "2026-10-04T05:32:28.214799"
+    },
+    {
+      "english": "Music calls, hearts listen.",
+      "hebrew": "מוּזִיקָה קוֹרֵאת, לִבּוֹת שׁוֹמְעִים.",
+      "transliteration": "muzika koret, libot shom'im.",
+      "category": "Holidays",
+      "generated_at": "2026-10-04T05:32:28.214801"
+    },
+    {
+      "english": "Together now, a hopeful sign.",
+      "hebrew": "יַחַד עַכְשָׁו, סִימָן מְקַוֶּה.",
+      "transliteration": "yachad achshav, siman mekaveh.",
+      "category": "Holidays",
+      "generated_at": "2026-10-04T05:32:28.214802"
     }
   ],
-  "last_updated": "2026-10-03T22:47:45.796423"
+  "last_updated": "2026-10-04T05:32:28.214804"
 }
