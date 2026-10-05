@@ -19249,7 +19249,42 @@
       "transliteration": "Kol'cha, motzeh et tzilo.",
       "category": "Success",
       "generated_at": "2026-10-05T05:15:34.826330"
+    },
+    {
+      "english": "Speak it, live it, Hebrew.",
+      "hebrew": "דבר את זה, חיה את זה, עברית.",
+      "transliteration": "Daber et zeh, chayi et zeh, Ivrit.",
+      "category": "Confidence",
+      "generated_at": "2026-10-05T19:56:12.652756"
+    },
+    {
+      "english": "Your sounds, bloom now.",
+      "hebrew": "הצלילים שלך, פורחים עכשיו.",
+      "transliteration": "Ha'tzlilim shelcha, porchim achshav.",
+      "category": "Confidence",
+      "generated_at": "2026-10-05T19:56:12.652765"
+    },
+    {
+      "english": "Embrace the language, feel it.",
+      "hebrew": "חבק את השפה, הרגש אותה.",
+      "transliteration": "Chabak et ha'safah, regesh otah.",
+      "category": "Confidence",
+      "generated_at": "2026-10-05T19:56:12.652767"
+    },
+    {
+      "english": "Brave words, find your voice.",
+      "hebrew": "מילים אמיצות, מצא את קולך.",
+      "transliteration": "Milim amitzot, metza et kolcha.",
+      "category": "Confidence",
+      "generated_at": "2026-10-05T19:56:12.652768"
+    },
+    {
+      "english": "You understand, you speak.",
+      "hebrew": "אתה מבין, אתה מדבר.",
+      "transliteration": "Atah mevin, atah medaber.",
+      "category": "Confidence",
+      "generated_at": "2026-10-05T19:56:12.652770"
     }
   ],
-  "last_updated": "2026-10-05T05:15:34.826332"
+  "last_updated": "2026-10-05T19:56:12.652772"
 }
