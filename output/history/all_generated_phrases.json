@@ -19354,7 +19354,42 @@
       "transliteration": "Ptach et ha'peh, ten latzillim lizrom.",
       "category": "Purpose",
       "generated_at": "2026-10-05T23:00:20.618384"
+    },
+    {
+      "english": "Hear the harp's whisper, soft and low.",
+      "hebrew": "שמע את לחישת הנבל, רך ושקט.",
+      "transliteration": "Shma et lechishat ha'navel, rach ve'shaket.",
+      "category": "Music",
+      "generated_at": "2026-10-06T01:15:05.059428"
+    },
+    {
+      "english": "A lonely cello, sings its tale.",
+      "hebrew": "צ'לו בודד, שר את סיפורו.",
+      "transliteration": "Chelo boded, shar et sipuro.",
+      "category": "Music",
+      "generated_at": "2026-10-06T01:15:05.059437"
+    },
+    {
+      "english": "The bass drum pulses, deep inside.",
+      "hebrew": "תוף הבס פועם, עמוק בפנים.",
+      "transliteration": "Tof ha'bas po'em, amok bifnim.",
+      "category": "Music",
+      "generated_at": "2026-10-06T01:15:05.059438"
+    },
+    {
+      "english": "Choral voices rise, a gentle swell.",
+      "hebrew": "קולות מקהלה עולים, גל עדין.",
+      "transliteration": "Kolot makhela olim, gal adin.",
+      "category": "Music",
+      "generated_at": "2026-10-06T01:15:05.059440"
+    },
+    {
+      "english": "A mandolin strums, bright and quick.",
+      "hebrew": "מנדולינה מנגנת, בהיר ומהיר.",
+      "transliteration": "Mandolina menagenet, bahir u'mahir.",
+      "category": "Music",
+      "generated_at": "2026-10-06T01:15:05.059441"
     }
   ],
-  "last_updated": "2026-10-05T23:00:20.618385"
+  "last_updated": "2026-10-06T01:15:05.059443"
 }
