@@ -19424,7 +19424,42 @@
       "transliteration": "M'tza et shiv'ei hameshkal, al haderech.",
       "category": "Health",
       "generated_at": "2026-10-06T06:00:07.726621"
+    },
+    {
+      "english": "Say this, then pause.",
+      "hebrew": "אמור את זה, ואז הפסקה.",
+      "transliteration": "Emor et zeh, ve'az hafsakah.",
+      "category": "Directions",
+      "generated_at": "2026-10-06T20:14:30.805151"
+    },
+    {
+      "english": "Listen, then try.",
+      "hebrew": "תקשיב, ואז נסה.",
+      "transliteration": "Takshiv, ve'az naseh.",
+      "category": "Directions",
+      "generated_at": "2026-10-06T20:14:30.805165"
+    },
+    {
+      "english": "Think the sound, breathe.",
+      "hebrew": "חשוב את הצליל, נשום.",
+      "transliteration": "Chashov et hatzlil, nashom.",
+      "category": "Directions",
+      "generated_at": "2026-10-06T20:14:30.805167"
+    },
+    {
+      "english": "One word, then another.",
+      "hebrew": "מילה אחת, ואז עוד אחת.",
+      "transliteration": "Milah achat, ve'az od achat.",
+      "category": "Directions",
+      "generated_at": "2026-10-06T20:14:30.805168"
+    },
+    {
+      "english": "Feel the rhythm, move.",
+      "hebrew": "הרגש את הקצב, זז.",
+      "transliteration": "Hargeish et haketzev, zaz.",
+      "category": "Directions",
+      "generated_at": "2026-10-06T20:14:30.805169"
     }
   ],
-  "last_updated": "2026-10-06T06:00:07.726623"
+  "last_updated": "2026-10-06T20:14:30.805171"
 }
