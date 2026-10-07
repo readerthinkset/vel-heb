@@ -19564,7 +19564,42 @@
       "transliteration": "Ha'yogurt hazeh, samich kol kach.",
       "category": "Food",
       "generated_at": "2026-10-07T05:35:38.280238"
+    },
+    {
+      "english": "A new day, dawns now.",
+      "hebrew": "יום חדש, עולה עכשיו.",
+      "transliteration": "Yom chadash, oleh achshav.",
+      "category": "Time",
+      "generated_at": "2026-10-07T18:02:46.240952"
+    },
+    {
+      "english": "The hour, it changes.",
+      "hebrew": "השעה, משתנה.",
+      "transliteration": "Ha'sha'ah, mishtana.",
+      "category": "Time",
+      "generated_at": "2026-10-07T18:02:46.240963"
+    },
+    {
+      "english": "Wait a moment, see.",
+      "hebrew": "חכה רגע, תראה.",
+      "transliteration": "Hacheh rega, tir'eh.",
+      "category": "Time",
+      "generated_at": "2026-10-07T18:02:46.240964"
+    },
+    {
+      "english": "Time flows, like water.",
+      "hebrew": "הזמן זורם, כמו מים.",
+      "transliteration": "Hazman zorem, kmo mayim.",
+      "category": "Time",
+      "generated_at": "2026-10-07T18:02:46.240965"
+    },
+    {
+      "english": "This minute, precious gift.",
+      "hebrew": "הדקה הזו, מתנה יקרה.",
+      "transliteration": "Hadaka hazeh, matana y'kara.",
+      "category": "Time",
+      "generated_at": "2026-10-07T18:02:46.240966"
     }
   ],
-  "last_updated": "2026-10-07T05:35:38.280240"
+  "last_updated": "2026-10-07T18:02:46.240968"
 }
