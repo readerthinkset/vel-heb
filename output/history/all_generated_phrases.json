@@ -19529,7 +19529,42 @@
       "transliteration": "Hazimzum hasheket, shel ma she'atid lavo.",
       "category": "Hope",
       "generated_at": "2026-10-06T23:42:46.034282"
+    },
+    {
+      "english": "A crisp, fresh bite.",
+      "hebrew": "נגיסה פריכה, ורעננה.",
+      "transliteration": "N'gisa prikha, ve're'anana.",
+      "category": "Food",
+      "generated_at": "2026-10-07T05:35:38.280217"
+    },
+    {
+      "english": "Smells like home cooking.",
+      "hebrew": "ריח כמו בישול ביתי.",
+      "transliteration": "Re'ach kmo bishul beiti.",
+      "category": "Food",
+      "generated_at": "2026-10-07T05:35:38.280233"
+    },
+    {
+      "english": "This berry, is so sweet.",
+      "hebrew": "הפירות יער, מתוקים כל כך.",
+      "transliteration": "Ha'peirot ya'ar, metukim kol kach.",
+      "category": "Food",
+      "generated_at": "2026-10-07T05:35:38.280235"
+    },
+    {
+      "english": "A warm, spiced drink.",
+      "hebrew": "משקה חם, עם תבלינים.",
+      "transliteration": "Mashke cham, im tavlinim.",
+      "category": "Food",
+      "generated_at": "2026-10-07T05:35:38.280237"
+    },
+    {
+      "english": "That yogurt, is so thick.",
+      "hebrew": "היוגורט הזה, סמיך כל כך.",
+      "transliteration": "Ha'yogurt hazeh, samich kol kach.",
+      "category": "Food",
+      "generated_at": "2026-10-07T05:35:38.280238"
     }
   ],
-  "last_updated": "2026-10-06T23:42:46.034284"
+  "last_updated": "2026-10-07T05:35:38.280240"
 }
