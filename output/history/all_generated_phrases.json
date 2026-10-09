@@ -19879,7 +19879,42 @@
       "transliteration": "Anakhnu mevinu, bli, mila.",
       "category": "Friendship",
       "generated_at": "2026-10-09T00:14:50.103482"
+    },
+    {
+      "english": "We need to evacuate, quickly.",
+      "hebrew": "אנחנו צריכים להתפנות, מהר.",
+      "transliteration": "Anachnu tzrichim lehitpanot, maher.",
+      "category": "Emergency",
+      "generated_at": "2026-10-09T05:47:25.422261"
+    },
+    {
+      "english": "Is anyone, hurt?",
+      "hebrew": "מישהו, פצוע?",
+      "transliteration": "Mishehu, patzua?",
+      "category": "Emergency",
+      "generated_at": "2026-10-09T05:47:25.422270"
+    },
+    {
+      "english": "My phone, it died.",
+      "hebrew": "הטלפון שלי, מת.",
+      "transliteration": "Ha'telefon sheli, met.",
+      "category": "Emergency",
+      "generated_at": "2026-10-09T05:47:25.422271"
+    },
+    {
+      "english": "I need water, please.",
+      "hebrew": "אני צריך מים, בבקשה.",
+      "transliteration": "Ani tzarich mayim, bevakasha.",
+      "category": "Emergency",
+      "generated_at": "2026-10-09T05:47:25.422272"
+    },
+    {
+      "english": "This place, is not secure.",
+      "hebrew": "המקום הזה, אינו בטוח.",
+      "transliteration": "Ha'makom hazeh, eino batuach.",
+      "category": "Emergency",
+      "generated_at": "2026-10-09T05:47:25.422272"
     }
   ],
-  "last_updated": "2026-10-09T00:14:50.103484"
+  "last_updated": "2026-10-09T05:47:25.422274"
 }
