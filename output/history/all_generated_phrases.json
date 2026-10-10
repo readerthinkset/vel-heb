@@ -20124,7 +20124,42 @@
       "transliteration": "Hashka'a chachama, poteachat dlatot.",
       "category": "Finance",
       "generated_at": "2026-10-10T18:07:54.582176"
+    },
+    {
+      "english": "A twilight sky, smoky lavender.",
+      "hebrew": "שמי ערב, לבנדר מעושן.",
+      "transliteration": "Shim'ei erev, lavan'der me'ushan.",
+      "category": "Colors",
+      "generated_at": "2026-10-10T20:22:56.103284"
+    },
+    {
+      "english": "Freshly baked bread, golden crust.",
+      "hebrew": "לחם טרי, קרום זהוב.",
+      "transliteration": "Lechem tari, kroom zahuv.",
+      "category": "Colors",
+      "generated_at": "2026-10-10T20:22:56.103297"
+    },
+    {
+      "english": "A shy blush, soft pink.",
+      "hebrew": "סומק ביישן, ורוד עדין.",
+      "transliteration": "Som'ek bay'shan, varod adin.",
+      "category": "Colors",
+      "generated_at": "2026-10-10T20:22:56.103298"
+    },
+    {
+      "english": "Midnight velvet, deep black.",
+      "hebrew": "קטיפת חצות, שחור עמוק.",
+      "transliteration": "K'tifat chatzot, shachor amok.",
+      "category": "Colors",
+      "generated_at": "2026-10-10T20:22:56.103299"
+    },
+    {
+      "english": "A winter dawn, pale lilac.",
+      "hebrew": "שחר חורפי, לילך בהיר.",
+      "transliteration": "Shachar chorfi, lilech bahir.",
+      "category": "Colors",
+      "generated_at": "2026-10-10T20:22:56.103300"
     }
   ],
-  "last_updated": "2026-10-10T18:07:54.582178"
+  "last_updated": "2026-10-10T20:22:56.103302"
 }
