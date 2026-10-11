@@ -20229,7 +20229,42 @@
       "transliteration": "Milim tovot, merimot et ruchi.",
       "category": "Happiness",
       "generated_at": "2026-10-11T05:25:18.600768"
+    },
+    {
+      "english": "Quiet moment, for thinking.",
+      "hebrew": "רגע שקט, למחשבה.",
+      "transliteration": "Rega sheket, le'machshava.",
+      "category": "Work",
+      "generated_at": "2026-10-11T16:53:43.423989"
+    },
+    {
+      "english": "New idea, taking shape.",
+      "hebrew": "רעיון חדש, מתגבש.",
+      "transliteration": "Ra'ayon chadash, mitgalesh.",
+      "category": "Work",
+      "generated_at": "2026-10-11T16:53:43.423999"
+    },
+    {
+      "english": "Let's build on this.",
+      "hebrew": "בואו נבנה על זה.",
+      "transliteration": "Bo'u nivneh al zeh.",
+      "category": "Work",
+      "generated_at": "2026-10-11T16:53:43.424002"
+    },
+    {
+      "english": "Finding the right path.",
+      "hebrew": "מוצאים את הדרך.",
+      "transliteration": "Motzi'im et ha'derech.",
+      "category": "Work",
+      "generated_at": "2026-10-11T16:53:43.424003"
+    },
+    {
+      "english": "One step, then another.",
+      "hebrew": "צעד אחד, ואז עוד.",
+      "transliteration": "Tza'ad echad, ve'az od.",
+      "category": "Work",
+      "generated_at": "2026-10-11T16:53:43.424004"
     }
   ],
-  "last_updated": "2026-10-11T05:25:18.600769"
+  "last_updated": "2026-10-11T16:53:43.424006"
 }
