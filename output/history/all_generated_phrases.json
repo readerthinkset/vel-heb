@@ -21104,7 +21104,42 @@
       "transliteration": "Nokhechut me'ugenet, mod'aut ptuchah.",
       "category": "Balance",
       "generated_at": "2026-10-16T15:40:47.727119"
+    },
+    {
+      "english": "A warm hat, for winter.",
+      "hebrew": "כובע חם, לחורף.",
+      "transliteration": "Kova cham, lachoref.",
+      "category": "Clothes",
+      "generated_at": "2026-10-16T17:45:07.992474"
+    },
+    {
+      "english": "These gloves, keep hands toasty.",
+      "hebrew": "כפפות אלו, שומרות על הידיים חמות.",
+      "transliteration": "Kfafot elu, shomrot al hayadayim chamot.",
+      "category": "Clothes",
+      "generated_at": "2026-10-16T17:45:07.992486"
+    },
+    {
+      "english": "Her sweater, knitted by grandma.",
+      "hebrew": "הסוודר שלה, נסרג מסבתא.",
+      "transliteration": "Hasweder shela, nisrag misavta.",
+      "category": "Clothes",
+      "generated_at": "2026-10-16T17:45:07.992488"
+    },
+    {
+      "english": "This dress, has pockets, nice!",
+      "hebrew": "השמלה הזו, יש לה כיסים, נחמד!",
+      "transliteration": "Hasmala hazu, yesh la kisim, nechmad!",
+      "category": "Clothes",
+      "generated_at": "2026-10-16T17:45:07.992489"
+    },
+    {
+      "english": "His jacket, looks very stylish.",
+      "hebrew": "הז'קט שלו, נראה מאוד מסוגנן.",
+      "transliteration": "Hazaket shelo, nir'eh me'od mesugnan.",
+      "category": "Clothes",
+      "generated_at": "2026-10-16T17:45:07.992490"
     }
   ],
-  "last_updated": "2026-10-16T15:40:47.727121"
+  "last_updated": "2026-10-16T17:45:07.992492"
 }
