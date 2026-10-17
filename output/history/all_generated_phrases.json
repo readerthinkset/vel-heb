@@ -21279,7 +21279,42 @@
       "transliteration": "chamesh etzba'ot, ochezot ba'chol.",
       "category": "Numbers",
       "generated_at": "2026-10-17T14:32:17.282423"
+    },
+    {
+      "english": "River flows, over smooth stones.",
+      "hebrew": "נהר זורם, על אבנים חלקות.",
+      "transliteration": "Nahar zorem, al avanim chlakot.",
+      "category": "Nature",
+      "generated_at": "2026-10-17T16:45:18.215505"
+    },
+    {
+      "english": "Leaves whisper, secrets of the forest.",
+      "hebrew": "עלים לוחשים, סודות היער.",
+      "transliteration": "Alim lochashim, sodot haye'ar.",
+      "category": "Nature",
+      "generated_at": "2026-10-17T16:45:18.215516"
+    },
+    {
+      "english": "Tiny ant, carries a crumb.",
+      "hebrew": "נמלה קטנה, נושאת פירור.",
+      "transliteration": "Nemala ktana, noset pirur.",
+      "category": "Nature",
+      "generated_at": "2026-10-17T16:45:18.215518"
+    },
+    {
+      "english": "Sunlight dapples, the forest floor.",
+      "hebrew": "אור שמש מנוקד, את רצפת היער.",
+      "transliteration": "Or shemesh menukad, et ritzpat haye'ar.",
+      "category": "Nature",
+      "generated_at": "2026-10-17T16:45:18.215519"
+    },
+    {
+      "english": "Crickets chirp, a summer song.",
+      "hebrew": "צרצרים מצייצים, שיר קיץ.",
+      "transliteration": "Tzirtzarim metzayetzim, shir kayitz.",
+      "category": "Nature",
+      "generated_at": "2026-10-17T16:45:18.215519"
     }
   ],
-  "last_updated": "2026-10-17T14:32:17.282424"
+  "last_updated": "2026-10-17T16:45:18.215521"
 }
