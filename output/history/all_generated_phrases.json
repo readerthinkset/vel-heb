@@ -21314,7 +21314,42 @@
       "transliteration": "Tzirtzarim metzayetzim, shir kayitz.",
       "category": "Nature",
       "generated_at": "2026-10-17T16:45:18.215519"
+    },
+    {
+      "english": "Hear the ancient melody, then speak.",
+      "hebrew": "שמע את הלחן העתיק, ואז דבר.",
+      "transliteration": "Shma et ha-lachan ha-atik, az daber.",
+      "category": "Directions",
+      "generated_at": "2026-10-17T18:57:17.526630"
+    },
+    {
+      "english": "Grasp the idea, shape the sound.",
+      "hebrew": "תפוס את הרעיון, עיצב את הצליל.",
+      "transliteration": "Tfus et ha-ra'ayon, itzev et ha-tzlil.",
+      "category": "Directions",
+      "generated_at": "2026-10-17T18:57:17.526638"
+    },
+    {
+      "english": "Let the vowels guide, your voice.",
+      "hebrew": "תן לתנועות להנחות, את קולך.",
+      "transliteration": "Ten la-tnu'ot le-hanchot, et kolech.",
+      "category": "Directions",
+      "generated_at": "2026-10-17T18:57:17.526639"
+    },
+    {
+      "english": "Unravel the sentence, piece by piece.",
+      "hebrew": "פרום את המשפט, חלק אחר חלק.",
+      "transliteration": "Próm et ha-mishpat, chelek achar chelek.",
+      "category": "Directions",
+      "generated_at": "2026-10-17T18:57:17.526640"
+    },
+    {
+      "english": "Sense the cadence, then repeat.",
+      "hebrew": "הרגיש את הקצב, ואז חזור.",
+      "transliteration": "Hargesh et ha-ketzev, az chazor.",
+      "category": "Directions",
+      "generated_at": "2026-10-17T18:57:17.526641"
     }
   ],
-  "last_updated": "2026-10-17T16:45:18.215521"
+  "last_updated": "2026-10-17T18:57:17.526642"
 }
