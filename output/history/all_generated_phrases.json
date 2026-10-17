@@ -21209,7 +21209,42 @@
       "transliteration": "Ha'tze'ad haba, barur.",
       "category": "Work",
       "generated_at": "2026-10-16T22:43:19.627060"
+    },
+    {
+      "english": "Her hair, a silken waterfall.",
+      "hebrew": "שערה, מפל משי.",
+      "transliteration": "Se'arah, mapal meshi.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-17T04:02:27.713502"
+    },
+    {
+      "english": "His head, full of ideas.",
+      "hebrew": "ראשו, מלא רעיונות.",
+      "transliteration": "Rashov, male re'ayonot.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-17T04:02:27.713513"
+    },
+    {
+      "english": "Her face, a story.",
+      "hebrew": "פניה, סיפור.",
+      "transliteration": "Panai, sipur.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-17T04:02:27.713515"
+    },
+    {
+      "english": "His forehead, smooth and calm.",
+      "hebrew": "מצחו, חלק ושקט.",
+      "transliteration": "Matzcho, chalek vesheket.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-17T04:02:27.713517"
+    },
+    {
+      "english": "Her eyes, sparkling with mirth.",
+      "hebrew": "עיניה, נוצצות משמחה.",
+      "transliteration": "Einai, notz'tzot mishimcha.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-17T04:02:27.713518"
     }
   ],
-  "last_updated": "2026-10-16T22:43:19.627062"
+  "last_updated": "2026-10-17T04:02:27.713520"
 }
