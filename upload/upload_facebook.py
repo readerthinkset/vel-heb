@@ -1,85 +1,140 @@
 """
-Facebook Reels Upload - VELOCITY HEBREW
+Facebook Video / Reels Direct Upload - STRICTLY 1 SINGLE META API CALL
+Direct multipart upload to Meta Graph Video API endpoint.
+Publishes directly to Facebook Page feed in exactly 1 HTTP request.
+Zero chunking sessions, zero status polling loops, zero comment retries.
 """
 
 import os
-import requests
+import sys
+import json
 from pathlib import Path
+from datetime import datetime
 from dotenv import load_dotenv
 
-load_dotenv()
-
-def _post_pinned_comment(video_id, description, access_token, page_id):
-    import time
-    website = "velocityhebrew.com"
-    pinned_message = (
-        f"{description}\n\n"
-        f"🌐 Learn more at our website: {website}\n"
-        f"Visit {website} for daily Hebrew lessons!"
-    )
-    print(f"[facebook] Posting pinned comment with website ({website})...")
-    max_retries = 5
-    comment_id = None
-    for attempt in range(max_retries):
-        try:
-            comment_url = f"https://graph.facebook.com/v21.0/{video_id}/comments"
-            comment_data = {'access_token': access_token, 'message': pinned_message}
-            res_comment = requests.post(comment_url, data=comment_data, timeout=30)
-            if res_comment.status_code == 200:
-                resp = res_comment.json()
-                comment_id = resp.get('id')
-                if comment_id:
-                    print(f"[facebook] Comment posted! ID: {comment_id}")
-                    break
-            elif res_comment.status_code == 404 and attempt < max_retries - 1:
-                wait = (attempt + 1) * 10
-                time.sleep(wait)
-        except Exception as e:
-            print(f"[facebook] Comment post error: {e}")
-            break
-    if comment_id:
-        try:
-            pin_url = f"https://graph.facebook.com/v21.0/{comment_id}"
-            pin_data = {'access_token': access_token, 'is_pinned': 'true'}
-            requests.post(pin_url, data=pin_data, timeout=15)
-        except Exception as e:
-            print(f"[facebook] Pin error: {e}")
-
-def upload_to_facebook(video_path, description, title="VELOCITY HEBREW"):
-    print("\n" + "=" * 60)
-    print("FACEBOOK UPLOAD")
-    print("=" * 60)
-    access_token = os.getenv('FACEBOOK_ACCESS_TOKEN') or os.getenv('FB_ACCESS_TOKEN')
-    page_id = os.getenv('FACEBOOK_PAGE_ID') or os.getenv('FB_PAGE_ID')
-    if not access_token: raise ValueError("FACEBOOK_ACCESS_TOKEN not set")
-    if not page_id: raise ValueError("FACEBOOK_PAGE_ID not set")
-    video_path_obj = Path(video_path)
-    if not video_path_obj.exists(): raise FileNotFoundError(f"Video not found: {video_path}")
+if sys.platform == "win32":
     try:
-        file_size = video_path_obj.stat().st_size
-        start_url = f"https://graph.facebook.com/v21.0/{page_id}/video_reels"
-        start_data = {'access_token': access_token, 'upload_phase': 'start', 'file_size': file_size}
-        res_start = requests.post(start_url, data=start_data, timeout=30)
-        if res_start.status_code != 200: raise Exception(f"Start failed: {res_start.text}")
-        start_json = res_start.json()
-        video_id = start_json.get('video_id')
-        upload_url = start_json.get('upload_url')
-        if not video_id: raise Exception(f"No video_id: {start_json}")
-        headers = {'Authorization': f'OAuth {access_token}', 'offset': '0', 'file_size': str(file_size)}
-        with open(video_path, 'rb') as f:
-            res_transfer = requests.post(upload_url, headers=headers, data=f, timeout=600)
-        if res_transfer.status_code != 200: raise Exception(f"Transfer failed: {res_transfer.text}")
-        finish_url = f"https://graph.facebook.com/v21.0/{page_id}/video_reels"
-        finish_data = {'access_token': access_token, 'upload_phase': 'finish', 'video_id': video_id, 'description': description, 'video_state': 'PUBLISHED'}
-        res_finish = requests.post(finish_url, data=finish_data, timeout=60)
-        if res_finish.status_code == 200 and res_finish.json().get('success'):
-            _post_pinned_comment(video_id, description, access_token, page_id)
-            return {'id': video_id, 'platform': 'facebook', 'status': 'success', 'url': f"https://facebook.com/{video_id}"}
-        else: raise Exception(f"Finish failed: {res_finish.text}")
-    except Exception as e: print(f"[facebook] ERROR: {e}"); raise
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+        sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+    except Exception:
+        pass
 
-if __name__ == '__main__':
-    video_file = Path('final_video.mp4')
-    if video_file.exists():
-        try: upload_to_facebook(str(video_file), "Test")
-        except Exception as e: print(f"Failed: {e}")
+# Load environment
+for env_candidate in [Path(".env"), Path("../.env"), Path(__file__).resolve().parent / ".env", Path(__file__).resolve().parent.parent / ".env"]:
+    if env_candidate.exists():
+        load_dotenv(dotenv_path=env_candidate, override=True)
+        break
+else:
+    load_dotenv()
+
+
+def safe_print(msg: str):
+    try:
+        print(msg)
+    except Exception:
+        print(msg.encode("ascii", "replace").decode("ascii"))
+
+
+def upload_to_facebook(video_path, description, title="Video", thumbnail_path=None, page_id=None, access_token=None):
+    """
+    Uploads video to Facebook Page in EXACTLY ONE Meta Graph API call.
+    Single direct multipart POST to https://graph-video.facebook.com/v21.0/{page_id}/videos
+    """
+    import requests
+
+    access_token = access_token or os.getenv("FACEBOOK_ACCESS_TOKEN") or os.getenv("FB_ACCESS_TOKEN")
+    page_id = page_id or os.getenv("FACEBOOK_PAGE_ID") or os.getenv("FB_PAGE_ID")
+
+    if not access_token or not page_id:
+        safe_print("[Facebook] Notice: FACEBOOK_ACCESS_TOKEN or FACEBOOK_PAGE_ID not set. Skipping upload.")
+        return None
+
+    video_file = Path(video_path)
+    if not video_file.exists():
+        safe_print(f"[Facebook] Error: Video file not found: {video_path}")
+        return None
+
+    file_size_mb = video_file.stat().st_size / (1024 * 1024)
+
+    safe_print("\n" + "=" * 60)
+    safe_print("FACEBOOK VIDEO PUBLISH (STRICTLY 1 META API CALL)")
+    safe_print("=" * 60)
+    safe_print(f"[Facebook] Page ID: {page_id}")
+    safe_print(f"[Facebook] Video: {video_file.name} ({file_size_mb:.2f} MB)")
+    safe_print(f"[Facebook] Title: {str(title)[:70]}")
+    safe_print(f"[Facebook] Description length: {len(str(description))} chars")
+
+    upload_url = f"https://graph-video.facebook.com/v21.0/{page_id}/videos"
+
+    data = {
+        "title": str(title)[:100],
+        "description": str(description)[:5000],
+        "published": "true",
+        "access_token": access_token
+    }
+
+    video_fp = None
+    thumb_fp = None
+
+    try:
+        video_fp = open(video_file, "rb")
+        files = {
+            "source": (video_file.name, video_fp, "video/mp4")
+        }
+
+        # Attach thumbnail if available
+        if thumbnail_path and Path(thumbnail_path).exists():
+            try:
+                thumb_fp = open(thumbnail_path, "rb")
+                files["thumb"] = (Path(thumbnail_path).name, thumb_fp, "image/jpeg")
+            except Exception as te:
+                safe_print(f"[Facebook] Notice reading thumbnail: {te}")
+
+        safe_print("[Facebook] Sending single multipart POST request (API Call 1 of 1)...")
+        res = requests.post(upload_url, data=data, files=files, timeout=600)
+
+        if res.status_code in [200, 201]:
+            res_data = res.json()
+            video_id = res_data.get("id") or res_data.get("video_id")
+            if video_id:
+                safe_print("\n" + "=" * 60)
+                safe_print("SUCCESS: FACEBOOK VIDEO PUBLISHED (EXACTLY 1 API CALL)!")
+                safe_print(f"[Facebook] Video ID: {video_id}")
+                safe_print(f"[Facebook] Video URL: https://www.facebook.com/{video_id}")
+                safe_print("=" * 60)
+                return {
+                    "id": str(video_id),
+                    "video_id": str(video_id),
+                    "platform": "facebook",
+                    "status": "success",
+                    "url": f"https://www.facebook.com/{video_id}",
+                    "published_at": datetime.now().isoformat(),
+                    "api_calls_made": 1
+                }
+
+        safe_print(f"[Facebook] API Response ({res.status_code}): {res.text[:400]}")
+        return None
+
+    except requests.exceptions.Timeout:
+        safe_print("[Facebook] Error: Upload request timed out.")
+        return None
+    except Exception as e:
+        safe_print(f"[Facebook] Error during single-call upload: {e}")
+        return None
+    finally:
+        if video_fp:
+            try:
+                video_fp.close()
+            except Exception:
+                pass
+        if thumb_fp:
+            try:
+                thumb_fp.close()
+            except Exception:
+                pass
+
+
+if __name__ == "__main__":
+    test_file = Path("final_video.mp4")
+    if test_file.exists():
+        upload_to_facebook(str(test_file), "Daily automated post", "Daily Video")
