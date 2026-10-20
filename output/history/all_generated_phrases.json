@@ -21769,7 +21769,42 @@
       "transliteration": "Ani rak mistakel/et, toda.",
       "category": "Shopping",
       "generated_at": "2026-10-20T17:11:56.333128"
+    },
+    {
+      "english": "What's, a popular, choice here?",
+      "hebrew": "מה, בחירה, פופולרית, כאן?",
+      "transliteration": "Mah, bechirah, popularit, kan?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-20T18:31:45.424606"
+    },
+    {
+      "english": "This sauce, has depth, doesn't it?",
+      "hebrew": "הרוטב, הזה, עמוק, נכון?",
+      "transliteration": "Ha-rotev, ha-zeh, amok, nachon?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-20T18:31:45.424618"
+    },
+    {
+      "english": "Could, we share, this plate?",
+      "hebrew": "אפשר, לחלוק, את המנה, הזו?",
+      "transliteration": "Efshar, lachlok, et ha-manah, ha-zo?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-20T18:31:45.424619"
+    },
+    {
+      "english": "Is, the fish, grilled, or fried?",
+      "hebrew": "הדג, נאפה, או מטוגן?",
+      "transliteration": "Ha-dag, ne'efah, o metuggan?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-20T18:31:45.424621"
+    },
+    {
+      "english": "I'm, in the mood, for something light.",
+      "hebrew": "בא לי, משהו, קליל.",
+      "transliteration": "Ba li, mashehu, kalil.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-20T18:31:45.424622"
     }
   ],
-  "last_updated": "2026-10-20T17:11:56.333130"
+  "last_updated": "2026-10-20T18:31:45.424624"
 }
