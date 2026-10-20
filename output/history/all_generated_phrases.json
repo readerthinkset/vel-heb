@@ -21734,7 +21734,42 @@
       "transliteration": "Milim ktanot, ra'ayonot gdolim.",
       "category": "Education",
       "generated_at": "2026-10-20T04:59:00.651653"
+    },
+    {
+      "english": "This color, is divine.",
+      "hebrew": "הצבע הזה, הוא אלוהי.",
+      "transliteration": "Ha-tz'va ha-zeh, hu Elohi.",
+      "category": "Shopping",
+      "generated_at": "2026-10-20T17:11:56.333114"
+    },
+    {
+      "english": "I need, to feel this.",
+      "hebrew": "אני חייב, לגעת בזה.",
+      "transliteration": "Ani chayav, la-ga'at be-zeh.",
+      "category": "Shopping",
+      "generated_at": "2026-10-20T17:11:56.333124"
+    },
+    {
+      "english": "Is there, something similar?",
+      "hebrew": "יש, משהו דומה לזה?",
+      "transliteration": "Yesh, mashehu domeh la-zeh?",
+      "category": "Shopping",
+      "generated_at": "2026-10-20T17:11:56.333126"
+    },
+    {
+      "english": "This really, suits me.",
+      "hebrew": "זה ממש, מתאים לי.",
+      "transliteration": "Zeh mamash, mat'im li.",
+      "category": "Shopping",
+      "generated_at": "2026-10-20T17:11:56.333127"
+    },
+    {
+      "english": "I'm just looking, thank you.",
+      "hebrew": "אני רק מסתכל/ת, תודה.",
+      "transliteration": "Ani rak mistakel/et, toda.",
+      "category": "Shopping",
+      "generated_at": "2026-10-20T17:11:56.333128"
     }
   ],
-  "last_updated": "2026-10-20T04:59:00.651655"
+  "last_updated": "2026-10-20T17:11:56.333130"
 }
