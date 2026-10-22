@@ -22154,7 +22154,42 @@
       "transliteration": "ananim mafligim, be'yam kachol",
       "category": "Weather",
       "generated_at": "2026-10-22T19:49:03.718615"
+    },
+    {
+      "english": "New project, let's begin.",
+      "hebrew": "פרויקט חדש, נתחיל.",
+      "transliteration": "proyekt chadash, nat'chil.",
+      "category": "Work",
+      "generated_at": "2026-10-22T20:34:55.245664"
+    },
+    {
+      "english": "Brainstorming session, opens minds.",
+      "hebrew": "סיעור מוחות, פותח תודעות.",
+      "transliteration": "si'ur mochos, pote'ach toda'ot.",
+      "category": "Work",
+      "generated_at": "2026-10-22T20:34:55.245674"
+    },
+    {
+      "english": "Task completed, feeling good.",
+      "hebrew": "משימה הושלמה, מרגיש טוב.",
+      "transliteration": "mesimah hushlema, margish tov.",
+      "category": "Work",
+      "generated_at": "2026-10-22T20:34:55.245675"
+    },
+    {
+      "english": "Collaboration, makes it better.",
+      "hebrew": "שיתוף פעולה, משפר הכל.",
+      "transliteration": "shituf pe'ula, meshaper hakol.",
+      "category": "Work",
+      "generated_at": "2026-10-22T20:34:55.245675"
+    },
+    {
+      "english": "Research phase, understanding more.",
+      "hebrew": "שלב המחקר, מבין יותר.",
+      "transliteration": "shalav hamachkar, mevin yoter.",
+      "category": "Work",
+      "generated_at": "2026-10-22T20:34:55.245676"
     }
   ],
-  "last_updated": "2026-10-22T19:49:03.718617"
+  "last_updated": "2026-10-22T20:34:55.245677"
 }
