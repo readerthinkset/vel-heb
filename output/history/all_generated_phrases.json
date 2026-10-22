@@ -22189,7 +22189,42 @@
       "transliteration": "shalav hamachkar, mevin yoter.",
       "category": "Work",
       "generated_at": "2026-10-22T20:34:55.245676"
+    },
+    {
+      "english": "The clock ticks, softly now.",
+      "hebrew": "השעון מתקתק, בשקט עכשיו.",
+      "transliteration": "Ha'sha'on metakteik, b'sheket achshav.",
+      "category": "Time",
+      "generated_at": "2026-10-22T23:21:22.709321"
+    },
+    {
+      "english": "A fleeting glimpse, of what's to come.",
+      "hebrew": "הצצה חולפת, לקראת הבאות.",
+      "transliteration": "Hatzatza cholefet, likrat ha'ba'ot.",
+      "category": "Time",
+      "generated_at": "2026-10-22T23:21:22.709334"
+    },
+    {
+      "english": "Just a breath, then forward.",
+      "hebrew": "רק נשימה, ואז קדימה.",
+      "transliteration": "Rak neshima, v'az kadima.",
+      "category": "Time",
+      "generated_at": "2026-10-22T23:21:22.709335"
+    },
+    {
+      "english": "The sun dips, colors fade.",
+      "hebrew": "השמש שוקעת, הצבעים דוהים.",
+      "transliteration": "Ha'shemesh shok'at, ha'tzva'im doh'im.",
+      "category": "Time",
+      "generated_at": "2026-10-22T23:21:22.709336"
+    },
+    {
+      "english": "An era ends, a new one starts.",
+      "hebrew": "עידן נגמר, חדש מתחיל.",
+      "transliteration": "Idan nigmar, chadash matchil.",
+      "category": "Time",
+      "generated_at": "2026-10-22T23:21:22.709337"
     }
   ],
-  "last_updated": "2026-10-22T20:34:55.245677"
+  "last_updated": "2026-10-22T23:21:22.709339"
 }
