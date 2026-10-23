@@ -22224,7 +22224,42 @@
       "transliteration": "Idan nigmar, chadash matchil.",
       "category": "Time",
       "generated_at": "2026-10-22T23:21:22.709337"
+    },
+    {
+      "english": "The violin sighs, a lonely sound.",
+      "hebrew": "הכינור נאנח, צליל בודד.",
+      "transliteration": "Ha-kinor ne'enach, tzlil boded.",
+      "category": "Music",
+      "generated_at": "2026-10-23T05:49:23.185192"
+    },
+    {
+      "english": "A sudden trumpet, sharp and bright.",
+      "hebrew": "חצוצרה פתאומית, חדה ובוהקת.",
+      "transliteration": "Chatzotzra pit'omit, chada u'vohekket.",
+      "category": "Music",
+      "generated_at": "2026-10-23T05:49:23.185204"
+    },
+    {
+      "english": "Soft piano keys, touch the heart.",
+      "hebrew": "קלידי פסנתר רכים, נוגעים בלב.",
+      "transliteration": "K'lei piano rakim, nog'im ba'lev.",
+      "category": "Music",
+      "generated_at": "2026-10-23T05:49:23.185206"
+    },
+    {
+      "english": "Drum echoes, a distant beat.",
+      "hebrew": "הדים של תופים, פעימה רחוקה.",
+      "transliteration": "Hedim shel tufim, pe'ima rechoka.",
+      "category": "Music",
+      "generated_at": "2026-10-23T05:49:23.185208"
+    },
+    {
+      "english": "Guitar whispers, secrets shared.",
+      "hebrew": "גיטרה לוחשת, סודות משותפים.",
+      "transliteration": "Gitara locheshet, sodot meshutafim.",
+      "category": "Music",
+      "generated_at": "2026-10-23T05:49:23.185209"
     }
   ],
-  "last_updated": "2026-10-22T23:21:22.709339"
+  "last_updated": "2026-10-23T05:49:23.185211"
 }
