@@ -101,6 +101,23 @@ def upload_to_facebook(video_path, description, title="Video", thumbnail_path=No
                 safe_print("SUCCESS: FACEBOOK VIDEO PUBLISHED (EXACTLY 1 API CALL)!")
                 safe_print(f"[Facebook] Video ID: {video_id}")
                 safe_print(f"[Facebook] Video URL: https://www.facebook.com/{video_id}")
+                try:
+                    c_url = f"https://graph.facebook.com/v21.0/{video_id}/comments"
+                    pinned_msg = (
+                        "🇮🇱 Learn Hebrew faster with free interactive guides and vocabulary lessons!\n"
+                        "👉 Visit our website: https://velocityhebrew.com/\n"
+                        "📖 Read our latest blog articles: https://velocityhebrew.com/blog/\n"
+                        "🔔 Follow for daily Hebrew lessons!"
+                    )
+                    r_c = requests.post(c_url, data={'access_token': access_token, 'message': pinned_msg}, timeout=30)
+                    if r_c.status_code in [200, 201]:
+                        c_id = r_c.json().get('id')
+                        safe_print(f"[Facebook] Pinned comment posted: {c_id}")
+                        try:
+                            requests.post(f"https://graph.facebook.com/v21.0/{c_id}", data={'access_token': access_token, 'is_pinned': 'true'}, timeout=15)
+                        except Exception: pass
+                except Exception as ce:
+                    safe_print(f"[Facebook] Notice on comment: {ce}")
                 safe_print("=" * 60)
                 return {
                     "id": str(video_id),
