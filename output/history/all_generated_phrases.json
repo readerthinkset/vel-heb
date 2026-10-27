@@ -22994,7 +22994,42 @@
       "transliteration": "Ha-khom shav, el libeinu.",
       "category": "Forgiveness",
       "generated_at": "2026-10-27T21:26:32.710726"
+    },
+    {
+      "english": "What, a beautiful, evening.",
+      "hebrew": "איזו, ערב, יפה.",
+      "transliteration": "Eizo, erev, yafeh.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-27T23:45:37.686844"
+    },
+    {
+      "english": "Do you, have, anything, new?",
+      "hebrew": "יש, לכם, משהו, חדש?",
+      "transliteration": "Yesh, lachem, mashehu, chadash?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-27T23:45:37.686853"
+    },
+    {
+      "english": "This smell, is amazing.",
+      "hebrew": "הריח, הזה, מדהים.",
+      "transliteration": "Ha're'ach, hazeh, madhim.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-27T23:45:37.686854"
+    },
+    {
+      "english": "I'm craving, something sweet.",
+      "hebrew": "בא לי, משהו, מתוק.",
+      "transliteration": "Ba li, mashehu, matok.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-27T23:45:37.686855"
+    },
+    {
+      "english": "Is, the soup, creamy?",
+      "hebrew": "המרק, קרמי?",
+      "transliteration": "Ha'marak, kremi?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-27T23:45:37.686856"
     }
   ],
-  "last_updated": "2026-10-27T21:26:32.710728"
+  "last_updated": "2026-10-27T23:45:37.686857"
 }
