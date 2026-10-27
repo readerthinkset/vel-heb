@@ -22854,7 +22854,42 @@
       "transliteration": "Alei na'ana, triyim.",
       "category": "Food",
       "generated_at": "2026-10-27T00:12:02.053102"
+    },
+    {
+      "english": "This moment, alive, unfolding.",
+      "hebrew": "הרגע הזה, חי, נפתח.",
+      "transliteration": "Ha-rega ha-zeh, chai, niftach.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T05:14:17.367873"
+    },
+    {
+      "english": "Soft breeze, whispers a truth.",
+      "hebrew": "רוח קלה, לוחשת אמת.",
+      "transliteration": "Ruach klah, locheshet emet.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T05:14:17.367888"
+    },
+    {
+      "english": "A quiet space, within.",
+      "hebrew": "מרחב שקט, בפנים.",
+      "transliteration": "Merchav shakeet, bifnim.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T05:14:17.367889"
+    },
+    {
+      "english": "Let worries, drift away.",
+      "hebrew": "תן לדאגות, לחלוף.",
+      "transliteration": "Ten le-da'agot, lachlof.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T05:14:17.367890"
+    },
+    {
+      "english": "Notice the colors, around.",
+      "hebrew": "שים לב לצבעים, מסביב.",
+      "transliteration": "Sim lev la-tzva'im, misaviv.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-27T05:14:17.367891"
     }
   ],
-  "last_updated": "2026-10-27T00:12:02.053104"
+  "last_updated": "2026-10-27T05:14:17.367893"
 }
