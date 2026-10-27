@@ -22819,7 +22819,42 @@
       "transliteration": "Keren menuhélet heitev, chaim me'usharim.",
       "category": "Finance",
       "generated_at": "2026-10-26T19:59:48.146643"
+    },
+    {
+      "english": "A sprinkle, of sea salt.",
+      "hebrew": "קצת מלח, ים.",
+      "transliteration": "Ktzat melach, yam.",
+      "category": "Food",
+      "generated_at": "2026-10-27T00:12:02.053089"
+    },
+    {
+      "english": "This olive oil, is golden.",
+      "hebrew": "שמן הזית, הזהב.",
+      "transliteration": "Shemen hazayit, hazahav.",
+      "category": "Food",
+      "generated_at": "2026-10-27T00:12:02.053098"
+    },
+    {
+      "english": "A hint, of garlic.",
+      "hebrew": "רמז, לשום.",
+      "transliteration": "Remez, lashum.",
+      "category": "Food",
+      "generated_at": "2026-10-27T00:12:02.053100"
+    },
+    {
+      "english": "That stew, simmered slowly.",
+      "hebrew": "התבשיל, הזה, התבשל לאט.",
+      "transliteration": "Hatavshil, hazeh, hitbashel le'at.",
+      "category": "Food",
+      "generated_at": "2026-10-27T00:12:02.053101"
+    },
+    {
+      "english": "Fresh mint, leaves.",
+      "hebrew": "עלי נענע, טריים.",
+      "transliteration": "Alei na'ana, triyim.",
+      "category": "Food",
+      "generated_at": "2026-10-27T00:12:02.053102"
     }
   ],
-  "last_updated": "2026-10-26T19:59:48.146645"
+  "last_updated": "2026-10-27T00:12:02.053104"
 }
