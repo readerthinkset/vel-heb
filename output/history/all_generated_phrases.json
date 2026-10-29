@@ -23274,7 +23274,42 @@
       "transliteration": "Asof rega'im, kmo avanim tovot.",
       "category": "Positive Life",
       "generated_at": "2026-10-29T18:35:17.328749"
+    },
+    {
+      "english": "The sun climbs, slow.",
+      "hebrew": "השמש עולה, לאט.",
+      "transliteration": "Ha-shemesh olah, le'at.",
+      "category": "Time",
+      "generated_at": "2026-10-29T19:42:23.426022"
+    },
+    {
+      "english": "A thought forms, now.",
+      "hebrew": "מחשבה נוצרת, עכשיו.",
+      "transliteration": "Machshavah notzeret, achshav.",
+      "category": "Time",
+      "generated_at": "2026-10-29T19:42:23.426030"
+    },
+    {
+      "english": "The past, a shadow.",
+      "hebrew": "העבר, צל.",
+      "transliteration": "Ha'avar, tzel.",
+      "category": "Time",
+      "generated_at": "2026-10-29T19:42:23.426032"
+    },
+    {
+      "english": "Tomorrow's promise, whispers.",
+      "hebrew": "הבטחת המחר, לוחשת.",
+      "transliteration": "Havtachat ha'machar, locheshet.",
+      "category": "Time",
+      "generated_at": "2026-10-29T19:42:23.426033"
+    },
+    {
+      "english": "Each tick, a story.",
+      "hebrew": "כל טיק, סיפור.",
+      "transliteration": "Kol tik, sipur.",
+      "category": "Time",
+      "generated_at": "2026-10-29T19:42:23.426034"
     }
   ],
-  "last_updated": "2026-10-29T18:35:17.328751"
+  "last_updated": "2026-10-29T19:42:23.426036"
 }
