@@ -23694,7 +23694,42 @@
       "transliteration": "Itcha/Itach, ha'chaim margishim, kalim yoter.",
       "category": "Friendship",
       "generated_at": "2026-10-31T20:27:55.115435"
+    },
+    {
+      "english": "Hear the flute, it soars.",
+      "hebrew": "שמע את החליל, הוא ממריא.",
+      "transliteration": "Shma et ha'chalil, hu mamri.",
+      "category": "Music",
+      "generated_at": "2026-10-31T23:26:26.616545"
+    },
+    {
+      "english": "A gentle strum, begins.",
+      "hebrew": "פריטה עדינה, מתחילה.",
+      "transliteration": "Pritta adina, matchila.",
+      "category": "Music",
+      "generated_at": "2026-10-31T23:26:26.616558"
+    },
+    {
+      "english": "The piano sighs, softly.",
+      "hebrew": "הפסנתר נאנח, בשקט.",
+      "transliteration": "Ha'psanter na'anach, be'sheket.",
+      "category": "Music",
+      "generated_at": "2026-10-31T23:26:26.616559"
+    },
+    {
+      "english": "Drums call, far away.",
+      "hebrew": "התוף קורא, מרחוק.",
+      "transliteration": "Ha'tof koreh, merachok.",
+      "category": "Music",
+      "generated_at": "2026-10-31T23:26:26.616561"
+    },
+    {
+      "english": "Violin sings, a bright thread.",
+      "hebrew": "הכינור שר, חוט בהיר.",
+      "transliteration": "Ha'kinor shar, chutz bahir.",
+      "category": "Music",
+      "generated_at": "2026-10-31T23:26:26.616562"
     }
   ],
-  "last_updated": "2026-10-31T20:27:55.115437"
+  "last_updated": "2026-10-31T23:26:26.616564"
 }
