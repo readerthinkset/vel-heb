@@ -23554,7 +23554,42 @@
       "transliteration": "Asuf et hachutim, arg et hasipur.",
       "category": "Balance",
       "generated_at": "2026-10-30T23:43:58.439271"
+    },
+    {
+      "english": "Sun warms, the stone.",
+      "hebrew": "שמש מחממת, את האבן.",
+      "transliteration": "Shemesh mechamemet, et ha'even.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-31T05:54:06.536295"
+    },
+    {
+      "english": "A gentle breeze, whispers.",
+      "hebrew": "משב רוח קל, לוחש.",
+      "transliteration": "Mashav ruach kal, lochesh.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-31T05:54:06.536311"
+    },
+    {
+      "english": "Morning dew, on the leaf.",
+      "hebrew": "טל בוקר, על העלה.",
+      "transliteration": "Tal boker, al ha'aleh.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-31T05:54:06.536313"
+    },
+    {
+      "english": "Children laugh, in the park.",
+      "hebrew": "ילדים צוחקים, בפארק.",
+      "transliteration": "Yeladim tzohakim, ba'park.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-31T05:54:06.536314"
+    },
+    {
+      "english": "A bird sings, a sweet song.",
+      "hebrew": "ציפור שרה, שיר מתוק.",
+      "transliteration": "Tzipor sharah, shir matok.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-31T05:54:06.536316"
     }
   ],
-  "last_updated": "2026-10-30T23:43:58.439272"
+  "last_updated": "2026-10-31T05:54:06.536318"
 }
