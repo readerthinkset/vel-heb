@@ -23729,7 +23729,42 @@
       "transliteration": "Ha'kinor shar, chutz bahir.",
       "category": "Music",
       "generated_at": "2026-10-31T23:26:26.616562"
+    },
+    {
+      "english": "A sudden downpour, surprising us.",
+      "hebrew": "ממטר פתאומי, מפתיע אותנו.",
+      "transliteration": "Mamatar pit'omi, mefati'a otanu.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T06:18:39.071815"
+    },
+    {
+      "english": "The air is electric, before the storm.",
+      "hebrew": "האוויר חשמלי, לפני הסופה.",
+      "transliteration": "Ha'avir chashmali, lifnei hasufah.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T06:18:39.071830"
+    },
+    {
+      "english": "Sunlight breaks, through the gray.",
+      "hebrew": "אור שמש פורץ, דרך האפור.",
+      "transliteration": "Or shemesh poretz, derech ha'afor.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T06:18:39.071832"
+    },
+    {
+      "english": "A whisper of frost, on the window.",
+      "hebrew": "לחש של כפור, על החלון.",
+      "transliteration": "Lachash shel k'for, al hachalon.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T06:18:39.071834"
+    },
+    {
+      "english": "The wind is restless, stirring things.",
+      "hebrew": "הרוח חסרת מנוחה, מעוררת דברים.",
+      "transliteration": "Haruach chaseret menuchah, me'oreret dvarim.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T06:18:39.071835"
     }
   ],
-  "last_updated": "2026-10-31T23:26:26.616564"
+  "last_updated": "2026-11-01T06:18:39.071836"
 }
