@@ -24009,7 +24009,42 @@
       "transliteration": "Shma et ha-sipurim, be-chol mila.",
       "category": "Motivation",
       "generated_at": "2026-11-02T22:49:42.412082"
+    },
+    {
+      "english": "A lemon's zest, bright yellow.",
+      "hebrew": "קליפת לימון, צהוב בוהק.",
+      "transliteration": "Klipat limon, tzahov bohek.",
+      "category": "Colors",
+      "generated_at": "2026-11-02T23:56:50.227618"
+    },
+    {
+      "english": "The forest floor, mossy green.",
+      "hebrew": "רצפת יער, ירוק טחוב.",
+      "transliteration": "Ritzpat ya'ar, yarok t'chuv.",
+      "category": "Colors",
+      "generated_at": "2026-11-02T23:56:50.227629"
+    },
+    {
+      "english": "A desert sand dune, warm beige.",
+      "hebrew": "דיונת חול, בז' חם.",
+      "transliteration": "Dyunat chol, beige cham.",
+      "category": "Colors",
+      "generated_at": "2026-11-02T23:56:50.227632"
+    },
+    {
+      "english": "A ruby's fire, deep red.",
+      "hebrew": "אש של רובי, אדום עמוק.",
+      "transliteration": "Esh shel rubi, adom amok.",
+      "category": "Colors",
+      "generated_at": "2026-11-02T23:56:50.227633"
+    },
+    {
+      "english": "The twilight sky, soft violet.",
+      "hebrew": "שמי בין ערביים, סגול רך.",
+      "transliteration": "Shmei bein arbayim, sagol rach.",
+      "category": "Colors",
+      "generated_at": "2026-11-02T23:56:50.227635"
     }
   ],
-  "last_updated": "2026-11-02T22:49:42.412084"
+  "last_updated": "2026-11-02T23:56:50.227636"
 }
