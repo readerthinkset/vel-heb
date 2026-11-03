@@ -24149,7 +24149,42 @@
       "transliteration": "shote'f yadáim, mukan le'archat boqer",
       "category": "Daily Routine",
       "generated_at": "2026-11-03T19:41:22.967748"
+    },
+    {
+      "english": "Wind writes, in the tall grass, softly.",
+      "hebrew": "הרוח כותבת, בעשב הגבוה, בעדינות.",
+      "transliteration": "HaRuach kotevet, be'esev hagavoah, b'eadinuyut.",
+      "category": "Nature",
+      "generated_at": "2026-11-03T20:32:36.238256"
+    },
+    {
+      "english": "A raven circles, above the rocky ridge, alone.",
+      "hebrew": "עורב מרחף, מעל הרכס הסלעי, לבד.",
+      "transliteration": "Orev merachef, me'al haReks haS'la'i, levad.",
+      "category": "Nature",
+      "generated_at": "2026-11-03T20:32:36.238265"
+    },
+    {
+      "english": "The river laughs, around stones, then keeps moving.",
+      "hebrew": "הנהר צוחק, סביב אבנים, ואז ממשיך.",
+      "transliteration": "HaNahar tzoheq, saviv avanim, v'az mimshich.",
+      "category": "Nature",
+      "generated_at": "2026-11-03T20:32:36.238266"
+    },
+    {
+      "english": "Dew settles, on leaves, like tiny glass.",
+      "hebrew": "טל מתיישב, על עלים, כמו זכוכית קטנה.",
+      "transliteration": "Tal mitayeshev, al alim, kmo zekuchit ketanah.",
+      "category": "Nature",
+      "generated_at": "2026-11-03T20:32:36.238267"
+    },
+    {
+      "english": "Pine needles fall, quietly, to the path.",
+      "hebrew": "מחטי אורן נופלות, בשקט, אל השביל.",
+      "transliteration": "Matay oren nolot, besheket, el haShvil.",
+      "category": "Nature",
+      "generated_at": "2026-11-03T20:32:36.238267"
     }
   ],
-  "last_updated": "2026-11-03T19:41:22.967749"
+  "last_updated": "2026-11-03T20:32:36.238269"
 }
