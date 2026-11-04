@@ -24254,7 +24254,42 @@
       "transliteration": "atah gor'em l'dopheq sheli, lihyot amitz",
       "category": "Love",
       "generated_at": "2026-11-04T00:35:59.879674"
+    },
+    {
+      "english": "Relax your jaw, soften your shoulders, breathe.",
+      "hebrew": "הרפי את הלסת, רכי את הכתפיים, נְשִׁימָה.",
+      "transliteration": "Herfi et Ha-lsat, rchi et ha-ktafayim, neshima.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T06:37:48.254947"
+    },
+    {
+      "english": "Feel your feet, sense the floor beneath you.",
+      "hebrew": "הרגישי את כפות הרגליים, חושי את הרצפה מתחתייך.",
+      "transliteration": "Hargishi et kafot ha-raglayim, chushi et ha-retsefa mitachatayich.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T06:37:48.254959"
+    },
+    {
+      "english": "Unclench your hands, let them rest.",
+      "hebrew": "שחררי את כפות הידיים, תני להן לנוח.",
+      "transliteration": "Shichrurei et kafot ha-yadáyim, tni lahen lanuach.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T06:37:48.254961"
+    },
+    {
+      "english": "Bring attention to your breath, now.",
+      "hebrew": "החזירי תשומת לב לנשימה, עכשיו.",
+      "transliteration": "Hachzeri teshuvet lev l-neshima, e-cho.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T06:37:48.254963"
+    },
+    {
+      "english": "Count slowly, breathe in, breathe out.",
+      "hebrew": "סַפְרִי לאט, נשמי פנימה, נשפי החוצה.",
+      "transliteration": "Safri la-at, neshmi penima, nashfi ha-chutzah.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T06:37:48.254964"
     }
   ],
-  "last_updated": "2026-11-04T00:35:59.879676"
+  "last_updated": "2026-11-04T06:37:48.254965"
 }
