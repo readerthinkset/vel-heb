@@ -24639,7 +24639,42 @@
       "transliteration": "Mametz katan, hitkadmout gedolah, kol yom.",
       "category": "Success",
       "generated_at": "2026-11-06T19:27:00.841584"
+    },
+    {
+      "english": "Help me, I smell smoke, now!",
+      "hebrew": "עזרו לי, אני מריח עשן, עכשיו!",
+      "transliteration": "Ezru li, ani meriach a'shan, achshav!",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T20:29:29.232250"
+    },
+    {
+      "english": "Stop, there is a gas leak, please!",
+      "hebrew": "עצור, יש דליפת גז, בבקשה!",
+      "transliteration": "Atzor, yesh dilifat gaz, bevakasha!",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T20:29:29.232263"
+    },
+    {
+      "english": "Fire, behind us, get away!",
+      "hebrew": "אש, מאחורינו, תתרחקו!",
+      "transliteration": "Esh, me'achorainu, titrachaku!",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T20:29:29.232264"
+    },
+    {
+      "english": "Call an ambulance, right now!",
+      "hebrew": "התקשרו לאמבולנס, עכשיו!",
+      "transliteration": "Hitekasheru le'ambulans, achshav!",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T20:29:29.232266"
+    },
+    {
+      "english": "I burned my hand, it's very hot!",
+      "hebrew": "שרפתי את היד, זה ממש חם!",
+      "transliteration": "Sarafeti et ha-yad, ze mash mash cham!",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T20:29:29.232267"
     }
   ],
-  "last_updated": "2026-11-06T19:27:00.841586"
+  "last_updated": "2026-11-06T20:29:29.232270"
 }
