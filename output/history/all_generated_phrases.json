@@ -24569,7 +24569,42 @@
       "transliteration": "Asir toda alecha, vegam al hasavlanut shelcha",
       "category": "Gratitude",
       "generated_at": "2026-11-06T00:58:15.527953"
+    },
+    {
+      "english": "How much is this, please?",
+      "hebrew": "כמה זה עולה, בבקשה?",
+      "transliteration": "kama ze oleh, bevakasha?",
+      "category": "Shopping",
+      "generated_at": "2026-11-06T06:57:40.315736"
+    },
+    {
+      "english": "Do you have it, in my size?",
+      "hebrew": "יש לכם את זה, במידה שלי?",
+      "transliteration": "yes lachem et ze, b'mida sheli?",
+      "category": "Shopping",
+      "generated_at": "2026-11-06T06:57:40.315746"
+    },
+    {
+      "english": "Where can I try this on, quickly?",
+      "hebrew": "איפה אני יכול לנסות את זה, מהר?",
+      "transliteration": "eifo ani yachol lenasot et ze, meher?",
+      "category": "Shopping",
+      "generated_at": "2026-11-06T06:57:40.315747"
+    },
+    {
+      "english": "Is this material, breathable and soft?",
+      "hebrew": "הבד הזה נושם ורך, נכון?",
+      "transliteration": "ha-bad ha-ze noshim ve-rach, nachon?",
+      "category": "Shopping",
+      "generated_at": "2026-11-06T06:57:40.315749"
+    },
+    {
+      "english": "Can I see the price, again?",
+      "hebrew": "אפשר לראות את המחיר, שוב?",
+      "transliteration": "efshar lirot et ha-mechir, shuv?",
+      "category": "Shopping",
+      "generated_at": "2026-11-06T06:57:40.315750"
     }
   ],
-  "last_updated": "2026-11-06T00:58:15.527956"
+  "last_updated": "2026-11-06T06:57:40.315752"
 }
