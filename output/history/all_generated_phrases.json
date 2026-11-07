@@ -24884,7 +24884,42 @@
       "transliteration": "Kera be-kol, etzor, ve-hakshiv le-atzmecha.",
       "category": "Perseverance",
       "generated_at": "2026-11-07T20:54:02.958551"
+    },
+    {
+      "english": "Today is mild, clouds gather quietly, then pass.",
+      "hebrew": "היום נעים, העננים מתאספים בשקט, ואז עוברים.",
+      "transliteration": "Hayom na'im, ha-ananim mitasefim bishket, v'az ovrim.",
+      "category": "Weather",
+      "generated_at": "2026-11-07T23:38:01.101071"
+    },
+    {
+      "english": "The sun hides, then returns, warm again.",
+      "hebrew": "השמש נעלמת, ואז חוזרת, חמה שוב.",
+      "transliteration": "Ha-shemesh ne'elemet, v'az chozeret, chamah shuv.",
+      "category": "Weather",
+      "generated_at": "2026-11-07T23:38:01.101081"
+    },
+    {
+      "english": "The morning is hazy, you blink, and breathe.",
+      "hebrew": "הבוקר מעורפל, אתם ממצמצים, ונושמים.",
+      "transliteration": "Ha-boker me'urafel, atem mematzmatsim, venoshmim.",
+      "category": "Weather",
+      "generated_at": "2026-11-07T23:38:01.101082"
+    },
+    {
+      "english": "A tiny drizzle starts, stops, then waits.",
+      "hebrew": "טפטוף קטן מתחיל, מפסיק, ואז מחכה.",
+      "transliteration": "Tiptof katán matchil, m'sik, v'az mechakeh.",
+      "category": "Weather",
+      "generated_at": "2026-11-07T23:38:01.101084"
+    },
+    {
+      "english": "Snow falls softly, footsteps sound louder outside.",
+      "hebrew": "שלג יורד בעדינות, צעדים נשמעים חזק יותר.",
+      "transliteration": "Sheleg yored be'adinùt, tza'adim nishma'im chazak yoter.",
+      "category": "Weather",
+      "generated_at": "2026-11-07T23:38:01.101085"
     }
   ],
-  "last_updated": "2026-11-07T20:54:02.958552"
+  "last_updated": "2026-11-07T23:38:01.101087"
 }
