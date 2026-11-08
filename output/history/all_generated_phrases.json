@@ -25024,7 +25024,42 @@
       "transliteration": "gor et ha-kovets, shechorer be-adiyut, a sher meher.",
       "category": "Technology",
       "generated_at": "2026-11-08T18:53:08.769254"
+    },
+    {
+      "english": "Hi, can we have the menu, please?",
+      "hebrew": "היי, אפשר את התפריט, בבקשה?",
+      "transliteration": "Hay, efshar et ha-tפריט, bevakasha?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-08T21:11:52.134796"
+    },
+    {
+      "english": "Do you have gluten-free options, today?",
+      "hebrew": "יש לכם אפשרויות ללא גלוטן, היום?",
+      "transliteration": "Yesh lachem efshariyot lo la-gluten, hayom?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-08T21:11:52.134807"
+    },
+    {
+      "english": "I’d like something warm, not too heavy.",
+      "hebrew": "אני רוצה משהו חם, לא כבד מדי.",
+      "transliteration": "Ani rotsе mishеhu kham, lo kaved miday.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-08T21:11:52.134808"
+    },
+    {
+      "english": "What comes with the main dish, exactly?",
+      "hebrew": "מה מגיע עם המנה העיקרית, בדיוק?",
+      "transliteration": "Ma megiya im ha-mana ha-ikarit, vekhdiok?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-08T21:11:52.134809"
+    },
+    {
+      "english": "Please, no onions, I’m sensitive to them.",
+      "hebrew": "בבקשה, בלי בצל, אני רגיש לזה.",
+      "transliteration": "Bevakasha, bli botzal, ani rеgish la-ze.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-08T21:11:52.134810"
     }
   ],
-  "last_updated": "2026-11-08T18:53:08.769256"
+  "last_updated": "2026-11-08T21:11:52.134811"
 }
