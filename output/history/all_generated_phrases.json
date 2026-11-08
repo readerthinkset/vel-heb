@@ -24989,7 +24989,42 @@
       "transliteration": "halev sheli, niftach le'or",
       "category": "Joy",
       "generated_at": "2026-11-08T17:57:30.974606"
+    },
+    {
+      "english": "Say hi, type the password carefully, breathe.",
+      "hebrew": "תגיד שלום, הקלד את הסיסמה בזהירות, תנשום.",
+      "transliteration": "tagid shalom, haked et ha-sisma bi-zehirut, tenneshem.",
+      "category": "Technology",
+      "generated_at": "2026-11-08T18:53:08.769238"
+    },
+    {
+      "english": "Press save, not forever, just for now.",
+      "hebrew": "לחץ שמור, לא לנצח, רק לעכשיו.",
+      "transliteration": "lachatz shmor, lo letzach, rak le-achshav.",
+      "category": "Technology",
+      "generated_at": "2026-11-08T18:53:08.769249"
+    },
+    {
+      "english": "Restart the app, slow down, try again.",
+      "hebrew": "הפעל מחדש את האפליקציה, האט, ונסה שוב.",
+      "transliteration": "hef’al mechadit et ha-eflikatsiya, ha-et, ve-nesah shuv.",
+      "category": "Technology",
+      "generated_at": "2026-11-08T18:53:08.769251"
+    },
+    {
+      "english": "Turn on notifications, choose calm, stay informed.",
+      "hebrew": "הפעל התראות, בחר שלווה, הישאר מעודכן.",
+      "transliteration": "hafeil hatra’ot, behar shlevah, heishar me’udkan.",
+      "category": "Technology",
+      "generated_at": "2026-11-08T18:53:08.769253"
+    },
+    {
+      "english": "Drag the file, release gently, confirm quickly.",
+      "hebrew": "גרור את הקובץ, שחרר בעדינות, אשר מהר.",
+      "transliteration": "gor et ha-kovets, shechorer be-adiyut, a sher meher.",
+      "category": "Technology",
+      "generated_at": "2026-11-08T18:53:08.769254"
     }
   ],
-  "last_updated": "2026-11-08T17:57:30.974607"
+  "last_updated": "2026-11-08T18:53:08.769256"
 }
