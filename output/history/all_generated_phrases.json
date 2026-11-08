@@ -25059,7 +25059,42 @@
       "transliteration": "Bevakasha, bli botzal, ani rеgish la-ze.",
       "category": "Restaurant",
       "generated_at": "2026-11-08T21:11:52.134810"
+    },
+    {
+      "english": "Tonight, breathe slow, listen closer.",
+      "hebrew": "הלילה, תנשום לאט, תקשיב קרוב יותר.",
+      "transliteration": "Halayla, tinneshom laat, takeshiv karov yoter.",
+      "category": "Time",
+      "generated_at": "2026-11-08T23:42:02.780125"
+    },
+    {
+      "english": "Before you rush, look inside, then move.",
+      "hebrew": "לפני שרצים, תסתכל פנימה, ואז תזוז.",
+      "transliteration": "Lifnei she-ratsim, tסתכל pnimah, az tazuz.",
+      "category": "Time",
+      "generated_at": "2026-11-08T23:42:02.780135"
+    },
+    {
+      "english": "Right now, soften your shoulders, keep going.",
+      "hebrew": "עכשיו, תרפה כתפיים, ותמשיך.",
+      "transliteration": "Achshav, terpeh ketefayim, vetamshich.",
+      "category": "Time",
+      "generated_at": "2026-11-08T23:42:02.780137"
+    },
+    {
+      "english": "Take one step, pause, and choose again.",
+      "hebrew": "צעד אחד, עצור, ובחר שוב.",
+      "transliteration": "Tsaad echad, etsor, u-vechor shuv.",
+      "category": "Time",
+      "generated_at": "2026-11-08T23:42:02.780138"
+    },
+    {
+      "english": "In this moment, let your thoughts settle.",
+      "hebrew": "בַּרֶגַע הזה, תן למחשבות לשקוע.",
+      "transliteration": "Ba-rega ha-ze, ten la-machshavot lishko'a.",
+      "category": "Time",
+      "generated_at": "2026-11-08T23:42:02.780139"
     }
   ],
-  "last_updated": "2026-11-08T21:11:52.134811"
+  "last_updated": "2026-11-08T23:42:02.780141"
 }
