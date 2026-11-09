@@ -25094,7 +25094,42 @@
       "transliteration": "Ba-rega ha-ze, ten la-machshavot lishko'a.",
       "category": "Time",
       "generated_at": "2026-11-08T23:42:02.780139"
+    },
+    {
+      "english": "Hello, learning friend, take a breath",
+      "hebrew": "שלום, חבר ללמידה, קח נשימה",
+      "transliteration": "Shalom, haver le-limud, kach neshima",
+      "category": "Greetings",
+      "generated_at": "2026-11-09T06:47:41.246147"
+    },
+    {
+      "english": "Hi there, welcome back, you got this",
+      "hebrew": "היי, ברוך שובך, יש לך את זה",
+      "transliteration": "Hei, baruch shuvcha, yesh lecha et ze",
+      "category": "Greetings",
+      "generated_at": "2026-11-09T06:47:41.246162"
+    },
+    {
+      "english": "Peace to you, start gently, keep going",
+      "hebrew": "שלום אליך, התחל בעדינות, תמשיך",
+      "transliteration": "Shalom elecha, hatchal be-edinuyut, ta'mish",
+      "category": "Greetings",
+      "generated_at": "2026-11-09T06:47:41.246164"
+    },
+    {
+      "english": "Good to meet you, ask questions, smile",
+      "hebrew": "שמח להכיר אותך, שאל שאלות, חייך",
+      "transliteration": "Samach lehakir otcha, she'al she'elot, chayech",
+      "category": "Greetings",
+      "generated_at": "2026-11-09T06:47:41.246165"
+    },
+    {
+      "english": "Hey learner, today we practice, together",
+      "hebrew": "היי לומד, היום מתרגלים, ביחד",
+      "transliteration": "Hei lo-med, hayom me-targelim, yachad",
+      "category": "Greetings",
+      "generated_at": "2026-11-09T06:47:41.246167"
     }
   ],
-  "last_updated": "2026-11-08T23:42:02.780141"
+  "last_updated": "2026-11-09T06:47:41.246168"
 }
