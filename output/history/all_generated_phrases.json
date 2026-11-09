@@ -25129,7 +25129,42 @@
       "transliteration": "Hei lo-med, hayom me-targelim, yachad",
       "category": "Greetings",
       "generated_at": "2026-11-09T06:47:41.246167"
+    },
+    {
+      "english": "Morning mist lifts, like a slow veil.",
+      "hebrew": "ערפל הבוקר עולה, כמו רעלה איטית.",
+      "transliteration": "arpe ha-boker oleh, ke-mo re’alah itit.",
+      "category": "Nature",
+      "generated_at": "2026-11-09T22:25:08.484505"
+    },
+    {
+      "english": "Oaks stretch their branches, toward bright light.",
+      "hebrew": "האלונים מותחים ענפים, אל אור בהיר.",
+      "transliteration": "ha-elahonim motchim anafim, el or bahir.",
+      "category": "Nature",
+      "generated_at": "2026-11-09T22:25:08.484516"
+    },
+    {
+      "english": "A bee circles, then lands on thyme.",
+      "hebrew": "דבורה סובבת, ואז נוחתת על טימין.",
+      "transliteration": "devorah sovevet, ve-az nochetet al timin.",
+      "category": "Nature",
+      "generated_at": "2026-11-09T22:25:08.484517"
+    },
+    {
+      "english": "Moss drinks shade, on the old stump.",
+      "hebrew": "טחב שותה צל, על הגדם הישן.",
+      "transliteration": "tachav shoteh tsel, al ha-gdem ha-yashan.",
+      "category": "Nature",
+      "generated_at": "2026-11-09T22:25:08.484519"
+    },
+    {
+      "english": "A distant waterfall roars, steady and patient.",
+      "hebrew": "מפל רחוק מרעים, יציב וסבלני.",
+      "transliteration": "mef al rachok meira'im, yatsiv ve-sablan i.",
+      "category": "Nature",
+      "generated_at": "2026-11-09T22:25:08.484520"
     }
   ],
-  "last_updated": "2026-11-09T06:47:41.246168"
+  "last_updated": "2026-11-09T22:25:08.484522"
 }
