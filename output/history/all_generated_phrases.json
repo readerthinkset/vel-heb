@@ -25304,7 +25304,42 @@
       "transliteration": "Zuz le'it, shmør al shivui mishkal.",
       "category": "Balance",
       "generated_at": "2026-11-10T07:27:38.086362"
+    },
+    {
+      "english": "I feel nervous, just before I speak.",
+      "hebrew": "אני מרגיש עצבני, ממש לפני שאני מדבר.",
+      "transliteration": "ani margish atzviuni, mish miifnei she-ani medaber",
+      "category": "Feelings",
+      "generated_at": "2026-11-10T08:22:13.111588"
+    },
+    {
+      "english": "My chest feels tight, for no reason.",
+      "hebrew": "הלב שלי מרגיש לחוץ, בלי סיבה.",
+      "transliteration": "ha-lev sheli margish lachuts, bli sivah",
+      "category": "Feelings",
+      "generated_at": "2026-11-10T08:22:13.111603"
+    },
+    {
+      "english": "I’m calmer now, everything feels lighter.",
+      "hebrew": "אני רגוע עכשיו, הכול מרגיש קל יותר.",
+      "transliteration": "ani ragazua akshav, hakol margish kal yoter",
+      "category": "Feelings",
+      "generated_at": "2026-11-10T08:22:13.111604"
+    },
+    {
+      "english": "I feel happy, even though it’s small.",
+      "hebrew": "אני מרגיש שמח, גם אם זה קטן.",
+      "transliteration": "ani margish sameach, gam im ze katan",
+      "category": "Feelings",
+      "generated_at": "2026-11-10T08:22:13.111605"
+    },
+    {
+      "english": "I’m a bit worried about tomorrow.",
+      "hebrew": "אני קצת מודאג לגבי מחר.",
+      "transliteration": "ani kits maduiag le-gabei machar",
+      "category": "Feelings",
+      "generated_at": "2026-11-10T08:22:13.111605"
     }
   ],
-  "last_updated": "2026-11-10T07:27:38.086363"
+  "last_updated": "2026-11-10T08:22:13.111607"
 }
