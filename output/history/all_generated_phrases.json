@@ -25234,7 +25234,42 @@
       "transliteration": "Lifnei ha-se'uda, oserim, zokhrim",
       "category": "Holidays",
       "generated_at": "2026-11-10T00:42:45.258954"
+    },
+    {
+      "english": "Mom, your voice calms my storm, tonight",
+      "hebrew": "אמא, הקול שלך מרגיע את הסערה שלי, הלילה",
+      "transliteration": "Imma, ha-qol shela margi'a et ha-se'arah sheli, halayla",
+      "category": "Family Terms",
+      "generated_at": "2026-11-10T02:43:36.092294"
+    },
+    {
+      "english": "Dad, your jokes sparkle, in every room",
+      "hebrew": "אבא, הבדיחות שלך מנצנצות, בכל חדר",
+      "transliteration": "Aba, ha-bedichot shela menatsntzot, bechol cheder",
+      "category": "Family Terms",
+      "generated_at": "2026-11-10T02:43:36.092302"
+    },
+    {
+      "english": "My mother says, breathe, we’ll be okay",
+      "hebrew": "אמא אומרת, תנשמי, יהיה בסדר",
+      "transliteration": "Imma omeret, tənashmi, yihye beseder",
+      "category": "Family Terms",
+      "generated_at": "2026-11-10T02:43:36.092303"
+    },
+    {
+      "english": "My father whispers, slow down, you’re safe",
+      "hebrew": "אבא לוחש, לאט, אתה בטוח",
+      "transliteration": "Aba loḥesh, leat, ata batuaḥ",
+      "category": "Family Terms",
+      "generated_at": "2026-11-10T02:43:36.092304"
+    },
+    {
+      "english": "Sister, share your secrets, quietly, with me",
+      "hebrew": "אחותי, תספרי לי סודות, בשקט, בבקשה",
+      "transliteration": "Aḥoti, tesapperi li sodot, besheket, bevakashah",
+      "category": "Family Terms",
+      "generated_at": "2026-11-10T02:43:36.092304"
     }
   ],
-  "last_updated": "2026-11-10T00:42:45.258956"
+  "last_updated": "2026-11-10T02:43:36.092306"
 }
