@@ -25409,7 +25409,42 @@
       "transliteration": "Hachesed shelach nishar iti.",
       "category": "Friendship",
       "generated_at": "2026-11-10T20:40:11.408329"
+    },
+    {
+      "english": "Say it slowly, and listen.",
+      "hebrew": "תגיד לאט, ותשמע.",
+      "transliteration": "tagid laat, vetishma.",
+      "category": "Education",
+      "generated_at": "2026-11-10T22:15:20.474547"
+    },
+    {
+      "english": "Try again, even if it’s hard.",
+      "hebrew": "תנסה שוב, גם אם קשה.",
+      "transliteration": "tansé shuv, gam im kashé.",
+      "category": "Education",
+      "generated_at": "2026-11-10T22:15:20.474558"
+    },
+    {
+      "english": "Write one word, then check it.",
+      "hebrew": "תכתוב מילה אחת, ואז תבדוק.",
+      "transliteration": "tichtov milá achat, az tevdeq.",
+      "category": "Education",
+      "generated_at": "2026-11-10T22:15:20.474560"
+    },
+    {
+      "english": "Ask me, I’ll explain.",
+      "hebrew": "תשאל אותי, ואני אסביר.",
+      "transliteration": "teshaal oti, veani asbir.",
+      "category": "Education",
+      "generated_at": "2026-11-10T22:15:20.474562"
+    },
+    {
+      "english": "Read quietly, let it sink in.",
+      "hebrew": "תקרא בשקט, ותן לזה להיכנס.",
+      "transliteration": "tikra besheket, ten laze lehikanés.",
+      "category": "Education",
+      "generated_at": "2026-11-10T22:15:20.474563"
     }
   ],
-  "last_updated": "2026-11-10T20:40:11.408331"
+  "last_updated": "2026-11-10T22:15:20.474565"
 }
