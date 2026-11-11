@@ -25514,7 +25514,42 @@
       "transliteration": "Shevu laTe, tisharu od ktzat.",
       "category": "Culture",
       "generated_at": "2026-11-11T05:26:24.725577"
+    },
+    {
+      "english": "Can we review the agenda?",
+      "hebrew": "אפשר לסקור את סדר היום?",
+      "transliteration": "Efshar lesakor et seder hayom?",
+      "category": "Work",
+      "generated_at": "2026-11-11T19:17:24.742040"
+    },
+    {
+      "english": "I’ll send the file after lunch.",
+      "hebrew": "אשלח את הקובץ אחרי הצהריים.",
+      "transliteration": "Eslach et hakovetz acharei hatsohorayim.",
+      "category": "Work",
+      "generated_at": "2026-11-11T19:17:24.742051"
+    },
+    {
+      "english": "Please update me on the progress.",
+      "hebrew": "בבקשה תעדכן אותי על ההתקדמות.",
+      "transliteration": "Bevakasha ta'aden oti al hahitkadvut.",
+      "category": "Work",
+      "generated_at": "2026-11-11T19:17:24.742053"
+    },
+    {
+      "english": "We should confirm the meeting time.",
+      "hebrew": "כדאי לאשר את שעת הפגישה.",
+      "transliteration": "Kday le'aser et sha'at hagisha.",
+      "category": "Work",
+      "generated_at": "2026-11-11T19:17:24.742055"
+    },
+    {
+      "english": "Can you share your thoughts?",
+      "hebrew": "אפשר לשמוע את המחשבות שלך?",
+      "transliteration": "Efshar lishmoa et hamachshavot shelkha?",
+      "category": "Work",
+      "generated_at": "2026-11-11T19:17:24.742057"
     }
   ],
-  "last_updated": "2026-11-11T05:26:24.725579"
+  "last_updated": "2026-11-11T19:17:24.742059"
 }
