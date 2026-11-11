@@ -25444,7 +25444,42 @@
       "transliteration": "tikra besheket, ten laze lehikanés.",
       "category": "Education",
       "generated_at": "2026-11-10T22:15:20.474563"
+    },
+    {
+      "english": "Thank you, I appreciate you.",
+      "hebrew": "תודה, אני מעריך אותך.",
+      "transliteration": "Toda, ani meערich otcha.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T00:30:51.254263"
+    },
+    {
+      "english": "You matter, and so do I.",
+      "hebrew": "את חשובה, וגם אני.",
+      "transliteration": "At chashuva, vegam ani.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T00:30:51.254278"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "hebrew": "קח",
+      "transliteration": "Kecha/chi et hazman, bli lachatz.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T00:30:51.254280"
+    },
+    {
+      "english": "I’m here for you, always.",
+      "hebrew": "אני כאן בשבילך, תמיד.",
+      "transliteration": "Ani kan bishvilach, tamid.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T00:30:51.254280"
+    },
+    {
+      "english": "Wishing you a good day.",
+      "hebrew": "מאחל",
+      "transliteration": "Mechal/elach yom tov.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T00:30:51.254281"
     }
   ],
-  "last_updated": "2026-11-10T22:15:20.474565"
+  "last_updated": "2026-11-11T00:30:51.254283"
 }
