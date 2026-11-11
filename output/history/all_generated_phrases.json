@@ -25584,7 +25584,42 @@
       "transliteration": "Avoda yafa, tishar im ha'mishpat.",
       "category": "Success",
       "generated_at": "2026-11-11T20:59:13.948001"
+    },
+    {
+      "english": "My head hurts today, a lot.",
+      "hebrew": "הכאב לי בראש היום, מאוד.",
+      "transliteration": "Ha-khav li ba-rosh hayom, me-od.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-11T23:25:16.384243"
+    },
+    {
+      "english": "She covers her eyes from light.",
+      "hebrew": "היא מכסה את עיניה מהאור.",
+      "transliteration": "Hee mekasseet et ei-neha me-ha-or.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-11T23:25:16.384255"
+    },
+    {
+      "english": "I rubbed my temples, tired again.",
+      "hebrew": "שפשפתי את הרקות שלי, שוב עייף.",
+      "transliteration": "Shif-shaf-ti et ha-re-kot she-li, shuv ai-fe.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-11T23:25:16.384257"
+    },
+    {
+      "english": "His shoulders feel heavy after work.",
+      "hebrew": "הכתפיים שלו מרגישות כבדות אחרי עבודה.",
+      "transliteration": "Ha-kte-fa-yim she-lo מרגישות ke-do-t after a-vo-da.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-11T23:25:16.384258"
+    },
+    {
+      "english": "Her arm aches, she stretches slowly.",
+      "hebrew": "כואב לה הזרוע, היא נמתחת לאט.",
+      "transliteration": "Ko-ev la ha-ze-ru-a, hee nimmat-chat la-at.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-11T23:25:16.384259"
     }
   ],
-  "last_updated": "2026-11-11T20:59:13.948003"
+  "last_updated": "2026-11-11T23:25:16.384261"
 }
