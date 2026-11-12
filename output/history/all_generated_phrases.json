@@ -25654,7 +25654,42 @@
       "transliteration": "Ani mefarysh kesef la-cheshbonot.",
       "category": "Finance",
       "generated_at": "2026-11-12T01:52:53.797031"
+    },
+    {
+      "english": "Where is the train station, please?",
+      "hebrew": "איפה תחנת הרכבת, בבקשה?",
+      "transliteration": "Eifo tachat ha-rakevet, bevakasha?",
+      "category": "Travel",
+      "generated_at": "2026-11-12T06:30:56.392941"
+    },
+    {
+      "english": "How do I get to the museum?",
+      "hebrew": "איך מגיעים למוזיאון?",
+      "transliteration": "Eich magi'im le-muze'on?",
+      "category": "Travel",
+      "generated_at": "2026-11-12T06:30:56.392955"
+    },
+    {
+      "english": "What time does it open, today?",
+      "hebrew": "באיזו שעה זה נפתח היום?",
+      "transliteration": "Be'izu sha'ah ze nif'tach hayom?",
+      "category": "Travel",
+      "generated_at": "2026-11-12T06:30:56.392956"
+    },
+    {
+      "english": "Is there a restroom nearby, please?",
+      "hebrew": "יש שירותים בקרבת מקום, בבקשה?",
+      "transliteration": "Yesh sherutim bik'rat makom, bevakasha?",
+      "category": "Travel",
+      "generated_at": "2026-11-12T06:30:56.392957"
+    },
+    {
+      "english": "I’d like water, please, no ice.",
+      "hebrew": "אפשר מים, בבקשה, בלי קרח.",
+      "transliteration": "Efshar mayim, bevakasha, bli karach.",
+      "category": "Travel",
+      "generated_at": "2026-11-12T06:30:56.392959"
     }
   ],
-  "last_updated": "2026-11-12T01:52:53.797033"
+  "last_updated": "2026-11-12T06:30:56.392960"
 }
