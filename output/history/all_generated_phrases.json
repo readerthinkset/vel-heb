@@ -25619,7 +25619,42 @@
       "transliteration": "Ko-ev la ha-ze-ru-a, hee nimmat-chat la-at.",
       "category": "Body Parts",
       "generated_at": "2026-11-11T23:25:16.384259"
+    },
+    {
+      "english": "I’ll check my account before I buy.",
+      "hebrew": "אני אבדוק את החשבון לפני קנייה.",
+      "transliteration": "Ani avdeq et ha-cheshbon lifne kiyyah.",
+      "category": "Finance",
+      "generated_at": "2026-11-12T01:52:53.797013"
+    },
+    {
+      "english": "Today, I’ll save a little more.",
+      "hebrew": "היום, אני אחסוך קצת יותר.",
+      "transliteration": "Hayom, ani achsok kzat yoter.",
+      "category": "Finance",
+      "generated_at": "2026-11-12T01:52:53.797026"
+    },
+    {
+      "english": "Let’s compare prices, before choosing anything.",
+      "hebrew": "בוא נשווה מחירים, לפני שבוחרים משהו.",
+      "transliteration": "Be yavn'asveh mekhirîm, lifne she-v'vocharim mashehu.",
+      "category": "Finance",
+      "generated_at": "2026-11-12T01:52:53.797028"
+    },
+    {
+      "english": "My plan is simple, spend less.",
+      "hebrew": "התוכנית שלי פשוטה, להוציא פחות.",
+      "transliteration": "Ha-tokhnit sheli pasutah, lehotsi pochot.",
+      "category": "Finance",
+      "generated_at": "2026-11-12T01:52:53.797029"
+    },
+    {
+      "english": "I’m setting aside money for bills.",
+      "hebrew": "אני מפריש כסף לחשבונות.",
+      "transliteration": "Ani mefarysh kesef la-cheshbonot.",
+      "category": "Finance",
+      "generated_at": "2026-11-12T01:52:53.797031"
     }
   ],
-  "last_updated": "2026-11-11T23:25:16.384261"
+  "last_updated": "2026-11-12T01:52:53.797033"
 }
