@@ -25794,7 +25794,42 @@
       "transliteration": "tivchar netiv, al temaher.",
       "category": "Sports",
       "generated_at": "2026-11-12T22:40:23.024236"
+    },
+    {
+      "english": "Sing it with me, now.",
+      "hebrew": "שַׁר אִתִּי, עַכְשָׁיו.",
+      "transliteration": "Shar iti, akhshav.",
+      "category": "Music",
+      "generated_at": "2026-11-13T00:58:31.398658"
+    },
+    {
+      "english": "Let the song carry you gently.",
+      "hebrew": "תן לשיר לשאת אותך בעדינות.",
+      "transliteration": "Ten la-shir la-sot etkha be-edinut.",
+      "category": "Music",
+      "generated_at": "2026-11-13T00:58:31.398671"
+    },
+    {
+      "english": "Feel the beat in your chest.",
+      "hebrew": "הַרְגֵּשׁ אֶת הַדּוֹפֶק בַּחוֹתָם.",
+      "transliteration": "Hargesh et ha-dopek ba-kho-tam.",
+      "category": "Music",
+      "generated_at": "2026-11-13T00:58:31.398673"
+    },
+    {
+      "english": "Clap once, then follow the rhythm.",
+      "hebrew": "תמחא כַּף אַחַת, וְאַחַר כָּךְ תִּתְפּוֹס קֶצֶב.",
+      "transliteration": "Tmach a kaf echad, ve-acher kakh titpos ketsav.",
+      "category": "Music",
+      "generated_at": "2026-11-13T00:58:31.398675"
+    },
+    {
+      "english": "That chorus feels like home.",
+      "hebrew": "הַפְּרֵטָה הַזֹּאת מַרְגִּישָׁה כְּמוֹ בַּיִת.",
+      "transliteration": "Ha-pre-ta ha-zot margisha kmo ba-yit.",
+      "category": "Music",
+      "generated_at": "2026-11-13T00:58:31.398680"
     }
   ],
-  "last_updated": "2026-11-12T22:40:23.024238"
+  "last_updated": "2026-11-13T00:58:31.398682"
 }
