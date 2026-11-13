@@ -25934,7 +25934,42 @@
       "transliteration": "Chamesh dakot, rak t'chakheh li.",
       "category": "Numbers",
       "generated_at": "2026-11-13T20:42:47.427199"
+    },
+    {
+      "english": "A gentle dog, waits by the door.",
+      "hebrew": "כלב עדין, מחכה ליד הדלת.",
+      "transliteration": "kelev adin, mekhakeh yad ha-delet",
+      "category": "Animals",
+      "generated_at": "2026-11-13T22:29:25.726225"
+    },
+    {
+      "english": "The horse trots, through the morning fog.",
+      "hebrew": "הסוס דוהר, דרך ערפל הבוקר.",
+      "transliteration": "ha-sus doher, derekh arafel ha-boker",
+      "category": "Animals",
+      "generated_at": "2026-11-13T22:29:25.726237"
+    },
+    {
+      "english": "A cow chews, slowly in the field.",
+      "hebrew": "פרה לועסת, לאט בשדה.",
+      "transliteration": "parah lo'este, la'at basadeh",
+      "category": "Animals",
+      "generated_at": "2026-11-13T22:29:25.726239"
+    },
+    {
+      "english": "The sheep follows, as you walk ahead.",
+      "hebrew": "הכבש עוקב, כשאתם הולכים קדימה.",
+      "transliteration": "ha-keves okev, ke-she-atem holekhim kadimah",
+      "category": "Animals",
+      "generated_at": "2026-11-13T22:29:25.726241"
+    },
+    {
+      "english": "A goat jumps, onto the rocky path.",
+      "hebrew": "עז קופצת, אל הנתיב הסלעי.",
+      "transliteration": "ez kofetz, el ha-netiv ha-se'layi",
+      "category": "Animals",
+      "generated_at": "2026-11-13T22:29:25.726242"
     }
   ],
-  "last_updated": "2026-11-13T20:42:47.427201"
+  "last_updated": "2026-11-13T22:29:25.726244"
 }
