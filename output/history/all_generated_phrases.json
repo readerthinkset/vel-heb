@@ -26039,7 +26039,42 @@
       "transliteration": "Tiv-tach ba-ta-halikh, po va-sham tze-ad.",
       "category": "Patience",
       "generated_at": "2026-11-14T05:39:26.370870"
+    },
+    {
+      "english": "In an hour, I'll call you.",
+      "hebrew": "בעוד שעה, אתקשר אליך.",
+      "transliteration": "Be'od sha'a, etקשר elecha.",
+      "category": "Time",
+      "generated_at": "2026-11-14T17:42:53.072972"
+    },
+    {
+      "english": "Wait, I’m almost ready now.",
+      "hebrew": "רגע, אני כמעט מוכן עכשיו.",
+      "transliteration": "Reg'a, ani k'maat muchan akhshav.",
+      "category": "Time",
+      "generated_at": "2026-11-14T17:42:53.072988"
+    },
+    {
+      "english": "Before we go, let's check.",
+      "hebrew": "לפני שיוצאים, נבדוק.",
+      "transliteration": "Lifnei sheyotzim, navdok.",
+      "category": "Time",
+      "generated_at": "2026-11-14T17:42:53.072990"
+    },
+    {
+      "english": "Right away, please answer me.",
+      "hebrew": "מיד, תענה לי בבקשה.",
+      "transliteration": "Mi ad, taane li bevakasha.",
+      "category": "Time",
+      "generated_at": "2026-11-14T17:42:53.072992"
+    },
+    {
+      "english": "Tonight, we’ll meet after work.",
+      "hebrew": "ערב, נפגש אחרי העבודה.",
+      "transliteration": "Erev, nifgash akharei ha'avodah.",
+      "category": "Time",
+      "generated_at": "2026-11-14T17:42:53.072993"
     }
   ],
-  "last_updated": "2026-11-14T05:39:26.370872"
+  "last_updated": "2026-11-14T17:42:53.072998"
 }
