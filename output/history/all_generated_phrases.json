@@ -26179,7 +26179,42 @@
       "transliteration": "Elohim yevarekh et mishpachatekha hayom",
       "category": "Holidays",
       "generated_at": "2026-11-14T23:46:50.575515"
+    },
+    {
+      "english": "Please, pass me the bread.",
+      "hebrew": "בבקשה, תעביר לי את הלחם.",
+      "transliteration": "bevakasha, ta'avir li et halechem",
+      "category": "Food",
+      "generated_at": "2026-11-15T05:39:06.439760"
+    },
+    {
+      "english": "Can I have some salad, too?",
+      "hebrew": "אפשר גם קצת סלט, בבקשה?",
+      "transliteration": "efshar gam kzat salat, bevakasha",
+      "category": "Food",
+      "generated_at": "2026-11-15T05:39:06.439773"
+    },
+    {
+      "english": "It’s crunchy, and not too oily.",
+      "hebrew": "זה פריך, ולא שמנוני מדי.",
+      "transliteration": "ze pharil, velo shmnoní miday",
+      "category": "Food",
+      "generated_at": "2026-11-15T05:39:06.439775"
+    },
+    {
+      "english": "I love the lemony aroma.",
+      "hebrew": "אני אוהב את הריח של הלימון.",
+      "transliteration": "ani ohev et hareiakh shel halemon",
+      "category": "Food",
+      "generated_at": "2026-11-15T05:39:06.439776"
+    },
+    {
+      "english": "This dish is great for sharing.",
+      "hebrew": "המאכל הזה מעולה לשיתוף.",
+      "transliteration": "hamaakh hazeh meula leshituf",
+      "category": "Food",
+      "generated_at": "2026-11-15T05:39:06.439781"
     }
   ],
-  "last_updated": "2026-11-14T23:46:50.575520"
+  "last_updated": "2026-11-15T05:39:06.439783"
 }
