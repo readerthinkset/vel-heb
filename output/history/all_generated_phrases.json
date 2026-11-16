@@ -26319,7 +26319,42 @@
       "transliteration": "Tarpeh be-idin, lo vav at achat.",
       "category": "Balance",
       "generated_at": "2026-11-15T21:37:20.640788"
+    },
+    {
+      "english": "Do you have this in black?",
+      "hebrew": "יש לך את זה בשחור?",
+      "transliteration": "yesh lekha et ze bishchor?",
+      "category": "Shopping",
+      "generated_at": "2026-11-15T23:52:29.596740"
+    },
+    {
+      "english": "Where is the changing room?",
+      "hebrew": "איפה חדר המדידה?",
+      "transliteration": "eifo khader ha-medida?",
+      "category": "Shopping",
+      "generated_at": "2026-11-15T23:52:29.596752"
+    },
+    {
+      "english": "Do you have it in size M?",
+      "hebrew": "יש לך את זה במידה M?",
+      "transliteration": "yesh lekha et ze b-mi'da M?",
+      "category": "Shopping",
+      "generated_at": "2026-11-15T23:52:29.596754"
+    },
+    {
+      "english": "Is the fabric soft and comfortable?",
+      "hebrew": "הבד רך ונוח?",
+      "transliteration": "ha-bad rak ve-nokh?",
+      "category": "Shopping",
+      "generated_at": "2026-11-15T23:52:29.596755"
+    },
+    {
+      "english": "Can I see it in person?",
+      "hebrew": "אפשר לראות את זה מקרוב?",
+      "transliteration": "efshar lirot et ze mi-krov?",
+      "category": "Shopping",
+      "generated_at": "2026-11-15T23:52:29.596757"
     }
   ],
-  "last_updated": "2026-11-15T21:37:20.640790"
+  "last_updated": "2026-11-15T23:52:29.596759"
 }
