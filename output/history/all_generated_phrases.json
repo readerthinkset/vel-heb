@@ -26424,7 +26424,42 @@
       "transliteration": "Ani neheneh me-ha-sheket, akhshav.",
       "category": "Happiness",
       "generated_at": "2026-11-16T21:41:55.845025"
+    },
+    {
+      "english": "Say it slowly, with a smile.",
+      "hebrew": "תגיד לאט, עם חיוך.",
+      "transliteration": "tagid leat, im חיוך",
+      "category": "Education",
+      "generated_at": "2026-11-16T23:07:18.161757"
+    },
+    {
+      "english": "Try once more, you can do it.",
+      "hebrew": "תנסה שוב, אתה יכול.",
+      "transliteration": "t'ansheiv shuv, atah yachol",
+      "category": "Education",
+      "generated_at": "2026-11-16T23:07:18.161773"
+    },
+    {
+      "english": "Read the sentence, then repeat it.",
+      "hebrew": "קרא את המשפט, ואז חזור.",
+      "transliteration": "kra et ha-mishpat, ve-az chozer",
+      "category": "Education",
+      "generated_at": "2026-11-16T23:07:18.161775"
+    },
+    {
+      "english": "Underline the new word for later.",
+      "hebrew": "תסמן את המילה החדשה אחר כך.",
+      "transliteration": "tasmen et ha-milah ha-chadashah aḥar kakh",
+      "category": "Education",
+      "generated_at": "2026-11-16T23:07:18.161777"
+    },
+    {
+      "english": "Ask why, I’ll explain simply.",
+      "hebrew": "שאל למה, אני אסביר פשוט.",
+      "transliteration": "sha'al lamah, ani asbir pashut",
+      "category": "Education",
+      "generated_at": "2026-11-16T23:07:18.161779"
     }
   ],
-  "last_updated": "2026-11-16T21:41:55.845027"
+  "last_updated": "2026-11-16T23:07:18.161782"
 }
