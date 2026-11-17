@@ -26529,7 +26529,42 @@
       "transliteration": "Tagid ken, ve-tis-mokh al atzmecha.",
       "category": "Courage",
       "generated_at": "2026-11-17T02:50:51.797330"
+    },
+    {
+      "english": "Let water wake your body.",
+      "hebrew": "תן",
+      "transliteration": "Ten/ni la-mayim la-aer et ha-guf.",
+      "category": "Health",
+      "generated_at": "2026-11-17T07:15:02.314819"
+    },
+    {
+      "english": "Close your eyes, breathe slowly.",
+      "hebrew": "עצום",
+      "transliteration": "Etzom/י einayim, neshom/י la-ot.",
+      "category": "Health",
+      "generated_at": "2026-11-17T07:15:02.314839"
+    },
+    {
+      "english": "Relax your jaw, soften your face.",
+      "hebrew": "הרֵף",
+      "transliteration": "h’eraf/י et ha-laseṭ, rakh-eikh/י et ha-panım.",
+      "category": "Health",
+      "generated_at": "2026-11-17T07:15:02.314840"
+    },
+    {
+      "english": "Unclench your hands, release tension.",
+      "hebrew": "שחרר",
+      "transliteration": "Shachrer/י et ha-yadayim, tesharcher/י la-ṣef.",
+      "category": "Health",
+      "generated_at": "2026-11-17T07:15:02.314842"
+    },
+    {
+      "english": "Shoulders down, slow exhale now.",
+      "hebrew": "כתפיים למטה, נשיפה איטית עכשיו.",
+      "transliteration": "Ketפayim lemata, neshifa itit akhshav.",
+      "category": "Health",
+      "generated_at": "2026-11-17T07:15:02.314843"
     }
   ],
-  "last_updated": "2026-11-17T02:50:51.797332"
+  "last_updated": "2026-11-17T07:15:02.314845"
 }
