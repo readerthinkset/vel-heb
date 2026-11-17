@@ -26459,7 +26459,42 @@
       "transliteration": "sha'al lamah, ani asbir pashut",
       "category": "Education",
       "generated_at": "2026-11-16T23:07:18.161779"
+    },
+    {
+      "english": "Let’s start working now, please.",
+      "hebrew": "בואו נתחיל לעבוד עכשיו, בבקשה.",
+      "transliteration": "Beva na'tchil la'avod akshav, bevakasha.",
+      "category": "Work",
+      "generated_at": "2026-11-17T00:43:25.185621"
+    },
+    {
+      "english": "I’ll handle the first part.",
+      "hebrew": "אני אתמודד עם החלק הראשון.",
+      "transliteration": "Ani atmoded im ha-chelek ha-rishon.",
+      "category": "Work",
+      "generated_at": "2026-11-17T00:43:25.185638"
+    },
+    {
+      "english": "Please share the latest draft.",
+      "hebrew": "בבקשה תשתף את הטיוטה האחרונה.",
+      "transliteration": "Bavakasha tishtef et hati'uta ha-achrona.",
+      "category": "Work",
+      "generated_at": "2026-11-17T00:43:25.185639"
+    },
+    {
+      "english": "Can you check these numbers quickly?",
+      "hebrew": "אפשר לבדוק את המספרים מהר?",
+      "transliteration": "Efshar levadaq et ha-misparim meher?",
+      "category": "Work",
+      "generated_at": "2026-11-17T00:43:25.185640"
+    },
+    {
+      "english": "I’m stuck, can you help?",
+      "hebrew": "אני תקוע, אפשר עזרה?",
+      "transliteration": "Ani tu'ua, efshar ezra?",
+      "category": "Work",
+      "generated_at": "2026-11-17T00:43:25.185640"
     }
   ],
-  "last_updated": "2026-11-16T23:07:18.161782"
+  "last_updated": "2026-11-17T00:43:25.185642"
 }
