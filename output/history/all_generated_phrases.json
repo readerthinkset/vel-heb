@@ -26809,7 +26809,42 @@
       "transliteration": "al te'targem, rak tevin et ha-hekeshar.",
       "category": "Growth",
       "generated_at": "2026-11-18T21:40:29.288921"
+    },
+    {
+      "english": "The sky looks heavy with rain, today.",
+      "hebrew": "השמיים נראים כבדים מגשם, היום.",
+      "transliteration": "Hashamayim nir'im kvedim mi-geshem, hayom.",
+      "category": "Weather",
+      "generated_at": "2026-11-18T23:25:00.656863"
+    },
+    {
+      "english": "Clouds gather quickly, and the air cools.",
+      "hebrew": "העננים נאספים מהר, והאוויר מתקרר.",
+      "transliteration": "Ha-ananīm ne'esafim meher, ve-ha'avir mitkarer.",
+      "category": "Weather",
+      "generated_at": "2026-11-18T23:25:00.656882"
+    },
+    {
+      "english": "It’s breezy outside, even in the sun.",
+      "hebrew": "יש רוח בחוץ, אפילו בשמש.",
+      "transliteration": "Yesh ruach ba-chutz, afilu ba-shemesh.",
+      "category": "Weather",
+      "generated_at": "2026-11-18T23:25:00.656884"
+    },
+    {
+      "english": "The wind knocks, softly, at the window.",
+      "hebrew": "הרוח דופקת בעדינות, על החלון.",
+      "transliteration": "Ha-ruach dopeket be-idad, al ha-chalon.",
+      "category": "Weather",
+      "generated_at": "2026-11-18T23:25:00.656886"
+    },
+    {
+      "english": "I hear rain coming, from far away.",
+      "hebrew": "אני שומע את הגשם בא, ממרחק.",
+      "transliteration": "Ani shomea et ha-geshem ba, mi-merchak.",
+      "category": "Weather",
+      "generated_at": "2026-11-18T23:25:00.656888"
     }
   ],
-  "last_updated": "2026-11-18T21:40:29.288923"
+  "last_updated": "2026-11-18T23:25:00.656890"
 }
