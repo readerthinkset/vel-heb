@@ -26669,7 +26669,42 @@
       "transliteration": "Ha-ktef shel i kave' et ki she-ani yoshev.",
       "category": "Body Parts",
       "generated_at": "2026-11-17T23:48:38.572773"
+    },
+    {
+      "english": "Stand tall, even when it's hard.",
+      "hebrew": "עמוד זקוף, גם כשקשה.",
+      "transliteration": "amod zakūf, gam she'kashé",
+      "category": "Strength",
+      "generated_at": "2026-11-18T02:30:43.504289"
+    },
+    {
+      "english": "Breathe, and keep going, one step.",
+      "hebrew": "נשום, והמשכֵה, צעד אחד.",
+      "transliteration": "neshum, ve'himshikh, tséad echad",
+      "category": "Strength",
+      "generated_at": "2026-11-18T02:30:43.504307"
+    },
+    {
+      "english": "You can do it, again.",
+      "hebrew": "אתה יכול, שוב.",
+      "transliteration": "ata yachol, shuv",
+      "category": "Strength",
+      "generated_at": "2026-11-18T02:30:43.504309"
+    },
+    {
+      "english": "Take your time, don't rush yourself.",
+      "hebrew": "קח את הזמן, אל תמהר.",
+      "transliteration": "kach et hazman, al timaHer",
+      "category": "Strength",
+      "generated_at": "2026-11-18T02:30:43.504311"
+    },
+    {
+      "english": "Stay kind, and stay strong.",
+      "hebrew": "הישארו טובים, והישארו חזקים.",
+      "transliteration": "heisharu tovim, veheisharu chazakim",
+      "category": "Strength",
+      "generated_at": "2026-11-18T02:30:43.504312"
     }
   ],
-  "last_updated": "2026-11-17T23:48:38.572775"
+  "last_updated": "2026-11-18T02:30:43.504314"
 }
