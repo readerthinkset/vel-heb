@@ -26774,7 +26774,42 @@
       "transliteration": "Bo’u im te’avon, ba-bayit mevaselim.",
       "category": "Culture",
       "generated_at": "2026-11-18T20:01:33.120570"
+    },
+    {
+      "english": "Say it slowly, then speed up.",
+      "hebrew": "תגיד לאט, ואז תאיץ.",
+      "transliteration": "tagid la'at, v'az ta'atz.",
+      "category": "Growth",
+      "generated_at": "2026-11-18T21:40:29.288904"
+    },
+    {
+      "english": "Repeat the phrase, until it clicks.",
+      "hebrew": "חזור על המשפט, עד שזה ננעל.",
+      "transliteration": "chor al ha-mishpat, ad she-zeh ni'ne'al.",
+      "category": "Growth",
+      "generated_at": "2026-11-18T21:40:29.288917"
+    },
+    {
+      "english": "Ask a simple question, start small.",
+      "hebrew": "שאל שאלה פשוטה, תתחיל קטן.",
+      "transliteration": "sha'al she'ela pshutah, tetchila katan.",
+      "category": "Growth",
+      "generated_at": "2026-11-18T21:40:29.288919"
+    },
+    {
+      "english": "Today, use one new word.",
+      "hebrew": "היום, תשתמש במילה חדשה אחת.",
+      "transliteration": "hayom, testamesh b'milah chadashah achat.",
+      "category": "Growth",
+      "generated_at": "2026-11-18T21:40:29.288920"
+    },
+    {
+      "english": "Don’t translate, just understand the context.",
+      "hebrew": "אל תתרגם, רק תבין את ההקשר.",
+      "transliteration": "al te'targem, rak tevin et ha-hekeshar.",
+      "category": "Growth",
+      "generated_at": "2026-11-18T21:40:29.288921"
     }
   ],
-  "last_updated": "2026-11-18T20:01:33.120572"
+  "last_updated": "2026-11-18T21:40:29.288923"
 }
