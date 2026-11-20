@@ -27054,7 +27054,42 @@
       "transliteration": "Hei, sameakh she-higaat la-kan.",
       "category": "Greetings",
       "generated_at": "2026-11-20T01:43:32.944013"
+    },
+    {
+      "english": "The sparrow hops, then looks around.",
+      "hebrew": "הדרור קופץ, ואז מביט מסביב.",
+      "transliteration": "ha-daror kopets, ve-az me-bit misaviv.",
+      "category": "Animals",
+      "generated_at": "2026-11-20T06:29:05.213902"
+    },
+    {
+      "english": "A blackbird sings, early in the garden.",
+      "hebrew": "קיכלי שר, מוקדם בגינה.",
+      "transliteration": "ki-chli share, meukdam ba-gina.",
+      "category": "Animals",
+      "generated_at": "2026-11-20T06:29:05.213916"
+    },
+    {
+      "english": "The seagull circles, over the sea.",
+      "hebrew": "ה שחף מרחף, מעל הים.",
+      "transliteration": "ha-shahef me-rachef, me-al ha-yam.",
+      "category": "Animals",
+      "generated_at": "2026-11-20T06:29:05.213918"
+    },
+    {
+      "english": "A turtle moves slowly, toward the shade.",
+      "hebrew": "צָב זוחל לאט, לכיוון הצל.",
+      "transliteration": "tzav zo-chel it, le-khivun ha-tzel.",
+      "category": "Animals",
+      "generated_at": "2026-11-20T06:29:05.213920"
+    },
+    {
+      "english": "The frog croaks, from the pond.",
+      "hebrew": "צפרדע מקרקרת, מתוך הבריכה.",
+      "transliteration": "tsfar-dea mekarek-et, mitoch ha-bri-kkha.",
+      "category": "Animals",
+      "generated_at": "2026-11-20T06:29:05.213921"
     }
   ],
-  "last_updated": "2026-11-20T01:43:32.944015"
+  "last_updated": "2026-11-20T06:29:05.213923"
 }
