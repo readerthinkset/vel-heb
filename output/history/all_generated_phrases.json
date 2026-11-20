@@ -27124,7 +27124,42 @@
       "transliteration": "tagid ma she'ata tsarikh, rau'ach.",
       "category": "Self Improvement",
       "generated_at": "2026-11-20T19:39:42.646892"
+    },
+    {
+      "english": "This bread is still warm.",
+      "hebrew": "הלחם הזה עדיין חם.",
+      "transliteration": "ha-lechem ha-zeh od yeisham cham",
+      "category": "Food",
+      "generated_at": "2026-11-20T21:37:54.423758"
+    },
+    {
+      "english": "The noodles are perfectly springy.",
+      "hebrew": "האטריות בדיוק קפיציות.",
+      "transliteration": "ha-itr iyot b-diuk tzapitsi-ot",
+      "category": "Food",
+      "generated_at": "2026-11-20T21:37:54.423778"
+    },
+    {
+      "english": "Can I get extra onions, please?",
+      "hebrew": "אפשר עוד בצל, בבקשה?",
+      "transliteration": "efshar od betzal, bevakasha?",
+      "category": "Food",
+      "generated_at": "2026-11-20T21:37:54.423780"
+    },
+    {
+      "english": "I love the smoky flavor.",
+      "hebrew": "אני אוהב את הטעם המעושן.",
+      "transliteration": "ani ohev et ha-taam ha-meu'shan",
+      "category": "Food",
+      "generated_at": "2026-11-20T21:37:54.423782"
+    },
+    {
+      "english": "This hummus is super creamy.",
+      "hebrew": "החומוס הזה ממש קרמי.",
+      "transliteration": "ha-chumus ha-zeh mamash kremi",
+      "category": "Food",
+      "generated_at": "2026-11-20T21:37:54.423784"
     }
   ],
-  "last_updated": "2026-11-20T19:39:42.646897"
+  "last_updated": "2026-11-20T21:37:54.423787"
 }
