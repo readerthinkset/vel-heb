@@ -27159,7 +27159,42 @@
       "transliteration": "ha-chumus ha-zeh mamash kremi",
       "category": "Food",
       "generated_at": "2026-11-20T21:37:54.423784"
+    },
+    {
+      "english": "Joy is here, right now.",
+      "hebrew": "הַשִּׂמְחָה כָּאן, עַכְשָׁיו.",
+      "transliteration": "ha-simcha kaan, akhshav.",
+      "category": "Joy",
+      "generated_at": "2026-11-20T23:01:27.465703"
+    },
+    {
+      "english": "I’m smiling, it feels lighter.",
+      "hebrew": "אֲנִי מְחַיֵּךְ, הַכֹּל נִרְאֶה קַל יוֹתֵר.",
+      "transliteration": "ani mekhayekh, hakol nir’e kal yoter.",
+      "category": "Joy",
+      "generated_at": "2026-11-20T23:01:27.465714"
+    },
+    {
+      "english": "Today feels bright, inside me.",
+      "hebrew": "הַיּוֹם מַרְגִּישׁ בָּהִיר, בְּתוֹךְ לִי.",
+      "transliteration": "hayom margish bahir, betokh li.",
+      "category": "Joy",
+      "generated_at": "2026-11-20T23:01:27.465716"
+    },
+    {
+      "english": "I’m grateful, and my heart warms.",
+      "hebrew": "אֲנִי מוֹדֶה, וְהַלֵּב מִתְחַמֵּם.",
+      "transliteration": "ani modeh, ve-ha-lev mitkhammem.",
+      "category": "Joy",
+      "generated_at": "2026-11-20T23:01:27.465718"
+    },
+    {
+      "english": "Something good, is happening to me.",
+      "hebrew": "מַשֶּׁהוּ טוֹב, קוֹרֶה לִי.",
+      "transliteration": "mashehu tov, koreh li.",
+      "category": "Joy",
+      "generated_at": "2026-11-20T23:01:27.465719"
     }
   ],
-  "last_updated": "2026-11-20T21:37:54.423787"
+  "last_updated": "2026-11-20T23:01:27.465722"
 }
