@@ -27019,7 +27019,42 @@
       "transliteration": "Ani lo mavin, efshar lehshevir?",
       "category": "Common Expressions",
       "generated_at": "2026-11-19T23:28:14.729876"
+    },
+    {
+      "english": "Hello! Nice to meet you today.",
+      "hebrew": "שלום! נעים להכיר אותך היום.",
+      "transliteration": "Shalom! na'im lehakِir otkha hayom.",
+      "category": "Greetings",
+      "generated_at": "2026-11-20T01:43:32.943995"
+    },
+    {
+      "english": "Hi there, welcome to Hebrew practice.",
+      "hebrew": "היי, ברוך הבא ללימוד עברית.",
+      "transliteration": "Hei, barukh haba le-limud ivrit.",
+      "category": "Greetings",
+      "generated_at": "2026-11-20T01:43:32.944008"
+    },
+    {
+      "english": "Good morning, let's begin with a smile.",
+      "hebrew": "בוקר טוב, מתחילים עם חיוך.",
+      "transliteration": "Boker tov, mitkhilִim im khiyukh.",
+      "category": "Greetings",
+      "generated_at": "2026-11-20T01:43:32.944010"
+    },
+    {
+      "english": "Welcome, take a deep breath, and go.",
+      "hebrew": "ברוך הבא, תנשום נשימה עמוקה ותתקדם.",
+      "transliteration": "Barukh haba, tineshom neshima amuqa vetitkadem.",
+      "category": "Greetings",
+      "generated_at": "2026-11-20T01:43:32.944011"
+    },
+    {
+      "english": "Hey, glad you made it here.",
+      "hebrew": "היי, שמח שהגעת הנה.",
+      "transliteration": "Hei, sameakh she-higaat la-kan.",
+      "category": "Greetings",
+      "generated_at": "2026-11-20T01:43:32.944013"
     }
   ],
-  "last_updated": "2026-11-19T23:28:14.729878"
+  "last_updated": "2026-11-20T01:43:32.944015"
 }
