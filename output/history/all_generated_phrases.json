@@ -27299,7 +27299,42 @@
       "transliteration": "ten layom lhitpatēach bekets sheló",
       "category": "Patience",
       "generated_at": "2026-11-21T18:45:14.360854"
+    },
+    {
+      "english": "Please update your app today.",
+      "hebrew": "בבקשה עדכן את האפליקציה היום.",
+      "transliteration": "Bevakasha edechen et ha-aplikatsia hayom.",
+      "category": "Technology",
+      "generated_at": "2026-11-21T20:18:54.485351"
+    },
+    {
+      "english": "My WiFi keeps dropping, help!",
+      "hebrew": "הווייפיי שלי כל הזמן נופל, תעזרו!",
+      "transliteration": "Ha-вайפיי sheli kol zman nofel, te'ezru!",
+      "category": "Technology",
+      "generated_at": "2026-11-21T20:18:54.485368"
+    },
+    {
+      "english": "I forgot my password again, sorry.",
+      "hebrew": "שכחתי שוב את הסיסמה, סליחה.",
+      "transliteration": "Shakachti shuv et ha-sisma, slicha.",
+      "category": "Technology",
+      "generated_at": "2026-11-21T20:18:54.485370"
+    },
+    {
+      "english": "Can you reset the router, please?",
+      "hebrew": "אפשר לאפס את הנתב, בבקשה?",
+      "transliteration": "Efshar le'efes et ha-netav, bevakasha?",
+      "category": "Technology",
+      "generated_at": "2026-11-21T20:18:54.485372"
+    },
+    {
+      "english": "The download is stuck, try again.",
+      "hebrew": "ההורדה תקועה, נסה שוב.",
+      "transliteration": "Ha-horadá teku'ah, naseh shuv.",
+      "category": "Technology",
+      "generated_at": "2026-11-21T20:18:54.485374"
     }
   ],
-  "last_updated": "2026-11-21T18:45:14.360856"
+  "last_updated": "2026-11-21T20:18:54.485376"
 }
