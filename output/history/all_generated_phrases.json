@@ -27439,7 +27439,42 @@
       "transliteration": "Efshar le-reot et ha-tifrit bevakasha?",
       "category": "Restaurant",
       "generated_at": "2026-11-22T05:52:19.585353"
+    },
+    {
+      "english": "At noon, we’ll meet by the station.",
+      "hebrew": "בצהריים, ניפגש ליד התחנה.",
+      "transliteration": "B'tzohorayim, nיפגש leyad ha-tachana.",
+      "category": "Time",
+      "generated_at": "2026-11-22T19:06:25.370884"
+    },
+    {
+      "english": "In the morning, call me if free.",
+      "hebrew": "בבוקר, תתקשר אליי אם אפשר.",
+      "transliteration": "Bavoker, taktirzer elai im efshar.",
+      "category": "Time",
+      "generated_at": "2026-11-22T19:06:25.370899"
+    },
+    {
+      "english": "This evening, let’s walk together outside.",
+      "hebrew": "הערב, נלך יחד בחוץ.",
+      "transliteration": "Ha-erev, nelech yachad ba-chutz.",
+      "category": "Time",
+      "generated_at": "2026-11-22T19:06:25.370901"
+    },
+    {
+      "english": "After lunch, we’ll go to the park.",
+      "hebrew": "אחרי הצהריים, נלך לפארק.",
+      "transliteration": "Acharei ha-tzohorayim, nelech la-park.",
+      "category": "Time",
+      "generated_at": "2026-11-22T19:06:25.370902"
+    },
+    {
+      "english": "Wait two minutes, I’ll be there.",
+      "hebrew": "עוד שתי דקות, אני כבר מגיע.",
+      "transliteration": "Od shtayim dakot, ani kvar magi'a.",
+      "category": "Time",
+      "generated_at": "2026-11-22T19:06:25.370903"
     }
   ],
-  "last_updated": "2026-11-22T05:52:19.585355"
+  "last_updated": "2026-11-22T19:06:25.370905"
 }
