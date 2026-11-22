@@ -27474,7 +27474,42 @@
       "transliteration": "Od shtayim dakot, ani kvar magi'a.",
       "category": "Time",
       "generated_at": "2026-11-22T19:06:25.370903"
+    },
+    {
+      "english": "Nice to meet you, really.",
+      "hebrew": "נעים מאוד להכיר אותך.",
+      "transliteration": "Na'im me'od lehakir otcha.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-22T20:31:43.971957"
+    },
+    {
+      "english": "Where is the nearest bus stop?",
+      "hebrew": "איפה תחנת האוטובוס הקרובה ביותר?",
+      "transliteration": "Eifo tachanat ha'otobus ha'krovah beyoter?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-22T20:31:43.971985"
+    },
+    {
+      "english": "Can you help me, please?",
+      "hebrew": "אתה יכול לעזור לי, בבקשה?",
+      "transliteration": "Ata yachol la'azor li, bevakasha?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-22T20:31:43.971988"
+    },
+    {
+      "english": "I don’t understand, sorry.",
+      "hebrew": "אני לא מבין, סליחה.",
+      "transliteration": "Ani lo mevin, selicha.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-22T20:31:43.971990"
+    },
+    {
+      "english": "Do you speak English?",
+      "hebrew": "אתה מדבר אנגלית?",
+      "transliteration": "Ata medaber anglit?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-22T20:31:43.971992"
     }
   ],
-  "last_updated": "2026-11-22T19:06:25.370905"
+  "last_updated": "2026-11-22T20:31:43.971995"
 }
