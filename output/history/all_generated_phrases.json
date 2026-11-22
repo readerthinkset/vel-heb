@@ -27509,7 +27509,42 @@
       "transliteration": "Ata medaber anglit?",
       "category": "Basic Phrases",
       "generated_at": "2026-11-22T20:31:43.971992"
+    },
+    {
+      "english": "Thank you for your help today, truly.",
+      "hebrew": "תודה שעזרת לי היום, באמת.",
+      "transliteration": "Toda she'ezarta li hayom, be'emet.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T22:24:18.498071"
+    },
+    {
+      "english": "I really appreciate what you did for me.",
+      "hebrew": "אני באמת מעריך מה שעשית בשבילי.",
+      "transliteration": "Ani be'emet me'arech me ha she'asita bishvili.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T22:24:18.498091"
+    },
+    {
+      "english": "Thanks for being patient with me.",
+      "hebrew": "תודה שהיית סבלני איתי.",
+      "transliteration": "Toda shehayita savlan iiti.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T22:24:18.498094"
+    },
+    {
+      "english": "Your support means everything to me.",
+      "hebrew": "העזרה שלך אומרת לי הכול.",
+      "transliteration": "Ha'ezra shelcha omeret li hakol.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T22:24:18.498096"
+    },
+    {
+      "english": "Thank you, I feel calmer now.",
+      "hebrew": "תודה, אני מרגיש רגוע יותר עכשיו.",
+      "transliteration": "Toda, ani margish ragu'a yoter achshav.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T22:24:18.498097"
     }
   ],
-  "last_updated": "2026-11-22T20:31:43.971995"
+  "last_updated": "2026-11-22T22:24:18.498099"
 }
