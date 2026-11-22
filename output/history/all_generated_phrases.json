@@ -27404,7 +27404,42 @@
       "transliteration": "Ani mitkale'ach, cham u-mehir.",
       "category": "Daily Routine",
       "generated_at": "2026-11-22T00:11:59.230972"
+    },
+    {
+      "english": "Hi, could we get a table?",
+      "hebrew": "היי, אפשר לקבל שולחן בבקשה?",
+      "transliteration": "Hai, efshar lekabel shulchan bevakasha?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-22T05:52:19.585332"
+    },
+    {
+      "english": "Do you have vegetarian options tonight?",
+      "hebrew": "יש לכם אופציות צמחוניות הערב?",
+      "transliteration": "Yesh lachem optziot tzaamkhoniot ha-erev?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-22T05:52:19.585348"
+    },
+    {
+      "english": "I’d like to order, please.",
+      "hebrew": "אני רוצה להזמין, בבקשה.",
+      "transliteration": "Ani rotzeh lehazmin, bevakasha.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-22T05:52:19.585350"
+    },
+    {
+      "english": "What do you recommend for starters?",
+      "hebrew": "מה אתם ממליצים להתחלה?",
+      "transliteration": "Ma atem memlitzim lehatkhala?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-22T05:52:19.585351"
+    },
+    {
+      "english": "Can we see the menu, please?",
+      "hebrew": "אפשר לראות את התפריט בבקשה?",
+      "transliteration": "Efshar le-reot et ha-tifrit bevakasha?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-22T05:52:19.585353"
     }
   ],
-  "last_updated": "2026-11-22T00:11:59.230977"
+  "last_updated": "2026-11-22T05:52:19.585355"
 }
