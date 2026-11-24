@@ -27824,7 +27824,42 @@
       "transliteration": "einayim lemala, al te'avdu shlita.",
       "category": "Sports",
       "generated_at": "2026-11-24T21:57:41.530675"
+    },
+    {
+      "english": "Help, I think someone is choking.",
+      "hebrew": "עזרה, אני חושב שמישהו נחנק.",
+      "transliteration": "Ezra, ani choshev she-mishehu nchank.",
+      "category": "Emergency",
+      "generated_at": "2026-11-24T23:19:54.824329"
+    },
+    {
+      "english": "Please call the police, right now.",
+      "hebrew": "בבקשה, תתקשרו למשטרה עכשיו.",
+      "transliteration": "Bevakasha, titekseru le-mishטרה akhshav.",
+      "category": "Emergency",
+      "generated_at": "2026-11-24T23:19:54.824345"
+    },
+    {
+      "english": "There is a break-in, help!",
+      "hebrew": "יש פריצה, תעזרו לי!",
+      "transliteration": "Yesh pratzi'a, te'azru li!",
+      "category": "Emergency",
+      "generated_at": "2026-11-24T23:19:54.824348"
+    },
+    {
+      "english": "Someone stole my wallet, please help.",
+      "hebrew": "גנבו לי את הארנק, תעזרו.",
+      "transliteration": "Gnevu li et ha-aronk, te'azru.",
+      "category": "Emergency",
+      "generated_at": "2026-11-24T23:19:54.824350"
+    },
+    {
+      "english": "I can’t move my leg, please.",
+      "hebrew": "אני לא יכול להזיז את הרגל שלי.",
+      "transliteration": "Ani lo yakhol lehaziz et ha-regel sheli.",
+      "category": "Emergency",
+      "generated_at": "2026-11-24T23:19:54.824352"
     }
   ],
-  "last_updated": "2026-11-24T21:57:41.530677"
+  "last_updated": "2026-11-24T23:19:54.824354"
 }
