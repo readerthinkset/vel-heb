@@ -27719,7 +27719,42 @@
       "transliteration": "ten hatikvah ledaber eilekha besheket.",
       "category": "Hope",
       "generated_at": "2026-11-24T03:42:02.001509"
+    },
+    {
+      "english": "How much does this cost?",
+      "hebrew": "כמה זה עולה?",
+      "transliteration": "kama ze ole?",
+      "category": "Shopping",
+      "generated_at": "2026-11-24T04:41:49.617741"
+    },
+    {
+      "english": "What sizes do you have?",
+      "hebrew": "אילו מידות יש לכם?",
+      "transliteration": "elu midot yesh lachem?",
+      "category": "Shopping",
+      "generated_at": "2026-11-24T04:41:49.617756"
+    },
+    {
+      "english": "Do you have it in blue?",
+      "hebrew": "יש לכם את זה בכחול?",
+      "transliteration": "yesh lachem et ze bakchol?",
+      "category": "Shopping",
+      "generated_at": "2026-11-24T04:41:49.617758"
+    },
+    {
+      "english": "Can I try it on now?",
+      "hebrew": "אפשר למדוד עכשיו?",
+      "transliteration": "efshar lemoded echshav?",
+      "category": "Shopping",
+      "generated_at": "2026-11-24T04:41:49.617759"
+    },
+    {
+      "english": "Is there a sale today?",
+      "hebrew": "יש מבצע היום?",
+      "transliteration": "yesh mivtsa hayom?",
+      "category": "Shopping",
+      "generated_at": "2026-11-24T04:41:49.617760"
     }
   ],
-  "last_updated": "2026-11-24T03:42:02.001510"
+  "last_updated": "2026-11-24T04:41:49.617764"
 }
