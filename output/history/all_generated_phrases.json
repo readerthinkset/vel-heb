@@ -27649,7 +27649,42 @@
       "transliteration": "kshe-ta'chuu, atem lomdim",
       "category": "Wisdom",
       "generated_at": "2026-11-23T23:26:13.228140"
+    },
+    {
+      "english": "I need a taxi to the hotel.",
+      "hebrew": "אני צריך מונית למלון.",
+      "transliteration": "ani tsarich monit l'malon.",
+      "category": "Travel",
+      "generated_at": "2026-11-24T01:22:23.710902"
+    },
+    {
+      "english": "Is there a supermarket nearby, today?",
+      "hebrew": "יש סופרמרקט קרוב, היום?",
+      "transliteration": "yes supermarket karov, hayom?",
+      "category": "Travel",
+      "generated_at": "2026-11-24T01:22:23.710916"
+    },
+    {
+      "english": "Do you accept credit cards here?",
+      "hebrew": "אתם מקבלים כרטיסי אשראי כאן?",
+      "transliteration": "atem mekablim kartisei ashray kan?",
+      "category": "Travel",
+      "generated_at": "2026-11-24T01:22:23.710917"
+    },
+    {
+      "english": "Could you help me with directions?",
+      "hebrew": "אפשר שתעזור לי עם הכוונה?",
+      "transliteration": "efshar sheta'azor li im hakavannah?",
+      "category": "Travel",
+      "generated_at": "2026-11-24T01:22:23.710918"
+    },
+    {
+      "english": "I’m hungry, what’s good nearby?",
+      "hebrew": "אני רעב, מה טעים כאן?",
+      "transliteration": "ani ra'ev, mah te'im kan?",
+      "category": "Travel",
+      "generated_at": "2026-11-24T01:22:23.710920"
     }
   ],
-  "last_updated": "2026-11-23T23:26:13.228141"
+  "last_updated": "2026-11-24T01:22:23.710922"
 }
