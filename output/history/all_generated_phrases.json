@@ -27964,7 +27964,42 @@
       "transliteration": "bo natchil, na'im ve-kal.",
       "category": "Greetings",
       "generated_at": "2026-11-25T07:44:09.093366"
+    },
+    {
+      "english": "I’ll follow up with you shortly.",
+      "hebrew": "אעדכן אותך בקרוב.",
+      "transliteration": "ah-ad-ken otkha be-karov",
+      "category": "Work",
+      "generated_at": "2026-11-25T21:07:24.812662"
+    },
+    {
+      "english": "Please check the attachments when you can.",
+      "hebrew": "אנא בדוק את הקבצים המצורפים.",
+      "transliteration": "a-na bedok et ha-kvat-sim ha-me-tzu-rfim",
+      "category": "Work",
+      "generated_at": "2026-11-25T21:07:24.812677"
+    },
+    {
+      "english": "Could you confirm receipt of this email?",
+      "hebrew": "אפשר לאשר שקיבלת את המייל הזה?",
+      "transliteration": "ef-shar le-a-sher she-ki-balt et ha-mail ha-zeh",
+      "category": "Work",
+      "generated_at": "2026-11-25T21:07:24.812679"
+    },
+    {
+      "english": "Let’s finalize the details today.",
+      "hebrew": "נסגור את הפרטים היום.",
+      "transliteration": "na-sgor et ha-pa-rat-tim ha-yom",
+      "category": "Work",
+      "generated_at": "2026-11-25T21:07:24.812680"
+    },
+    {
+      "english": "We need to prioritize the urgent items.",
+      "hebrew": "צריך לתת עדיפות לפריטים הדחופים.",
+      "transliteration": "tza-rikh la-ten a-dif-ut la-pa-ra-tim ha-d-cha-u-fim",
+      "category": "Work",
+      "generated_at": "2026-11-25T21:07:24.812681"
     }
   ],
-  "last_updated": "2026-11-25T07:44:09.093368"
+  "last_updated": "2026-11-25T21:07:24.812685"
 }
