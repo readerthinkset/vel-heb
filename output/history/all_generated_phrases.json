@@ -27859,7 +27859,42 @@
       "transliteration": "Ani lo yakhol lehaziz et ha-regel sheli.",
       "category": "Emergency",
       "generated_at": "2026-11-24T23:19:54.824352"
+    },
+    {
+      "english": "I feel safe, right in this moment.",
+      "hebrew": "אני מרגיש בטוח, ממש ברגע הזה.",
+      "transliteration": "ani margish betuach, mimash berrega hazeh",
+      "category": "Feelings",
+      "generated_at": "2026-11-25T01:19:25.212805"
+    },
+    {
+      "english": "I’m anxious, but I’ll get through.",
+      "hebrew": "אני חרד, אבל אני אצליח.",
+      "transliteration": "ani charad, aval ani etslich",
+      "category": "Feelings",
+      "generated_at": "2026-11-25T01:19:25.212819"
+    },
+    {
+      "english": "Hope is growing, slowly inside me.",
+      "hebrew": "התקווה גדלה לאט בתוך הלב שלי.",
+      "transliteration": "hativa go dèlah et til pa nim bel ev shel i",
+      "category": "Feelings",
+      "generated_at": "2026-11-25T01:19:25.212821"
+    },
+    {
+      "english": "I’m restless, like I can’t sit still.",
+      "hebrew": "אני חסר מנוחה, כאילו איני יכול לשבת.",
+      "transliteration": "ani chasser menucha, ke'ilu eini yachol leyshev",
+      "category": "Feelings",
+      "generated_at": "2026-11-25T01:19:25.212824"
+    },
+    {
+      "english": "I feel embarrassed, but I’m okay.",
+      "hebrew": "אני מרגיש מובך, אבל זה בסדר.",
+      "transliteration": "ani margish muvach, aval ze beseder",
+      "category": "Feelings",
+      "generated_at": "2026-11-25T01:19:25.212826"
     }
   ],
-  "last_updated": "2026-11-24T23:19:54.824354"
+  "last_updated": "2026-11-25T01:19:25.212828"
 }
