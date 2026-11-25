@@ -27894,7 +27894,42 @@
       "transliteration": "ani margish muvach, aval ze beseder",
       "category": "Feelings",
       "generated_at": "2026-11-25T01:19:25.212826"
+    },
+    {
+      "english": "The clouds thicken, darkening the whole street.",
+      "hebrew": "העננים מתחזקים, מחשיכים את כל הרחוב.",
+      "transliteration": "Ha'anan i mitchazkim, me'chaschim et kol ha-rechov.",
+      "category": "Weather",
+      "generated_at": "2026-11-25T03:27:52.328714"
+    },
+    {
+      "english": "The sun comes out, and I smile.",
+      "hebrew": "השמש יוצאת, ואני מחייך.",
+      "transliteration": "Ha-shemesh yotzet, ve-ani mechekh.",
+      "category": "Weather",
+      "generated_at": "2026-11-25T03:27:52.328734"
+    },
+    {
+      "english": "A light mist hangs in the air.",
+      "hebrew": "ערפל קל תלוי באוויר.",
+      "transliteration": "Arpe l kal talui ba-avir.",
+      "category": "Weather",
+      "generated_at": "2026-11-25T03:27:52.328736"
+    },
+    {
+      "english": "The rain stops, for a short moment.",
+      "hebrew": "הגשם מפסיק, לרגע קצר.",
+      "transliteration": "Ha-geshem mefsik, le-reg a k a tzar.",
+      "category": "Weather",
+      "generated_at": "2026-11-25T03:27:52.328737"
+    },
+    {
+      "english": "Thunder rolls in the distance, then louder.",
+      "hebrew": "רעם מתגלגל מרחוק, ואז חזק יותר.",
+      "transliteration": "Ra'am mitgale g el merachok, ve-az chazak yoter.",
+      "category": "Weather",
+      "generated_at": "2026-11-25T03:27:52.328739"
     }
   ],
-  "last_updated": "2026-11-25T01:19:25.212828"
+  "last_updated": "2026-11-25T03:27:52.328741"
 }
