@@ -27929,7 +27929,42 @@
       "transliteration": "Ra'am mitgale g el merachok, ve-az chazak yoter.",
       "category": "Weather",
       "generated_at": "2026-11-25T03:27:52.328739"
+    },
+    {
+      "english": "Hello! Ready for a quick Hebrew practice?",
+      "hebrew": "שלום! מוכנים לתרגול קצר בעברית?",
+      "transliteration": "shalom! mukhanim le'tirgul katsa be'ivrit?",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T07:44:09.093349"
+    },
+    {
+      "english": "Welcome! Let's learn something new today.",
+      "hebrew": "ברוך הבא! בואו נלמד משהו חדש היום.",
+      "transliteration": "barukh ha-ba! bo'u nilmad meshehu hadash hayom.",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T07:44:09.093361"
+    },
+    {
+      "english": "Good to see you again, friend.",
+      "hebrew": "שמח לראות אותך שוב, חבר.",
+      "transliteration": "sameakh lirot otkha shuv, haver.",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T07:44:09.093363"
+    },
+    {
+      "english": "Hi! Take it slow, you’re doing great.",
+      "hebrew": "היי! קח את זה לאט, אתה מצליח.",
+      "transliteration": "hay! kach et zeh la'at, ata mitsliach.",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T07:44:09.093364"
+    },
+    {
+      "english": "Let’s start, nice and easy.",
+      "hebrew": "בוא נתחיל, נעים וקל.",
+      "transliteration": "bo natchil, na'im ve-kal.",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T07:44:09.093366"
     }
   ],
-  "last_updated": "2026-11-25T03:27:52.328741"
+  "last_updated": "2026-11-25T07:44:09.093368"
 }
