@@ -28034,7 +28034,42 @@
       "transliteration": "hayom tagid shalom le'mishehu be'ivrit",
       "category": "Growth",
       "generated_at": "2026-11-25T22:52:38.746817"
+    },
+    {
+      "english": "Read the word again, carefully.",
+      "hebrew": "קרא את המילה שוב, בזהירות.",
+      "transliteration": "qera et ha-milah shuv, bezehirut.",
+      "category": "Education",
+      "generated_at": "2026-11-26T00:56:08.163351"
+    },
+    {
+      "english": "Try saying it out loud.",
+      "hebrew": "תגיד את זה בקול רם.",
+      "transliteration": "tagid et ze beqol ram.",
+      "category": "Education",
+      "generated_at": "2026-11-26T00:56:08.163363"
+    },
+    {
+      "english": "Match the sound to the letter.",
+      "hebrew": "התאם את הצליל לאות.",
+      "transliteration": "hiteim et ha-tzeyl le-ot.",
+      "category": "Education",
+      "generated_at": "2026-11-26T00:56:08.163365"
+    },
+    {
+      "english": "Pause here, then continue.",
+      "hebrew": "תעצור כאן, ואז תמשיך.",
+      "transliteration": "te'atsor kan, ve-az tameish.",
+      "category": "Education",
+      "generated_at": "2026-11-26T00:56:08.163367"
+    },
+    {
+      "english": "Make a short sentence now.",
+      "hebrew": "תבנה משפט קצר עכשיו.",
+      "transliteration": "tivneh mispat qatsar akhshav.",
+      "category": "Education",
+      "generated_at": "2026-11-26T00:56:08.163368"
     }
   ],
-  "last_updated": "2026-11-25T22:52:38.746819"
+  "last_updated": "2026-11-26T00:56:08.163370"
 }
