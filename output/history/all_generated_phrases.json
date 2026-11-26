@@ -28104,7 +28104,42 @@
       "transliteration": "Ani ga’ah lihyot itach.",
       "category": "Relationships",
       "generated_at": "2026-11-26T02:43:23.058426"
+    },
+    {
+      "english": "Learn Hebrew, one everyday moment at a time.",
+      "hebrew": "למדו עברית, רגע-רגע בחיי היום-יום.",
+      "transliteration": "lmedu ivrit, rega-rega ba-yom ha-yom.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T07:36:55.258006"
+    },
+    {
+      "english": "Say hello first, then keep going.",
+      "hebrew": "תגידו שלום קודם, ואז ממשיכים.",
+      "transliteration": "tagidu shalom kodem, ve-az mamshichim.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T07:36:55.258024"
+    },
+    {
+      "english": "Slow down, and breathe between words.",
+      "hebrew": "תאטו קצת, תנשמו בין המילים.",
+      "transliteration": "ta'atu ktsat, tenishmu bein ha-milim.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T07:36:55.258026"
+    },
+    {
+      "english": "Use simple phrases, they work everywhere.",
+      "hebrew": "תשתמשו במשפטים פשוטים, זה עובד בכל מקום.",
+      "transliteration": "teshtameshu be-mishtaim pshotim, ze oved bechol makom.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T07:36:55.258028"
+    },
+    {
+      "english": "Ask for help, it’s okay.",
+      "hebrew": "תבקשו עזרה, זה בסדר.",
+      "transliteration": "tivkešu ezra, ze beseder.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T07:36:55.258029"
     }
   ],
-  "last_updated": "2026-11-26T02:43:23.058429"
+  "last_updated": "2026-11-26T07:36:55.258031"
 }
