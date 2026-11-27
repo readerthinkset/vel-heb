@@ -2,7 +2,7 @@ name: Velocity Hebrew - Storybook Publish
 
 on:
   schedule:
-    - cron: '0 10 * * *'
+    - cron: '15:10 * * *'
   workflow_dispatch:
     inputs:
       category:
