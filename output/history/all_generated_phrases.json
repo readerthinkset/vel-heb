@@ -28230,7 +28230,28 @@
       "transliteration": "Hamoode sheli mitaremem, veani mechayekh.",
       "category": "Joy",
       "generated_at": "2026-11-27T11:58:36.186301"
+    },
+    {
+      "english": "Good morning, everyone, let's start.",
+      "hebrew": "בוקר טוב לכולם, מתחילים.",
+      "transliteration": "Boker tov lkulam, mat'hilim.",
+      "category": "School",
+      "generated_at": "2026-11-27T19:21:02.868148"
+    },
+    {
+      "english": "Please, open your book and turn pages.",
+      "hebrew": "בבקשה, פתחו את הספר ותדלגו.",
+      "transliteration": "Bevakasha, p'tchu et ha-sefer u-tid'glu.",
+      "category": "School",
+      "generated_at": "2026-11-27T19:21:02.868161"
+    },
+    {
+      "english": "Who knows the answer to this?",
+      "hebrew": "מי יודע את התשובה לזה?",
+      "transliteration": "Mi yode'a et ha-tshuvah laze?",
+      "category": "School",
+      "generated_at": "2026-11-27T19:21:02.868163"
     }
   ],
-  "last_updated": "2026-11-27T11:58:36.186303"
+  "last_updated": "2026-11-27T19:21:02.868165"
 }
