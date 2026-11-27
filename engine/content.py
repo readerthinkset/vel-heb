@@ -306,6 +306,11 @@ Rules:
 7. Vary the sentence patterns and emotions. No duplicates.
 8. Phrases must feel like real everyday language, not textbook filler.
 9. The English must be idiomatic and complete. Avoid filler endings and literal word-for-word translations.
+10. Write the way a native Hebrew speaker would say it in a casual conversation. Translate the meaning, never the English words.
+11. If the English is an idiom or polite formula, use the natural Hebrew set phrase. Example: "My apologies, I was wrong" -> "סליחה, טעיתי".
+12. Prefer common spoken patterns and set phrases. Avoid stiff possessives, textbook wording, and literal translations.
+13. Use natural spoken Hebrew and match gender forms naturally.
+
 
 Return ONLY a JSON array:
 [{{"english": "...", "native": "...", "transliteration": "..."}}]"""
@@ -319,7 +324,7 @@ Return ONLY a JSON array:
         json={
             "model": model or config.AI_MODEL,
             "messages": [
-                {"role": "system", "content": f"You are a {LANGUAGE_NAME} teacher creating short, natural, varied bilingual phrases. Reply with JSON only."},
+                {"role": "system", "content": f"You are a native {LANGUAGE_NAME} speaker and teacher. Every phrase must sound natural to a native speaker. Reply with JSON only."},
                 {"role": "user", "content": prompt},
             ],
             "temperature": min(0.95 + attempt * 0.02, 1.0),
