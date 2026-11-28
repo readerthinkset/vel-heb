@@ -28251,7 +28251,28 @@
       "transliteration": "Mi yode'a et ha-tshuvah laze?",
       "category": "School",
       "generated_at": "2026-11-27T19:21:02.868163"
+    },
+    {
+      "english": "I need more storage on my phone",
+      "hebrew": "אני צריך יותר מקום באחסון בטלפון",
+      "transliteration": "Ani tsarich yoter makom be'achson ba-telefon",
+      "category": "Technology",
+      "generated_at": "2026-11-28T00:51:07.505189"
+    },
+    {
+      "english": "Can you help me pair the device",
+      "hebrew": "אתה יכול לעזור לי לחבר את המכשיר",
+      "transliteration": "Ata yachol leezor li lechaber et ha-maksheer",
+      "category": "Technology",
+      "generated_at": "2026-11-28T00:51:07.505206"
+    },
+    {
+      "english": "The app keeps crashing, it's annoying",
+      "hebrew": "האפליקציה קורסת כל הזמן, מעצבן",
+      "transliteration": "Ha-aplikatsya koraset kol zman, messaven",
+      "category": "Technology",
+      "generated_at": "2026-11-28T00:51:07.505207"
     }
   ],
-  "last_updated": "2026-11-27T19:21:02.868165"
+  "last_updated": "2026-11-28T00:51:07.505209"
 }
